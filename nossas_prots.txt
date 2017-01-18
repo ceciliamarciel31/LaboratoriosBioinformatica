@@ -1,0 +1,90 @@
+
+ACON_LEGPH              Reviewed;         891 AA.
+
+RecName: Full=Aconitate hydratase A {ECO:0000303|PubMed:8366052}; Short=ACN {ECO:0000303|PubMed:8366052}; Short=Aconitase {ECO:0000303|PubMed:8366052}; EC=4.2.1.3 {ECO:0000250|UniProtKB:Q8ZP52}; AltName: Full=(2R,3S)-2-methylisocitrate dehydratase {ECO:0000250|UniProtKB:Q8ZP52}; AltName: Full=(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate dehydratase {ECO:0000250|UniProtKB:Q8ZP52}; AltName: Full=IP210 {ECO:0000303|PubMed:8366052}; AltName: Full=Iron-responsive protein-like {ECO:0000305|PubMed:8366052}; Short=IRP-like {ECO:0000305|PubMed:8366052}; AltName: Full=Major iron-containing protein {ECO:0000303|PubMed:8366052}; Short=MICP {ECO:0000303|PubMed:8366052}; AltName: Full=Probable 2-methyl-cis-aconitate hydratase {ECO:0000250|UniProtKB:Q8ZP52}; EC=4.2.1.99 {ECO:0000250|UniProtKB:Q8ZP52}; AltName: Full=RNA-binding protein {ECO:0000305|PubMed:8366052};
+
+PYRD_LEGPH              Reviewed;         333 AA.
+
+RecName: Full=Dihydroorotate dehydrogenase (quinone) {ECO:0000255|HAMAP-Rule:MF_00225}; EC=1.3.5.2 {ECO:0000255|HAMAP-Rule:MF_00225}; AltName: Full=DHOdehase {ECO:0000255|HAMAP-Rule:MF_00225}; Short=DHOD {ECO:0000255|HAMAP-Rule:MF_00225}; Short=DHODase {ECO:0000255|HAMAP-Rule:MF_00225}; AltName: Full=Dihydroorotate oxidase {ECO:0000255|HAMAP-Rule:MF_00225};
+
+GLND_LEGPH              Reviewed;         861 AA.
+
+RecName: Full=Bifunctional uridylyltransferase/uridylyl-removing enzyme {ECO:0000255|HAMAP-Rule:MF_00277}; Short=UTase/UR {ECO:0000255|HAMAP-Rule:MF_00277}; AltName: Full=Bifunctional [protein-PII] modification enzyme {ECO:0000255|HAMAP-Rule:MF_00277}; AltName: Full=Bifunctional nitrogen sensor protein {ECO:0000255|HAMAP-Rule:MF_00277}; Includes: RecName: Full=[Protein-PII] uridylyltransferase {ECO:0000255|HAMAP-Rule:MF_00277}; Short=PII uridylyltransferase {ECO:0000255|HAMAP-Rule:MF_00277}; Short=UTase {ECO:0000255|HAMAP-Rule:MF_00277}; EC=2.7.7.59 {ECO:0000255|HAMAP-Rule:MF_00277}; Includes: RecName: Full=[Protein-PII]-UMP uridylyl-removing enzyme {ECO:0000255|HAMAP-Rule:MF_00277}; Short=UR {ECO:0000255|HAMAP-Rule:MF_00277}; EC=3.1.4.- {ECO:0000255|HAMAP-Rule:MF_00277};
+
+Y1691_LEGPH             Reviewed;         464 AA.
+
+RecName: Full=Uncharacterized transporter lpg1691;
+
+Q5ZUW4_LEGPH            Unreviewed;       780 AA.
+
+RecName: Full=Phosphoribosylformylglycinamidine synthase subunit PurL {ECO:0000256|HAMAP-Rule:MF_00420}; Short=FGAM synthase {ECO:0000256|HAMAP-Rule:MF_00420}; EC=6.3.5.3 {ECO:0000256|HAMAP-Rule:MF_00420}; AltName: Full=Formylglycinamide ribonucleotide amidotransferase subunit II {ECO:0000256|HAMAP-Rule:MF_00420}; AltName: Full=Glutamine amidotransferase PurL {ECO:0000256|HAMAP-Rule:MF_00420}; AltName: Full=Phosphoribosylformylglycinamidine synthase subunit II {ECO:0000256|HAMAP-Rule:MF_00420};
+
+Q5ZUR9_LEGPH            Unreviewed;       490 AA.
+
+RecName: Full=Inosine-5'-monophosphate dehydrogenase {ECO:0000256|HAMAP-Rule:MF_01964, ECO:0000256|RuleBase:RU003928}; Short=IMP dehydrogenase {ECO:0000256|HAMAP-Rule:MF_01964}; Short=IMPD {ECO:0000256|HAMAP-Rule:MF_01964}; Short=IMPDH {ECO:0000256|HAMAP-Rule:MF_01964}; EC=1.1.1.205 {ECO:0000256|HAMAP-Rule:MF_01964, ECO:0000256|RuleBase:RU003928};
+
+Q5ZUP0_LEGPH            Unreviewed;       455 AA.
+
+RecName: Full=UDP-N-acetylmuramate--L-alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptandioate ligase {ECO:0000256|HAMAP-Rule:MF_02020}; EC=6.3.2.45 {ECO:0000256|HAMAP-Rule:MF_02020}; AltName: Full=Murein peptide ligase {ECO:0000256|HAMAP-Rule:MF_02020}; AltName: Full=UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase {ECO:0000256|HAMAP-Rule:MF_02020};
+
+Q5ZUW8_LEGPH            Unreviewed;       499 AA.
+
+RecName: Full=Amidophosphoribosyltransferase {ECO:0000256|HAMAP-Rule:MF_01931, ECO:0000256|PIRNR:PIRNR000485}; Short=ATase {ECO:0000256|HAMAP-Rule:MF_01931, ECO:0000256|PIRNR:PIRNR000485}; EC=2.4.2.14 {ECO:0000256|HAMAP-Rule:MF_01931, ECO:0000256|PIRNR:PIRNR000485}; AltName: Full=Glutamine phosphoribosylpyrophosphate amidotransferase {ECO:0000256|HAMAP-Rule:MF_01931, ECO:0000256|PIRNR:PIRNR000485};
+
+PYRH_LEGPH              Reviewed;         247 AA.
+
+RecName: Full=Uridylate kinase {ECO:0000255|HAMAP-Rule:MF_01220}; Short=UK {ECO:0000255|HAMAP-Rule:MF_01220}; EC=2.7.4.22 {ECO:0000255|HAMAP-Rule:MF_01220}; AltName: Full=Uridine monophosphate kinase {ECO:0000255|HAMAP-Rule:MF_01220}; Short=UMP kinase {ECO:0000255|HAMAP-Rule:MF_01220}; Short=UMPK {ECO:0000255|HAMAP-Rule:MF_01220};
+
+GUAA_LEGPH              Reviewed;         525 AA.
+
+RecName: Full=GMP synthase [glutamine-hydrolyzing] {ECO:0000255|HAMAP-Rule:MF_00344}; EC=6.3.5.2 {ECO:0000255|HAMAP-Rule:MF_00344}; AltName: Full=GMP synthetase {ECO:0000255|HAMAP-Rule:MF_00344}; AltName: Full=Glutamine amidotransferase {ECO:0000255|HAMAP-Rule:MF_00344};
+
+Q5ZUW9_LEGPH            Unreviewed;       439 AA.
+
+RecName: Full=Phosphoribosylamine--glycine ligase {ECO:0000256|HAMAP-Rule:MF_00138}; EC=6.3.4.13 {ECO:0000256|HAMAP-Rule:MF_00138}; AltName: Full=GARS {ECO:0000256|HAMAP-Rule:MF_00138}; AltName: Full=Glycinamide ribonucleotide synthetase {ECO:0000256|HAMAP-Rule:MF_00138}; AltName: Full=Phosphoribosylglycinamide synthetase {ECO:0000256|HAMAP-Rule:MF_00138};
+
+Q5ZUL8_LEGPH            Unreviewed;       381 AA.
+
+RecName: Full=Ribonucleoside-diphosphate reductase subunit beta {ECO:0000256|PIRNR:PIRNR000355}; EC=1.17.4.1 {ECO:0000256|PIRNR:PIRNR000355};
+
+Q5ZUU6_LEGPH            Unreviewed;      1054 AA.
+
+RecName: Full=Bifunctional protein PutA {ECO:0000256|PIRNR:PIRNR000197};
+
+Q5ZUX0_LEGPH            Unreviewed;       192 AA.
+
+RecName: Full=Phosphoribosylglycinamide formyltransferase {ECO:0000256|HAMAP-Rule:MF_01930}; EC=2.1.2.2 {ECO:0000256|HAMAP-Rule:MF_01930}; AltName: Full=5'-phosphoribosylglycinamide transformylase {ECO:0000256|HAMAP-Rule:MF_01930}; AltName: Full=GAR transformylase {ECO:0000256|HAMAP-Rule:MF_01930};
+
+TRUD_LEGPH              Reviewed;         338 AA.
+
+RecName: Full=tRNA pseudouridine synthase D {ECO:0000255|HAMAP-Rule:MF_01082}; EC=5.4.99.27 {ECO:0000255|HAMAP-Rule:MF_01082}; AltName: Full=tRNA pseudouridine(13) synthase {ECO:0000255|HAMAP-Rule:MF_01082}; AltName: Full=tRNA pseudouridylate synthase D {ECO:0000255|HAMAP-Rule:MF_01082}; AltName: Full=tRNA-uridine isomerase D {ECO:0000255|HAMAP-Rule:MF_01082};
+
+SYA_LEGPH               Reviewed;         860 AA.
+
+RecName: Full=Alanine--tRNA ligase {ECO:0000255|HAMAP-Rule:MF_00036}; EC=6.1.1.7 {ECO:0000255|HAMAP-Rule:MF_00036}; AltName: Full=Alanyl-tRNA synthetase {ECO:0000255|HAMAP-Rule:MF_00036}; Short=AlaRS {ECO:0000255|HAMAP-Rule:MF_00036};
+
+MSBA_LEGPH              Reviewed;         588 AA.
+
+RecName: Full=Lipid A export ATP-binding/permease protein MsbA {ECO:0000255|HAMAP-Rule:MF_01703}; EC=3.6.3.- {ECO:0000255|HAMAP-Rule:MF_01703};
+
+SYK_LEGPH               Reviewed;         496 AA.
+
+RecName: Full=Lysine--tRNA ligase {ECO:0000255|HAMAP-Rule:MF_00252}; EC=6.1.1.6 {ECO:0000255|HAMAP-Rule:MF_00252}; AltName: Full=Lysyl-tRNA synthetase {ECO:0000255|HAMAP-Rule:MF_00252}; Short=LysRS {ECO:0000255|HAMAP-Rule:MF_00252};
+
+Q5ZUL1_LEGPH            Unreviewed;       262 AA.
+
+RecName: Full=RNA polymerase sigma factor FliA {ECO:0000256|HAMAP-Rule:MF_00962}; AltName: Full=RNA polymerase sigma factor for flagellar operon {ECO:0000256|HAMAP-Rule:MF_00962}; AltName: Full=Sigma F {ECO:0000256|HAMAP-Rule:MF_00962}; AltName: Full=Sigma-28 {ECO:0000256|HAMAP-Rule:MF_00962};
+
+Q5ZUW6_LEGPH            Unreviewed;       420 AA.
+
+RecName: Full=Phosphoribosylformylglycinamidine synthase subunit PurQ {ECO:0000256|SAAS:SAAS00064601}; EC=6.3.5.3 {ECO:0000256|SAAS:SAAS00064588};
+
+Q5ZUF2_LEGPH            Unreviewed;       320 AA.
+
+RecName: Full=Glutathione synthetase {ECO:0000256|HAMAP-Rule:MF_00162}; EC=6.3.2.3 {ECO:0000256|HAMAP-Rule:MF_00162}; AltName: Full=GSH synthetase {ECO:0000256|HAMAP-Rule:MF_00162}; AltName: Full=Glutathione synthase {ECO:0000256|HAMAP-Rule:MF_00162};
+
+ASTB_LEGPH              Reviewed;         448 AA.
+
+RecName: Full=N-succinylarginine dihydrolase {ECO:0000255|HAMAP-Rule:MF_01172}; EC=3.5.3.23 {ECO:0000255|HAMAP-Rule:MF_01172};
+
+METN_LEGPH              Reviewed;         341 AA.

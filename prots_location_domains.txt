@@ -1,0 +1,1066 @@
+>P37032;
+
+RecName: Full=Aconitate hydratase A {ECO:0000303|PubMed:8366052};
+
+>Q5ZUH7;
+
+RecName: Full=Dihydroorotate dehydrogenase (quinone) {ECO:0000255|HAMAP-Rule:MF_00225};
+
+SUBCELLULAR LOCATION: Cell membrane {ECO:0000255|HAMAP-
+
+>Q5ZUS2;
+
+RecName: Full=Bifunctional uridylyltransferase/uridylyl-removing enzyme {ECO:0000255|HAMAP-Rule:MF_00277};
+
+-!- DOMAIN: Has four distinct domains: an N-terminal
+
+DOMAIN      441    570       HD. {ECO:0000255|HAMAP-Rule:MF_00277}.
+
+DOMAIN      679    760       ACT 1. {ECO:0000255|HAMAP-Rule:MF_00277}.
+
+DOMAIN      788    861       ACT 2. {ECO:0000255|HAMAP-Rule:MF_00277}.
+
+>P37034;
+
+RecName: Full=Uncharacterized transporter lpg1691;
+
+SUBCELLULAR LOCATION: Cell membrane {ECO:0000305}; Multi-pass
+
+>Q5ZUW4;
+
+RecName: Full=Phosphoribosylformylglycinamidine synthase subunit PurL {ECO:0000256|HAMAP-Rule:MF_00420};
+
+SUBCELLULAR LOCATION: Cytoplasm {ECO:0000256|HAMAP-Rule:MF_00420}.
+
+DOMAIN       88    206       AIRS. {ECO:0000259|Pfam:PF00586}.
+
+DOMAIN      226    361       AIRS_C. {ECO:0000259|Pfam:PF02769}.
+
+DOMAIN      492    603       AIRS. {ECO:0000259|Pfam:PF00586}.
+
+DOMAIN      619    752       AIRS_C. {ECO:0000259|Pfam:PF02769}.
+
+>Q5ZUR9;
+
+RecName: Full=Inosine-5'-monophosphate dehydrogenase {ECO:0000256|HAMAP-Rule:MF_01964, ECO:0000256|RuleBase:RU003928};
+
+DOMAIN       94    149       CBS. {ECO:0000259|PROSITE:PS51371}.
+
+DOMAIN      153    214       CBS. {ECO:0000259|PROSITE:PS51371}.
+
+>Q5ZUP0;
+
+RecName: Full=UDP-N-acetylmuramate--L-alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptandioate ligase {ECO:0000256|HAMAP-Rule:MF_02020};
+
+DOMAIN        4    105       Mur_ligase. {ECO:0000259|Pfam:PF01225}.
+
+DOMAIN      110    294       Mur_ligase_M. {ECO:0000259|Pfam:PF08245}.
+
+DOMAIN      315    383       Mur_ligase_C. {ECO:0000259|Pfam:PF02875}.
+
+>Q5ZUW8;
+
+RecName: Full=Amidophosphoribosyltransferase {ECO:0000256|HAMAP-Rule:MF_01931, ECO:0000256|PIRNR:PIRNR000485};
+
+DOMAIN        2    238       Glutamine amidotransferase type-2.
+
+>Q5ZUT0;
+
+RecName: Full=Uridylate kinase {ECO:0000255|HAMAP-Rule:MF_01220};
+
+SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_01220}.
+
+>Q5ZUS0;
+
+RecName: Full=GMP synthase [glutamine-hydrolyzing] {ECO:0000255|HAMAP-Rule:MF_00344};
+
+DOMAIN        8    206       Glutamine amidotransferase type-1.
+
+DOMAIN      207    400       GMPS ATP-PPase. {ECO:0000255|HAMAP-
+
+>Q5ZUW9;
+
+RecName: Full=Phosphoribosylamine--glycine ligase {ECO:0000256|HAMAP-Rule:MF_00138};
+
+DOMAIN      111    321       ATP-grasp. {ECO:0000259|PROSITE:PS50975}.
+
+>Q5ZUL8;
+
+RecName: Full=Ribonucleoside-diphosphate reductase subunit beta {ECO:0000256|PIRNR:PIRNR000355};
+
+>Q5ZUU6;
+
+RecName: Full=Bifunctional protein PutA {ECO:0000256|PIRNR:PIRNR000197};
+
+DOMAIN       71    183       Pro_dh-DNA_bdg.
+
+DOMAIN      194    488       Pro_dh. {ECO:0000259|Pfam:PF01619}.
+
+DOMAIN      577   1029       Aldedh. {ECO:0000259|Pfam:PF00171}.
+
+>Q5ZUX0;
+
+RecName: Full=Phosphoribosylglycinamide formyltransferase {ECO:0000256|HAMAP-Rule:MF_01930};
+
+DOMAIN        5    184       Formyl_trans_N.
+
+>Q5ZV19;
+
+RecName: Full=tRNA pseudouridine synthase D {ECO:0000255|HAMAP-Rule:MF_01082};
+
+DOMAIN      154    303       TRUD. {ECO:0000255|HAMAP-Rule:MF_01082}.
+
+>Q5ZUJ9;
+
+RecName: Full=Alanine--tRNA ligase {ECO:0000255|HAMAP-Rule:MF_00036};
+
+SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00036}.
+
+-!- DOMAIN: Consists of three domains; the N-terminal catalytic
+
+>Q5ZUH9;
+
+RecName: Full=Lipid A export ATP-binding/permease protein MsbA {ECO:0000255|HAMAP-Rule:MF_01703};
+
+SUBCELLULAR LOCATION: Cell inner membrane {ECO:0000255|HAMAP-
+
+-!- DOMAIN: In MsbA the ATP-binding domain (NBD) and the transmembrane
+
+DOMAIN       27    310       ABC transmembrane type-1.
+
+DOMAIN      342    576       ABC transporter. {ECO:0000255|HAMAP-
+
+>Q5ZUL6;
+
+RecName: Full=Lysine--tRNA ligase {ECO:0000255|HAMAP-Rule:MF_00252};
+
+SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00252}.
+
+>Q5ZUL1;
+
+RecName: Full=RNA polymerase sigma factor FliA {ECO:0000256|HAMAP-Rule:MF_00962};
+
+SUBCELLULAR LOCATION: Cytoplasm {ECO:0000256|HAMAP-Rule:MF_00962}.
+
+DOMAIN       69     82       RNA_pol_sigma70.
+
+>Q5ZUW6;
+
+RecName: Full=Phosphoribosylformylglycinamidine synthase subunit PurQ {ECO:0000256|SAAS:SAAS00064601};
+
+SUBCELLULAR LOCATION: Cytoplasm {ECO:0000256|SAAS:SAAS00064617}.
+
+DOMAIN        3    249       Glutamine amidotransferase type-1.
+
+>Q5ZUF2;
+
+RecName: Full=Glutathione synthetase {ECO:0000256|HAMAP-Rule:MF_00162};
+
+DOMAIN      126    312       ATP-grasp. {ECO:0000259|PROSITE:PS50975}.
+
+>Q5ZUT4;
+
+RecName: Full=N-succinylarginine dihydrolase {ECO:0000255|HAMAP-Rule:MF_01172};
+
+>Q5ZUG5;
+
+RecName: Full=Methionine import ATP-binding protein MetN {ECO:0000255|HAMAP-Rule:MF_01719};
+
+SUBCELLULAR LOCATION: Cell inner membrane {ECO:0000255|HAMAP-
+
+DOMAIN        2    237       ABC transporter. {ECO:0000255|HAMAP-
+
+>Q5ZUT5;
+
+RecName: Full=N-succinylglutamate 5-semialdehyde dehydrogenase {ECO:0000255|HAMAP-Rule:MF_01174};
+
+>Q5ZUJ7;
+
+RecName: Full=Protein RecA {ECO:0000255|HAMAP-Rule:MF_00268};
+
+SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00268}.
+
+>Q5ZUS1;
+
+RecName: Full=tRNA-specific adenosine deaminase {ECO:0000256|HAMAP-Rule:MF_00972};
+
+DOMAIN        1    121       CMP/dCMP-type deaminase.
+
+>Q5ZUU3;
+
+RecName: Full=Ubiquinone biosynthesis O-methyltransferase {ECO:0000256|HAMAP-Rule:MF_00472};
+
+>Q5ZUQ8;
+
+RecName: Full=Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C {ECO:0000256|HAMAP-Rule:MF_00122};
+
+>Q5ZUW5;
+
+RecName: Full=Phosphoribosylformylglycinamidine cyclo-ligase {ECO:0000256|HAMAP-Rule:MF_00741, ECO:0000256|SAAS:SAAS00651341};
+
+SUBCELLULAR LOCATION: Cytoplasm {ECO:0000256|HAMAP-Rule:MF_00741,
+
+DOMAIN       70    165       AIRS. {ECO:0000259|Pfam:PF00586}.
+
+DOMAIN      188    352       AIRS_C. {ECO:0000259|Pfam:PF02769}.
+
+>Q5ZUI0;
+
+RecName: Full=Tetraacyldisaccharide 4'-kinase {ECO:0000255|HAMAP-Rule:MF_00409};
+
+>Q5ZUM5;
+
+RecName: Full=Leucyl/phenylalanyl-tRNA--protein transferase {ECO:0000255|HAMAP-Rule:MF_00688};
+
+SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00688}.
+
+>Q5ZUG1;
+
+RecName: Full=Ribosomal RNA small subunit methyltransferase J {ECO:0000255|HAMAP-Rule:MF_01523};
+
+SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_01523}.
+
+>Q5ZUP6;
+
+RecName: Full=tRNA (cytidine/uridine-2'-O-)-methyltransferase TrmJ {ECO:0000256|RuleBase:RU362024};
+
+SUBCELLULAR LOCATION: Cytoplasm {ECO:0000256|RuleBase:RU362024}.
+
+DOMAIN        6    155       SpoU_methylase.
+
+>Q5ZUS3;
+
+RecName: Full=Methionine aminopeptidase {ECO:0000256|HAMAP-Rule:MF_01974, ECO:0000256|RuleBase:RU003653};
+
+DOMAIN       12    241       Peptidase_M24.
+
+>Q5ZUJ0;
+
+RecName: Full=Delta-aminolevulinic acid dehydratase {ECO:0000256|RuleBase:RU000515};
+
+>Q5ZUQ6;
+
+RecName: Full=Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B {ECO:0000255|HAMAP-Rule:MF_00121};
+
+>Q5ZUF9;
+
+RecName: Full=Glycine--tRNA ligase beta subunit {ECO:0000256|HAMAP-Rule:MF_00255, ECO:0000256|SAAS:SAAS00502344};
+
+SUBCELLULAR LOCATION: Cytoplasm {ECO:0000256|HAMAP-Rule:MF_00255,
+
+DOMAIN      580    680       DALR_1. {ECO:0000259|Pfam:PF05746}.
+
+>Q5ZUF4;
+
+RecName: Full=D-aminoacyl-tRNA deacylase {ECO:0000255|HAMAP-Rule:MF_00518};
+
+SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00518}.
+
+>Q5ZUQ7;
+
+RecName: Full=Glutamyl-tRNA(Gln) amidotransferase subunit A {ECO:0000255|HAMAP-Rule:MF_00120};
+
+>Q3V864;
+
+RecName: Full=Flagellar biosynthetic protein FliP {ECO:0000256|RuleBase:RU362069};
+
+SUBCELLULAR LOCATION: Cell membrane
+
+>Q5ZUR3;
+
+RecName: Full=sn-glycerol-3-phosphate transport system permease protein UgpE {ECO:0000256|RuleBase:RU363056};
+
+SUBCELLULAR LOCATION: Cell inner membrane
+
+SUBCELLULAR LOCATION: Cell membrane
+
+DOMAIN       56    247       ABC transmembrane type-1.
+
+>Q5ZUF8;
+
+RecName: Full=Glycine--tRNA ligase alpha subunit {ECO:0000256|HAMAP-Rule:MF_00254, ECO:0000256|SAAS:SAAS00514668};
+
+SUBCELLULAR LOCATION: Cytoplasm {ECO:0000256|HAMAP-Rule:MF_00254,
+
+>Q3V866;
+
+RecName: Full=Flagellar biosynthetic protein FliR {ECO:0000256|RuleBase:RU362071};
+
+SUBCELLULAR LOCATION: Cell membrane
+
+>Q5ZUM3;
+
+RecName: Full=Translation initiation factor IF-1 {ECO:0000255|HAMAP-Rule:MF_00075};
+
+SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00075}.
+
+DOMAIN        1     72       S1-like. {ECO:0000255|HAMAP-
+
+>Q5ZUL9;
+
+RecName: Full=Ribonucleoside-diphosphate reductase {ECO:0000256|RuleBase:RU003410};
+
+DOMAIN       27    127       ATP-cone. {ECO:0000259|PROSITE:PS51161}.
+
+DOMAIN      142    231       ATP-cone. {ECO:0000259|PROSITE:PS51161}.
+
+>Q5ZUP3;
+
+RecName: Full=Chaperone protein ClpB {ECO:0000256|RuleBase:RU362034};
+
+SUBCELLULAR LOCATION: Cytoplasm {ECO:0000256|RuleBase:RU362034,
+
+DOMAIN      198    343       AAA. {ECO:0000259|SMART:SM00382}.
+
+DOMAIN      597    755       AAA. {ECO:0000259|SMART:SM00382}.
+
+DOMAIN      766    855       ClpB_D2-small.
+
+>Q5ZV24;
+
+RecName: Full=Beta-lactamase {ECO:0000256|RuleBase:RU361140};
+
+DOMAIN       53    255       Transpeptidase.
+
+>Q5ZUJ3;
+
+RecName: Full=DNA mismatch repair protein MutS {ECO:0000255|HAMAP-Rule:MF_00096};
+
+>Q5ZUM8;
+
+RecName: Full=Outer-membrane lipoprotein carrier protein {ECO:0000256|HAMAP-Rule:MF_00240, ECO:0000256|SAAS:SAAS00637341};
+
+SUBCELLULAR LOCATION: Periplasm {ECO:0000256|HAMAP-Rule:MF_00240,
+
+>Q5ZUW7;
+
+RecName: Full=Phosphoribosylaminoimidazole-succinocarboxamide synthase {ECO:0000256|HAMAP-Rule:MF_00137};
+
+DOMAIN       35    281       SAICAR_synt. {ECO:0000259|Pfam:PF01259}.
+
+>Q5ZUL5;
+
+RecName: Full=Peptide chain release factor 2 {ECO:0000256|HAMAP-Rule:MF_00094, ECO:0000256|SAAS:SAAS00020438};
+
+SUBCELLULAR LOCATION: Cytoplasm {ECO:0000256|HAMAP-Rule:MF_00094,
+
+DOMAIN      212    228       RF_PROK_I. {ECO:0000259|PROSITE:PS00745}.
+
+>Q5ZUI5;
+
+RecName: Full=Iron-sulfur cluster carrier protein {ECO:0000256|HAMAP-Rule:MF_02040};
+
+>Q5ZUN4;
+
+RecName: Full=Flagellar motor switch protein FliG {ECO:0000256|PIRNR:PIRNR003161};
+
+SUBCELLULAR LOCATION: Bacterial flagellum basal body
+
+SUBCELLULAR LOCATION: Cell inner membrane
+
+DOMAIN        1    100       FliG_N. {ECO:0000259|Pfam:PF14842}.
+
+DOMAIN      113    184       FliG_M. {ECO:0000259|Pfam:PF14841}.
+
+DOMAIN      214    320       FliG_C. {ECO:0000259|Pfam:PF01706}.
+
+>Q5ZUK6;
+
+RecName: Full=Flagellar motor switch protein FliM {ECO:0000256|PIRNR:PIRNR002888};
+
+SUBCELLULAR LOCATION: Cell inner membrane
+
+DOMAIN      284    353       FliMN_C. {ECO:0000259|Pfam:PF01052}.
+
+>Q5ZUN6;
+
+DOMAIN      163    346       AAA. {ECO:0000259|SMART:SM00382}.
+
+>Q5ZUS9;
+
+RecName: Full=Elongation factor Ts {ECO:0000255|HAMAP-Rule:MF_00050};
+
+SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00050}.
+
+>Q5ZUM7;
+
+DOMAIN      434    647       FtsK. {ECO:0000259|PROSITE:PS50901}.
+
+>Q5ZUI7;
+
+DOMAIN      326    399       ACT. {ECO:0000259|PROSITE:PS51671}.
+
+>Q5ZUK7;
+
+RecName: Full=Flagellar motor switch protein FliN {ECO:0000256|RuleBase:RU362074};
+
+SUBCELLULAR LOCATION: Cell membrane
+
+DOMAIN       29     99       FliMN_C. {ECO:0000259|Pfam:PF01052}.
+
+>Q5ZUM6;
+
+RecName: Full=Thioredoxin reductase {ECO:0000256|RuleBase:RU003881};
+
+DOMAIN       41    331       FAD/NAD-binding_dom.
+
+>Q5ZUF6;
+
+RecName: Full=DNA helicase {ECO:0000256|SAAS:SAAS00553569};
+
+DOMAIN       17    295       UvrD-like helicase ATP-binding.
+
+DOMAIN      296    574       UvrD-like helicase C-terminal.
+
+>Q5ZUK8;
+
+RecName: Full=Flagellar protein {ECO:0000256|RuleBase:RU362064};
+
+SUBCELLULAR LOCATION: Cell membrane
+
+>Q5ZUT1;
+
+RecName: Full=Ribosome-recycling factor {ECO:0000255|HAMAP-Rule:MF_00040};
+
+SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00040}.
+
+>Q5ZUN3;
+
+RecName: Full=Flagellar M-ring protein {ECO:0000256|PIRNR:PIRNR004862};
+
+SUBCELLULAR LOCATION: Bacterial flagellum basal body
+
+DOMAIN       29    220       YscJ_FliF. {ECO:0000259|Pfam:PF01514}.
+
+DOMAIN      253    435       YscJ_FliF_C. {ECO:0000259|Pfam:PF08345}.
+
+>Q5ZUF5;
+
+RecName: Full=Proline iminopeptidase {ECO:0000256|RuleBase:RU003421};
+
+DOMAIN       36    294       AB hydrolase-1 (Alpha/Beta hydrolase fold
+
+>Q5ZUS8;
+
+RecName: Full=30S ribosomal protein S2 {ECO:0000255|HAMAP-Rule:MF_00291};
+
+>Q5ZV16;
+
+SUBCELLULAR LOCATION: Cell membrane
+
+DOMAIN      190    413       E1-E2_ATPase. {ECO:0000259|Pfam:PF00122}.
+
+>Q5ZUN2;
+
+RecName: Full=Flagellar hook-basal body complex protein FliE {ECO:0000256|HAMAP-Rule:MF_00724, ECO:0000256|SAAS:SAAS00116622};
+
+SUBCELLULAR LOCATION: Bacterial flagellum basal body
+
+>Q5ZUG0;
+
+RecName: Full=D,D-heptose 1,7-bisphosphate phosphatase {ECO:0000256|PIRNR:PIRNR004682};
+
+SUBCELLULAR LOCATION: Cytoplasm {ECO:0000256|PIRNR:PIRNR004682,
+
+>P37033;
+
+RecName: Full=Uncharacterized protein lpg1689;
+
+>Q5ZUT6;
+
+RecName: Full=Arginine N-succinyltransferase {ECO:0000256|SAAS:SAAS00075375};
+
+>Q5ZUW2;
+
+DOMAIN      319    457       Thioredoxin.
+
+>Q5ZUR8;
+
+RecName: Full=Site-determining protein {ECO:0000256|PIRNR:PIRNR003092};
+
+DOMAIN        3    160       AAA_31. {ECO:0000259|Pfam:PF13614}.
+
+>Q5ZUI6;
+
+DOMAIN        2    486       UvrD-like helicase ATP-binding.
+
+DOMAIN      498    759       UvrD-like helicase C-terminal.
+
+>Q5ZUQ4;
+
+DOMAIN      513    645       Guanylate cyclase.
+
+>Q5ZUH3;
+
+DOMAIN        6    264       Thiolase_N. {ECO:0000259|Pfam:PF00108}.
+
+DOMAIN      272    392       Thiolase_C. {ECO:0000259|Pfam:PF02803}.
+
+>Q5ZUT8;
+
+DOMAIN      101    166       Peptidase_S24.
+
+>Q5ZUG4;
+
+SUBCELLULAR LOCATION: Cell membrane
+
+DOMAIN       13    205       ABC transmembrane type-1.
+
+>Q5ZUP5;
+
+>Q5ZUF7;
+
+DOMAIN       70    260       Thioredoxin.
+
+>Q5ZUR2;
+
+SUBCELLULAR LOCATION: Cell membrane
+
+DOMAIN       69    281       ABC transmembrane type-1.
+
+>Q5ZUL0;
+
+RecName: Full=Site-determining protein {ECO:0000256|PIRNR:PIRNR003092};
+
+>Q5ZUZ2;
+
+DOMAIN        6    195       TPP_enzyme_N. {ECO:0000259|Pfam:PF02776}.
+
+DOMAIN      219    352       TPP_enzyme_M. {ECO:0000259|Pfam:PF00205}.
+
+DOMAIN      417    577       TPP_enzyme_C. {ECO:0000259|Pfam:PF02775}.
+
+>Q5ZUL2;
+
+SUBCELLULAR LOCATION: Membrane {ECO:0000256|RuleBase:RU004057};
+
+DOMAIN      105    214       MotA_ExbB. {ECO:0000259|Pfam:PF01618}.
+
+>Q5ZUN1;
+
+DOMAIN       19    133       Response regulatory.
+
+DOMAIN      144    373       Sigma-54 factor interaction.
+
+>Q5ZUQ9;
+
+DOMAIN      524    718       Glutamine amidotransferase type-1.
+
+>Q3V867;
+
+>Q5ZUP7;
+
+DOMAIN        6    368       Aminotran_5. {ECO:0000259|Pfam:PF00266}.
+
+>Q5ZUR4;
+
+DOMAIN        4    234       ABC transporter.
+
+>Q3V865;
+
+>Q5ZUH4;
+
+DOMAIN       15    125       Acyl-CoA_dh_N.
+
+DOMAIN      129    224       Acyl-CoA_dh_M.
+
+DOMAIN      236    384       Acyl-CoA_dh_1.
+
+>Q3V868;
+
+>Q5ZUR7;
+
+DOMAIN      143    236       Acyl-CoA_dh_N.
+
+DOMAIN      241    332       Acyl-CoA_dh_M.
+
+DOMAIN      364    511       Acyl-CoA_dh_1.
+
+DOMAIN      518    796       DUF1974. {ECO:0000259|Pfam:PF09317}.
+
+>Q5ZUU1;
+
+>Q5ZUP9;
+
+DOMAIN       14    116       Fe-S_biosyn. {ECO:0000259|Pfam:PF01521}.
+
+>Q5ZUY7;
+
+DOMAIN      232    393       Peptidase_M4. {ECO:0000259|Pfam:PF01447}.
+
+DOMAIN      397    548       Peptidase_M4_C.
+
+>Q5ZV23;
+
+DOMAIN        3    257       Peptidase_M56.
+
+DOMAIN      364    626       Transpeptidase.
+
+>Q5ZUK9;
+
+DOMAIN      166    332       AAA. {ECO:0000259|SMART:SM00382}.
+
+DOMAIN      167    359       SRP54. {ECO:0000259|SMART:SM00962}.
+
+>Q5ZUH0;
+
+>Q5ZUK3;
+
+>Q5ZUN0;
+
+DOMAIN       25     55       PAS (PER-ARNT-SIM).
+
+DOMAIN      133    339       Histidine kinase.
+
+>Q5ZUY9;
+
+DOMAIN       12    433       MFS. {ECO:0000259|PROSITE:PS50850}.
+
+>Q5ZUP4;
+
+DOMAIN      133    274       Peptidase_S49.
+
+>Q5ZUG9;
+
+DOMAIN       24    469       Biotin carboxylation.
+
+DOMAIN      143    340       ATP-grasp. {ECO:0000259|PROSITE:PS50975}.
+
+DOMAIN      595    674       Lipoyl-binding.
+
+>Q5ZUK4;
+
+DOMAIN       14    181       FAD-binding PCMH-type.
+
+>A0A1D1YC26;
+
+>Q5ZUR0;
+
+>Q5ZUZ6;
+
+DOMAIN       10    176       Ni_hydr_CYTB. {ECO:0000259|Pfam:PF01292}.
+
+>Q5ZUS4;
+
+DOMAIN      114    234       SET. {ECO:0000259|PROSITE:PS50280}.
+
+DOMAIN      333    433       ANK_REP_REGION.
+
+>Q5ZUQ0;
+
+DOMAIN       44     84       HTH_8. {ECO:0000259|Pfam:PF02954}.
+
+>Q5ZUF3;
+
+>Q5ZUI3;
+
+DOMAIN        1     58       HTH lysR-type DNA-binding.
+
+>Q9Z8Q6;
+
+>Q5ZUT2;
+
+DOMAIN       19    121       Cytochrome c.
+
+>Q5ZUL4;
+
+>Q5ZV21;
+
+>Q5ZUX3;
+
+DOMAIN       30    395       Aamy. {ECO:0000259|SMART:SM00642}.
+
+>Q5ZUT7;
+
+DOMAIN      201    299       M20_dimer. {ECO:0000259|Pfam:PF07687}.
+
+>A0A0F7W587;
+
+>Q5ZUZ9;
+
+DOMAIN       26     84       Thr_synth_N. {ECO:0000259|Pfam:PF14821}.
+
+DOMAIN      116    393       PALP. {ECO:0000259|Pfam:PF00291}.
+
+>Q5ZUZ5;
+
+DOMAIN       30    193       YceI. {ECO:0000259|SMART:SM00867}.
+
+>Q5ZUX1;
+
+DOMAIN       21    398       Aamy. {ECO:0000259|SMART:SM00642}.
+
+>Q5ZUG3;
+
+>Q5ZUL3;
+
+DOMAIN      116    236       OmpA-like. {ECO:0000259|PROSITE:PS51123}.
+
+>Q5ZUG8;
+
+DOMAIN        7    274       Pyruvate carboxyltransferase.
+
+>Q5ZUU0;
+
+>Q5ZUY4;
+
+>Q5ZUY0;
+
+DOMAIN        5    198       MFS. {ECO:0000259|PROSITE:PS50850}.
+
+>Q5ZUX7;
+
+DOMAIN     1057   1196       A2M_N_2. {ECO:0000259|SMART:SM01359}.
+
+DOMAIN     1262   1352       A2M. {ECO:0000259|SMART:SM01360}.
+
+>Q5ZUU2;
+
+>Q5ZV11;
+
+DOMAIN      109    186       ACP_syn_III. {ECO:0000259|Pfam:PF08545}.
+
+DOMAIN      239    327       ACP_syn_III_C.
+
+>Q5ZUI2;
+
+DOMAIN       35    429       MFS. {ECO:0000259|PROSITE:PS50850}.
+
+>Q5ZUX8;
+
+DOMAIN       60    220       Transgly. {ECO:0000259|Pfam:PF00912}.
+
+DOMAIN      305    522       Transpeptidase.
+
+DOMAIN      684    763       BiPBP_C. {ECO:0000259|Pfam:PF06832}.
+
+>Q5ZUZ1;
+
+DOMAIN       16    326       PfkB. {ECO:0000259|Pfam:PF00294}.
+
+>Q5ZUR1;
+
+DOMAIN       20    329       PKS_ER. {ECO:0000259|SMART:SM00829}.
+
+>Q5ZUK2;
+
+DOMAIN       34     91       HTH lysR-type DNA-binding.
+
+>Q5ZUQ5;
+
+DOMAIN       49    318       Autotransporter (TC 1.B.12).
+
+>Q5ZV08;
+
+DOMAIN       49    282       FAD-binding PCMH-type.
+
+DOMAIN      645    676       4Fe-4S ferredoxin-type.
+
+>Q5ZV02;
+
+>F8L5K9;
+
+>F8L7V6;
+
+>Q5ZUP8;
+
+DOMAIN        2    121       NifU_N. {ECO:0000259|Pfam:PF01592}.
+
+>Q5ZUM9;
+
+DOMAIN       45    161       AAA. {ECO:0000259|SMART:SM00382}.
+
+>Q5ZUN7;
+
+>Q5ZV12;
+
+DOMAIN        4    252       3Beta_HSD. {ECO:0000259|Pfam:PF01073}.
+
+>M5AHT7;
+
+>M5AHL9;
+
+>A0A151THJ0;
+
+>A0A151QTW4;
+
+>A0A151RZ38;
+
+>Q5ZUW0;
+
+>F8LDW7;
+
+>A0A0F7WSE5;
+
+>A0A0F7YQT3;
+
+>Q5ZV04;
+
+DOMAIN       48    432       MFS. {ECO:0000259|PROSITE:PS50850}.
+
+>Q5ZUJ8;
+
+>Q5ZUS7;
+
+>Q5ZUJ1;
+
+>Q5ZUF0;
+
+DOMAIN       10    142       EamA. {ECO:0000259|Pfam:PF00892}.
+
+DOMAIN      152    288       EamA. {ECO:0000259|Pfam:PF00892}.
+
+>Q5ZUR5;
+
+>Q5ZUN8;
+
+DOMAIN      508    790       DUF3971. {ECO:0000259|Pfam:PF13116}.
+
+DOMAIN     1014   1261       AsmA_2. {ECO:0000259|Pfam:PF13502}.
+
+>Q5ZUH1;
+
+DOMAIN       28    242       CoA carboxyltransferase N-terminal.
+
+DOMAIN      243    529       CoA carboxyltransferase C-terminal.
+
+>Q5ZV09;
+
+DOMAIN      133    196       PAP2_C. {ECO:0000259|Pfam:PF14360}.
+
+>Q5ZUM0;
+
+DOMAIN       93    251       JmjC. {ECO:0000259|PROSITE:PS51184}.
+
+>Q5ZUY3;
+
+>Q5ZUH2;
+
+>Q5ZUJ5;
+
+>Q5ZUH6;
+
+>Q5ZUL7;
+
+>Q5ZUY1;
+
+DOMAIN       10    223       DUF1624. {ECO:0000259|Pfam:PF07786}.
+
+>Q5ZUX6;
+
+>Q5ZUK0;
+
+DOMAIN        1    218       Rho-GAP. {ECO:0000259|PROSITE:PS50238}.
+
+>Q5ZV20;
+
+>Q5ZUW1;
+
+>Q5ZUT9;
+
+DOMAIN       15    195       UmuC. {ECO:0000259|PROSITE:PS50173}.
+
+>Q5ZUN9;
+
+>Q5ZUG7;
+
+DOMAIN       54    108       ACAS_N. {ECO:0000259|Pfam:PF16177}.
+
+DOMAIN      114    540       AMP-binding. {ECO:0000259|Pfam:PF00501}.
+
+>Q5ZUV4;
+
+DOMAIN      296    376       Flg_hook. {ECO:0000259|Pfam:PF02120}.
+
+>Q5ZV17;
+
+>Q5ZV05;
+
+DOMAIN       65    276       NodB homology.
+
+>Q5ZUM2;
+
+>Q5ZV22;
+
+>Q5ZUZ4;
+
+>Q5ZUQ2;
+
+DOMAIN       52    148       FecR. {ECO:0000259|Pfam:PF04773}.
+
+>Q5ZUV6;
+
+>Q5ZUK5;
+
+>Q5ZUI9;
+
+>Q5ZUU4;
+
+SUBCELLULAR LOCATION: Cytoplasm {ECO:0000256|SAAS:SAAS00550519}.
+
+DOMAIN       10    122       ProQ. {ECO:0000259|SMART:SM00945}.
+
+>Q5ZUU5;
+
+DOMAIN       42    210       YkuD_2. {ECO:0000259|Pfam:PF13645}.
+
+>Q5ZUG6;
+
+>Q5ZUI1;
+
+>Q5ZUX4;
+
+>Q5ZUZ7;
+
+DOMAIN       27    188       YceI. {ECO:0000259|SMART:SM00867}.
+
+>A0A1D1ZA66;
+
+>A0A1D1Z8P3;
+
+>A0A1D1YDZ6;
+
+>Q5ZUP2;
+
+>Q5ZUG2;
+
+>Q5ZUZ3;
+
+DOMAIN       39    253       AP_endonuc_2. {ECO:0000259|Pfam:PF01261}.
+
+>Q5ZUZ0;
+
+DOMAIN        7    123       GFO_IDH_MocA. {ECO:0000259|Pfam:PF01408}.
+
+DOMAIN      166    232       GFO_IDH_MocA_C.
+
+>Q5ZV06;
+
+DOMAIN        5    137       N-acetyltransferase.
+
+>Q5ZUR6;
+
+DOMAIN        7    249       AB hydrolase-1 (Alpha/Beta hydrolase fold
+
+>Q5ZV01;
+
+DOMAIN      453    658       Peptidase_S9. {ECO:0000259|Pfam:PF00326}.
+
+>Q5ZV07;
+
+>Q5ZUK1;
+
+>Q5ZUX5;
+
+>Q5ZV13;
+
+DOMAIN       36    265       Lactamase_B. {ECO:0000259|SMART:SM00849}.
+
+>Q5ZV10;
+
+DOMAIN       21    196       Glyco_trans_4-like_N.
+
+DOMAIN      208    370       Glycos_transf_1.
+
+>Q5ZV18;
+
+DOMAIN       62    300       AB hydrolase-1 (Alpha/Beta hydrolase fold
+
+>Q5ZV00;
+
+>Q5ZUZ8;
+
+DOMAIN       62    253       OMP_b-brl. {ECO:0000259|Pfam:PF13505}.
+
+>Q5ZUJ2;
+
+DOMAIN      326    544       Bac_surface_Ag.
+
+>Q5ZUY5;
+
+>Q5ZUY6;
+
+DOMAIN      177    279       RimK. {ECO:0000259|Pfam:PF08443}.
+
+>Q5ZUF1;
+
+>Q5ZUU8;
+
+>Q5ZUN5;
+
+DOMAIN       68    194       FliH. {ECO:0000259|Pfam:PF02108}.
+
+>Q5ZUH8;
+
+DOMAIN      138    268       N-acetyltransferase.
+
+>Q5ZUY2;
+
+>Q5ZUV8;
+
+>Q5ZUV9;
+
+>Q5ZUX2;
+
+>Q5ZUM4;
+
+DOMAIN       33    123       Rhodanese. {ECO:0000259|PROSITE:PS50206}.
+
+>Q5ZUJ4;
+
+DOMAIN        7    158       CinA. {ECO:0000259|Pfam:PF02464}.
+
+>H2BMY4;
+
+DOMAIN        1    150       RECA_2. {ECO:0000259|PROSITE:PS50162}.
+
+>Q5ZUT3;
+
+>Q5ZUI8;
+
+>Q5ZUM1;
+
+DOMAIN       95    255       NAGPA. {ECO:0000259|Pfam:PF09992}.
+
+>Q5ZV14;
+
+>Q5ZUH5;
+
+>Q5ZUY8;
+
+>Q5ZV03;
+
+>Q5ZUI4;
+
+>Q5ZUQ1;
+
+>Q5ZUW3;
+
+>Q5ZUV5;
+
+>Q5ZUU7;
+
+DOMAIN       40     85       HTH_33. {ECO:0000259|Pfam:PF13592}.
+
+>Q5ZUP1;
+
+>Q5ZUQ3;
+
+>Q5ZV15;
+
+>Q5ZUS5;
+
+>Q5ZUV7;
+
+>Q5ZUX9;
+
+>Q5ZUU9;
+
+>Q5ZUS6;
+
+>Q5ZUJ6;
+
+>Q5ZUV0;
+
+>Q6RCR8;
+

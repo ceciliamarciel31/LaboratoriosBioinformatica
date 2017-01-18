@@ -1,0 +1,14 @@
+****Analise da estrutura 5T2X****
+
+Palavras Chave: midwest center for structural genomics, mcsg, unknown function, psi- biology
+Nome do Organismo:  crystal structure of uncharacterised protein lpg1670
+Cabecalho: unknown function
+Data da deposicao: 2016-08-24
+Data da publicacaos: 2016-09-28
+Metodo usado: x-ray diffraction
+Resolucao: 2.3
+Referencia da estrutura: []
+Referencia de artigo: c.chang,x.xu,h.cui,a.savchenko,a.joachimiak, midwest center for structural genomics (mcsg) crystal structure of uncharacterised protein lpg1670 to be published 
+Autor: C.Chang,X.Xu,H.Cui,A.Savchenko,A.Joachimiak,Midwest Center ForStructural Genomics (Mcsg)
+Composto: {'1': {'engineered': 'yes', 'molecule': 'uncharacterized protein lpg1670', 'chain': 'a, b, c', 'misc': ''}}
+
