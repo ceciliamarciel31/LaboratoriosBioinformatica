@@ -1,0 +1,387 @@
+sep=@
+
+19833183@O07293.1@BLO18_PSEAI RecName: Full=Beta-lactamase OXA-18; AltName: Full=Penicillinase; Flags: Precursor@9.82283e-66@532.0@260
+
+19833184@P16873.1@PBP2_NEIFL RecName: Full=Penicillin-binding protein 2; Short=PBP-2@9.17999e-18@220.0@351
+
+19833185@P9WMJ4.1@BLAI_MYCTO RecName: Full=Transcriptional regulator BlaI >gi@614130289@sp@P9WMJ5.1@BLAI_MYCTU RecName: Full=Transcriptional regulator BlaI@3.41121e-07@117.0@122
+
+19833186@
+19833187@P06881.3@CALCA_HUMAN RecName: Full=Calcitonin gene-related peptide 1; AltName: Full=Alpha-type CGRP; AltName: Full=Calcitonin gene-related peptide I; Short=CGRP-I; Flags: Precursor@0.649755@75.0@48
+
+19833188@Q5ZV19.2@TRUD_LEGPH RecName: Full=tRNA pseudouridine synthase D; AltName: Full=tRNA pseudouridine(13) synthase; AltName: Full=tRNA pseudouridylate synthase D; AltName: Full=tRNA-uridine isomerase D@0.0@1780.0@338
+
+19833189@P45524.1@YHET_ECOLI RecName: Full=Putative esterase YheT@1.9247e-85@673.0@326
+
+19833190@Q91755.1@GRIK2_XENLA RecName: Full=Glutamate receptor ionotropic, kainate 2; Short=GluK2; AltName: Full=Glutamate receptor 6; Short=GluR-6; Short=GluR6@2.3601@68.0@39
+
+19833191@Q9ZHC7.1@SILP_SALTM RecName: Full=Silver exporting P-type ATPase@0.0@2245.0@718
+
+19833192@
+19833193@Q55860.2@COBQ_SYNY3 RecName: Full=Cobyric acid synthase@4.8099@74.0@112
+
+19833194@A8IQD2.1@AHLLM_AZOC5 RecName: Full=N-acyl homoserine lactonase AttM; Short=AHL-lactonase AttM@1.09294e-10@154.0@255
+
+19833195@P75821.2@YBJS_ECOLI RecName: Full=Uncharacterized protein YbjS@3.391e-62@518.0@331
+
+19833196@O67185.1@FABH_AQUAE RecName: Full=3-oxoacyl-[acyl-carrier-protein] synthase 3; AltName: Full=3-oxoacyl-[acyl-carrier-protein] synthase III; AltName: Full=Beta-ketoacyl-ACP synthase III; Short=KAS III@5.52566e-60@501.0@331
+
+19833197@Q8CWR6.1@AMGDS_STRR6 RecName: Full=Alpha-monoglucosyldiacylglycerol synthase; Short=Alpha-MGS; Short=MGlcDAG synthase; AltName: Full=1,2-Diacylglycerol 3-glucosyltransferase; AltName: Full=UDP-glucose:1,2-diacylglycerol 3-alpha-D-glucosyltransferase@1.09197e-30@313.0@347
+
+19833198@Q96LT4.2@SAMD8_HUMAN RecName: Full=Sphingomyelin synthase-related protein 1; Short=SMSr; AltName: Full=Ceramide phosphoethanolamine synthase; Short=CPE synthase; AltName: Full=Sterile alpha motif domain-containing protein 8; Short=SAM domain-containing protein 8@0.881783@76.0@230
+
+19833199@P77748.1@YDIJ_ECOLI RecName: Full=Uncharacterized protein YdiJ@0.0@2257.0@1030
+
+19833200@
+19833201@Q8EDL2.1@OPGG2_SHEON RecName: Full=Glucans biosynthesis protein G 2; Flags: Precursor@0.293017@82.0@95
+
+19833202@O13842.1@CDA1_SCHPO RecName: Full=Chitin deacetylase 1@9.39073e-67@544.0@313
+
+19833203@B2TTF0.1@ENTS_SHIB3 RecName: Full=Enterobactin exporter EntS@4.0475e-23@258.0@362
+
+19833204@
+19833205@Q2R4J1.1@GDT13_ORYSJ RecName: Full=GDT1-like protein 3; Flags: Precursor >gi@308191592@sp@A2ZE50.1@GDT13_ORYSI RecName: Full=GDT1-like protein 3; Flags: Precursor@4.2243e-10@145.0@201
+
+19833206@P39839.3@YUXL_BACSU RecName: Full=Uncharacterized peptidase YuxL@3.11673e-74@649.0@677
+
+19833207@Q9KS12.2@MARTX_VIBCH RecName: Full=Multifunctional-autoprocessing repeats-in-toxin; Short=MARTX; Contains: RecName: Full=Actin cross-linking toxin F1; Contains: RecName: Full=Actin cross-linking toxin F4; Contains: RecName: Full=Rho inactivation domain-containing toxin F2; Contains: RecName: Full=ABH effector region toxin F5; Contains: RecName: Full=Cysteine protease domain-containing toxin F3; Flags: Precursor@0.00017311@112.0@119
+
+19833208@Q8K9V1.1@THRC_BUCAP RecName: Full=Threonine synthase; Short=TS@2.54249e-72@601.0@417
+
+19833209@
+19833210@Q7N562.1@Y2095_PHOLL RecName: Full=UPF0312 protein plu2095; Flags: Precursor@0.00101118@96.0@120
+
+19833211@P75925.1@C56I_ECOLI RecName: Full=Cytochrome b561 homolog 2@2.98796e-30@278.0@186
+
+19833212@Q1I3W0.1@Y5043_PSEE4 RecName: Full=UPF0312 protein PSEEN5043; Flags: Precursor@1.59344e-28@269.0@172
+
+19833213@
+19833214@B2TJ88.1@IOLE_CLOBB RecName: Full=Inosose dehydratase; AltName: Full=2-keto-myo-inositol dehydratase; Short=2KMI dehydratase@3.14317e-107@810.0@289
+
+19833215@Q63B73.1@IOLD1_BACCZ RecName: Full=3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase 1; Short=THcHDO hydrolase 1@0.0@1767.0@645
+
+19833216@P42414.1@IOLC_BACSU RecName: Full=5-dehydro-2-deoxygluconokinase; AltName: Full=2-deoxy-5-keto-D-gluconate kinase; Short=DKG kinase@1.12326e-54@487.0@336
+
+19833217@O05389.2@YRBE_BACSU RecName: Full=Uncharacterized oxidoreductase YrbE@6.69418e-116@875.0@335
+
+19833218@P0AEP2.1@GALP_ECOL6 RecName: Full=Galactose-proton symporter; AltName: Full=Galactose transporter >gi@84028324@sp@P0AEP1.1@GALP_ECOLI RecName: Full=Galactose-proton symporter; AltName: Full=Galactose transporter@5.76197e-70@592.0@461
+
+19833219@Q8NGA8.1@O4F17_HUMAN RecName: Full=Olfactory receptor 4F17; AltName: Full=Olfactory receptor 4F11; AltName: Full=Olfactory receptor 4F18; AltName: Full=Olfactory receptor 4F19@0.097341@86.0@42
+
+19833220@P43147.1@EMPA_VIBAN RecName: Full=Virulence metalloprotease; AltName: Full=Vibriolysin; Flags: Precursor@1.28909e-71@620.0@565
+
+19833221@D2Z030.1@DCSG_STRLA RecName: Full=Cycloserine biosynthesis protein DcsG@1.95188e-19@221.0@283
+
+19833222@Q9I4E3.1@DDAH_PSEAE RecName: Full=N(G),N(G)-dimethylarginine dimethylaminohydrolase; Short=DDAH; Short=Dimethylarginine dimethylaminohydrolase; AltName: Full=Dimethylargininase@1.43383e-94@718.0@255
+
+19833223@P37034.2@Y1691_LEGPH RecName: Full=Uncharacterized transporter lpg1691@7.74694e-68@576.0@383
+
+19833224@Q63475.1@PTPR2_RAT RecName: Full=Receptor-type tyrosine-protein phosphatase N2; Short=R-PTP-N2; AltName: Full=PTP NE-6; Short=PTPNE6; AltName: Full=Phogrin; Contains: RecName: Full=IA-2beta60; Flags: Precursor@9.11382@71.0@38
+
+19833225@Q8BU40.1@NAL4A_MOUSE RecName: Full=NACHT, LRR and PYD domains-containing protein 4A; Short=NALP-ita@9.02603e-06@123.0@173
+
+19833226@Q3UDW8.2@HGNAT_MOUSE RecName: Full=Heparan-alpha-glucosaminide N-acetyltransferase; AltName: Full=Transmembrane protein 76@2.44189e-33@336.0@420
+
+19833227@Q49WE5.1@LTAA_STAS1 RecName: Full=Probable glycolipid permease LtaA; AltName: Full=Lipoteichoic acid protein A@1.36336@74.0@77
+
+19833228@P59715.1@CLSB_SHIFL RecName: Full=Cardiolipin synthase B; Short=CL synthase@0.125915@81.0@89
+
+19833229@P76577.1@PBPC_ECOLI RecName: Full=Penicillin-binding protein 1C; Short=PBP-1c; Short=PBP1c; Includes: RecName: Full=Penicillin-insensitive transglycosylase; AltName: Full=Peptidoglycan TGase; Includes: RecName: Full=Transpeptidase-like module@5.72916e-88@759.0@750
+
+19833230@Q8ZDJ2.1@Y2573_YERPE RecName: Full=UPF0192 protein YPO2573/y1143/YP_1141; Flags: Precursor@0.0@3226.0@1986
+
+19833231@P09832.3@GLTD_ECOLI RecName: Full=Glutamate synthase [NADPH] small chain; AltName: Full=Glutamate synthase subunit beta; Short=GLTS beta chain; AltName: Full=NADPH-GOGAT@0.236766@85.0@41
+
+19833232@P18619.2@VM2FL_PROFL RecName: Full=Zinc metalloproteinase/disintegrin; Contains: RecName: Full=Snake venom metalloproteinase; Short=SVMP; Contains: RecName: Full=Disintegrin flavoridin; Flags: Precursor@0.995259@80.0@202
+
+19833233@A8GKB8.1@UBIC_SERP5 RecName: Full=Chorismate pyruvate-lyase; Short=CL; Short=CPL@0.133168@82.0@85
+
+19833234@Q1D651.1@GLGE_MYXXD RecName: Full=Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase; Short=GMPMT; AltName: Full=(1->4)-alpha-D-glucan:maltose-1-phosphate alpha-D-maltosyltransferase@0.00240264@104.0@221
+
+19833235@
+19833236@Q09840.1@AMY2_SCHPO RecName: Full=Alpha-amylase 2; AltName: Full=1,4-alpha-D-glucan glucanohydrolase; Flags: Precursor@0.0012687@106.0@191
+
+19833237@P22102.1@PUR2_HUMAN RecName: Full=Trifunctional purine biosynthetic protein adenosine-3; Includes: RecName: Full=Phosphoribosylamine--glycine ligase; AltName: Full=Glycinamide ribonucleotide synthetase; Short=GARS; AltName: Full=Phosphoribosylglycinamide synthetase; Includes: RecName: Full=Phosphoribosylformylglycinamidine cyclo-ligase; AltName: Full=AIR synthase; Short=AIRS; AltName: Full=Phosphoribosyl-aminoimidazole synthetase; Includes: RecName: Full=Phosphoribosylglycinamide formyltransferase; AltName: Full=5'-phosphoribosylglycinamide transformylase; AltName: Full=GAR transformylase; Short=GART@1.78407e-43@397.0@188
+
+19833238@Q465Q9.1@PUR2_METBF RecName: Full=Phosphoribosylamine--glycine ligase; AltName: Full=GARS; AltName: Full=Glycinamide ribonucleotide synthetase; AltName: Full=Phosphoribosylglycinamide synthetase@4.36242e-145@1088.0@436
+
+19833239@Q51342.3@PUR1_PSEAE RecName: Full=Amidophosphoribosyltransferase; Short=ATase; AltName: Full=Glutamine phosphoribosylpyrophosphate amidotransferase; Short=GPATase@4.89762e-149@1126.0@487
+
+19833240@Q5X4M9.1@PUR7_LEGPA RecName: Full=Phosphoribosylaminoimidazole-succinocarboxamide synthase; AltName: Full=SAICAR synthetase@0.0@1681.0@312
+
+19833241@A0B5C6.1@PURQ_METTP RecName: Full=Phosphoribosylformylglycinamidine synthase subunit PurQ; Short=FGAM synthase; AltName: Full=Formylglycinamide ribonucleotide amidotransferase subunit I; Short=FGAR amidotransferase I; Short=FGAR-AT I; AltName: Full=Glutaminase PurQ; AltName: Full=Phosphoribosylformylglycinamidine synthase subunit I@5.9219e-70@571.0@264
+
+19833242@Q3A515.1@PUR5_PELCD RecName: Full=Phosphoribosylformylglycinamidine cyclo-ligase; AltName: Full=AIR synthase; AltName: Full=AIRS; AltName: Full=Phosphoribosyl-aminoimidazole synthetase@4.32181e-104@800.0@348
+
+19833243@A0B5C7.1@PURL_METTP RecName: Full=Phosphoribosylformylglycinamidine synthase subunit PurL; Short=FGAM synthase; AltName: Full=Formylglycinamide ribonucleotide amidotransferase subunit II; Short=FGAR amidotransferase II; Short=FGAR-AT II; AltName: Full=Glutamine amidotransferase PurL; AltName: Full=Phosphoribosylformylglycinamidine synthase subunit II@0.0@1752.0@780
+
+19833244@
+19833245@Q487R3.1@DSBD_COLP3 RecName: Full=Thiol:disulfide interchange protein DsbD; AltName: Full=Protein-disulfide reductase; Short=Disulfide reductase; Flags: Precursor@3.83745e-85@705.0@426
+
+19833246@
+19833247@P0AFP5.1@YBBO_ECOL6 RecName: Full=Uncharacterized oxidoreductase YbbO >gi@84027843@sp@P0AFP4.1@YBBO_ECOLI RecName: Full=Uncharacterized oxidoreductase YbbO@1.4238e-67@544.0@269
+
+19833248@Q7VK84.1@OBG_HELHP RecName: Full=GTPase Obg; AltName: Full=GTP-binding protein Obg@7.65713@73.0@52
+
+19833249@A7RFT2.1@CD123_NEMVE RecName: Full=Cell division cycle protein 123 homolog@0.0682648@89.0@63
+
+19833250@
+19833251@P29684.1@RBS_HEVBR RecName: Full=Ribulose bisphosphate carboxylase small chain, chloroplastic; Short=RuBisCO small subunit; Flags: Precursor@0.443828@71.0@44
+
+19833252@Q54SC9.1@HEXA2_DICDI RecName: Full=Beta-hexosaminidase subunit A2; AltName: Full=Beta-N-acetylhexosaminidase subunit A2; AltName: Full=N-acetyl-beta-glucosaminidase subunit A2; Flags: Precursor@2.66774@76.0@115
+
+19833253@P52614.1@FLIK_ECOLI RecName: Full=Flagellar hook-length control protein@2.13545e-08@141.0@82
+
+19833254@P37033.1@Y1689_LEGPH RecName: Full=Uncharacterized protein lpg1689@3.18786e-153@1093.0@208
+
+19833255@P37032.1@ACON_LEGPH RecName: Full=Aconitate hydratase A; Short=ACN; Short=Aconitase; AltName: Full=(2R,3S)-2-methylisocitrate dehydratase; AltName: Full=(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate dehydratase; AltName: Full=IP210; AltName: Full=Iron-responsive protein-like; Short=IRP-like; AltName: Full=Major iron-containing protein; Short=MICP; AltName: Full=Probable 2-methyl-cis-aconitate hydratase; AltName: Full=RNA-binding protein@0.0@4791.0@891
+
+19833256@P37034.2@Y1691_LEGPH RecName: Full=Uncharacterized transporter lpg1691@0.0@2378.0@464
+
+19833257@Q45952.1@Y3006_COXBU RecName: Full=Uncharacterized protein CBUA0006@3.3192e-06@124.0@79
+
+19833258@
+19833259@P55614.1@Y4PE_RHISN RecName: Full=Uncharacterized protein y4pE/y4sA@1.29506e-07@118.0@60
+
+19833260@
+19833261@O52485.1@PUTA_ENTAE RecName: Full=Bifunctional protein PutA; Includes: RecName: Full=Proline dehydrogenase; AltName: Full=Proline oxidase; Includes: RecName: Full=Delta-1-pyrroline-5-carboxylate dehydrogenase; Short=P5C dehydrogenase; AltName: Full=L-glutamate gamma-semialdehyde dehydrogenase@0.0@2699.0@1044
+
+19833262@
+19833263@A1SWR4.1@PROQ_PSYIN RecName: Full=RNA chaperone ProQ@3.3942e-17@187.0@97
+
+19833264@B6J5Y2.1@UBIG_COXB1 RecName: Full=Ubiquinone biosynthesis O-methyltransferase; AltName: Full=2-polyprenyl-6-hydroxyphenol methylase; AltName: Full=3-demethylubiquinone 3-O-methyltransferase@8.96701e-77@596.0@228
+
+19833265@Q8NQU9.1@UNG_CORGL RecName: Full=Uracil-DNA glycosylase; Short=UDG@1.88305e-08@135.0@199
+
+19833266@
+19833267@B0VRJ4.1@RSMC_ACIBS RecName: Full=Ribosomal RNA small subunit methyltransferase C; AltName: Full=16S rRNA m2G1207 methyltransferase; AltName: Full=rRNA (guanine-N(2)-)-methyltransferase RsmC@0.649468@82.0@74
+
+19833268@P04152.2@UMUC_ECOLI RecName: Full=Protein UmuC@1.45459e-123@943.0@420
+
+19833269@P0AG12.1@UMUD_ECO57 RecName: Full=Protein UmuD; Contains: RecName: Full=Protein UmuD' >gi@84029418@sp@P0AG11.1@UMUD_ECOLI RecName: Full=Protein UmuD; Contains: RecName: Full=Protein UmuD' >gi@84029419@sp@P0AG13.1@UMUD_SHIFL RecName: Full=Protein UmuD; Contains: RecName: Full=Protein UmuD'@1.90556e-38@330.0@127
+
+19833270@P06621.1@CBPG_PSES6 RecName: Full=Carboxypeptidase G2; Short=CPDG2; AltName: Full=Folate hydrolase G2; AltName: Full=Glutamate carboxypeptidase; AltName: Full=Pteroylmonoglutamic acid hydrolase G2; AltName: INN=Glucarpidase; Flags: Precursor@2.81698e-29@302.0@393
+
+19833271@A4W9J6.1@ASTA_ENT38 RecName: Full=Arginine N-succinyltransferase; Short=AST; AltName: Full=AOST@8.69838e-90@704.0@338
+
+19833272@Q5ZUT5.1@ASTD_LEGPH RecName: Full=N-succinylglutamate 5-semialdehyde dehydrogenase; AltName: Full=Succinylglutamic semialdehyde dehydrogenase; Short=SGSD@0.0@2671.0@496
+
+19833273@Q5ZUT4.1@ASTB_LEGPH RecName: Full=N-succinylarginine dihydrolase >gi@166989421@sp@A5ICK4.1@ASTB_LEGPC RecName: Full=N-succinylarginine dihydrolase@0.0@2401.0@448
+
+19833274@Q7NQK7.1@SPEE_CHRVO RecName: Full=Polyamine aminopropyltransferase; AltName: Full=Putrescine aminopropyltransferase; Short=PAPT; AltName: Full=Spermidine synthase; Short=SPDS; Short=SPDSY@6.2804e-10@147.0@187
+
+19833275@Q9Y2G1.3@MRF_HUMAN RecName: Full=Myelin regulatory factor; AltName: Full=Myelin gene regulatory factor; Contains: RecName: Full=Myelin regulatory factor, N-terminal; Contains: RecName: Full=Myelin regulatory factor, C-terminal@0.472508@74.0@46
+
+19833276@Q5WVZ0.1@RRF_LEGPL RecName: Full=Ribosome-recycling factor; Short=RRF; AltName: Full=Ribosome-releasing factor >gi@60390237@sp@Q5ZUT1.1@RRF_LEGPH RecName: Full=Ribosome-recycling factor; Short=RRF; AltName: Full=Ribosome-releasing factor >gi@166230796@sp@A5ICK7.1@RRF_LEGPC RecName: Full=Ribosome-recycling factor; Short=RRF; AltName: Full=Ribosome-releasing factor@3.03811e-133@957.0@185
+
+19833277@Q5ZUT0.1@PYRH_LEGPH RecName: Full=Uridylate kinase; Short=UK; AltName: Full=Uridine monophosphate kinase; Short=UMP kinase; Short=UMPK@0.0@1296.0@247
+
+19833278@Q5ZUS9.2@EFTS_LEGPH RecName: Full=Elongation factor Ts; Short=EF-Ts >gi@166221225@sp@A5ICK9.1@EFTS_LEGPC RecName: Full=Elongation factor Ts; Short=EF-Ts@0.0@1524.0@292
+
+19833279@Q5ZUS8.2@RS2_LEGPH RecName: Full=30S ribosomal protein S2@0.0@1349.0@254
+
+19833280@
+19833281@Q1QFS3.1@Y4329_NITHX RecName: Full=UPF0753 protein Nham_4329@7.55792@66.0@67
+
+19833282@Q61JT8.1@VPS54_CAEBR RecName: Full=Vacuolar protein sorting-associated protein 54@8.392@74.0@85
+
+19833283@O96028.1@NSD2_HUMAN RecName: Full=Histone-lysine N-methyltransferase NSD2; AltName: Full=Multiple myeloma SET domain-containing protein; Short=MMSET; AltName: Full=Nuclear SET domain-containing protein 2; Short=NSD2; AltName: Full=Protein trithorax-5; AltName: Full=Wolf-Hirschhorn syndrome candidate 1 protein; Short=WHSC1@3.02757e-07@136.0@108
+
+19833284@P0A1X6.2@MAP1_SALTY RecName: Full=Methionine aminopeptidase; Short=MAP; Short=MetAP; AltName: Full=Peptidase M >gi@60391225@sp@P0A1X7.2@MAP1_SALTI RecName: Full=Methionine aminopeptidase; Short=MAP; Short=MetAP; AltName: Full=Peptidase M@2.3468e-116@862.0@254
+
+19833285@Q5ZUS2.1@GLND_LEGPH RecName: Full=Bifunctional uridylyltransferase/uridylyl-removing enzyme; Short=UTase/UR; AltName: Full=Bifunctional [protein-PII] modification enzyme; AltName: Full=Bifunctional nitrogen sensor protein; Includes: RecName: Full=[Protein-PII] uridylyltransferase; Short=PII uridylyltransferase; Short=UTase; Includes: RecName: Full=[Protein-PII]-UMP uridylyl-removing enzyme; Short=UR@0.0@4637.0@861
+
+19833286@Q8XGY4.2@TADA_SALTI RecName: Full=tRNA-specific adenosine deaminase >gi@150421690@sp@Q7CQ08.2@TADA_SALTY RecName: Full=tRNA-specific adenosine deaminase@5.79759e-49@397.0@143
+
+19833287@Q5ZUS0.1@GUAA_LEGPH RecName: Full=GMP synthase [glutamine-hydrolyzing]; AltName: Full=GMP synthetase; AltName: Full=Glutamine amidotransferase@0.0@2805.0@525
+
+19833288@P31002.1@IMDH_ACICA RecName: Full=Inosine-5'-monophosphate dehydrogenase; Short=IMP dehydrogenase; Short=IMPD; Short=IMPDH@0.0@1758.0@486
+
+19833289@P0AEZ5.2@MIND_ECO57 RecName: Full=Septum site-determining protein MinD; AltName: Full=Cell division inhibitor MinD >gi@84028096@sp@P0AEZ4.2@MIND_ECOL6 RecName: Full=Septum site-determining protein MinD; AltName: Full=Cell division inhibitor MinD >gi@84028097@sp@P0AEZ3.2@MIND_ECOLI RecName: Full=Septum site-determining protein MinD; AltName: Full=Cell division inhibitor MinD >gi@84028098@sp@P0AEZ6.2@MIND_SHIFL RecName: Full=Septum site-determining protein MinD; AltName: Full=Cell division inhibitor MinD@3.37004e-143@1041.0@268
+
+19833291@Q47146.2@FADE_ECOLI RecName: Full=Acyl-coenzyme A dehydrogenase; Short=ACDH@0.0@2220.0@811
+
+19833292@O05235.1@YUGF_BACSU RecName: Full=Uncharacterized hydrolase YugF@1.80157e-08@137.0@268
+
+19833293@Q5NP12.2@SECA_ZYMMO RecName: Full=Protein translocase subunit SecA@3.2891@74.0@50
+
+19833294@Q0K998.1@UGPC_CUPNH RecName: Full=sn-glycerol-3-phosphate import ATP-binding protein UgpC@4.6483e-121@915.0@370
+
+19833295@Q92WD7.1@UGPE_RHIME RecName: Full=sn-glycerol-3-phosphate transport system permease protein UgpE@1.29167e-90@694.0@252
+
+19833296@Q8FW09.1@UGPA_BRUSU RecName: Full=sn-glycerol-3-phosphate transport system permease protein UgpA@3.33721e-101@769.0@286
+
+19833297@Q53FA7.2@QORX_HUMAN RecName: Full=Quinone oxidoreductase PIG3; AltName: Full=Tumor protein p53-inducible protein 3; AltName: Full=p53-induced gene 3 protein@2.3153e-47@418.0@327
+
+19833298@Q8Z9B3.1@CLCA_SALTI RecName: Full=H(+)/Cl(-) exchange transporter ClcA@8.52846e-107@836.0@428
+
+19833299@P15395.1@TRPE_RHIME RecName: Full=Anthranilate synthase; Includes: RecName: Full=Glutamine amidotransferase@0.0@2027.0@707
+
+19833300@Q60CK7.1@GATC_METCA RecName: Full=Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C; Short=Asp/Glu-ADT subunit C@5.25613e-24@222.0@94
+
+19833301@Q5ZUQ7.1@GATA_LEGPH RecName: Full=Glutamyl-tRNA(Gln) amidotransferase subunit A; Short=Glu-ADT subunit A@0.0@2597.0@483
+
+19833303@Q5ZUQ6.1@GATB_LEGPH RecName: Full=Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B; Short=Asp/Glu-ADT subunit B@0.0@2548.0@477
+
+19833304@P80862.2@SERC_BACSU RecName: Full=Phosphoserine aminotransferase; AltName: Full=Phosphohydroxythreonine aminotransferase; Short=PSAT; AltName: Full=Vegetative protein 234; Short=VEG234@0.245842@83.0@117
+
+19833305@P40137.3@CYAA_STIAU RecName: Full=Adenylate cyclase 1; AltName: Full=ATP pyrophosphate-lyase 1; AltName: Full=Adenylyl cyclase 1; Short=AC 1@4.01937e-43@417.0@209
+
+19833306@Q9Y679.1@AUP1_HUMAN RecName: Full=Ancient ubiquitous protein 1@3.21289@69.0@52
+
+19833307@
+19833308@P60495.1@KIPI_BACSU RecName: Full=Kinase A inhibitor; AltName: Full=Sporulation inhibitor KipI@3.35941@68.0@147
+
+19833309@Q7VNP1.1@FIS_HAEDU RecName: Full=DNA-binding protein Fis@4.90928e-17@176.0@78
+
+19833310@A4WDA9.1@ISCA_ENT38 RecName: Full=Iron-binding protein IscA; AltName: Full=Iron-sulfur cluster assembly protein@2.15801e-26@241.0@107
+
+19833311@Q57074.2@ISCU_HAEIN RecName: Full=Iron-sulfur cluster assembly scaffold protein IscU; AltName: Full=Sulfur acceptor protein IscU@1.58719e-07@117.0@125
+
+19833312@A3QFD5.1@ISCS_SHELP RecName: Full=Cysteine desulfurase IscS@5.91256e-180@1309.0@383
+
+19833313@Q7N222.1@TRMJ_PHOLL RecName: Full=tRNA (cytidine/uridine-2'-O-)-methyltransferase TrmJ; AltName: Full=tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase; AltName: Full=tRNA Cm32/Um32 methyltransferase@3.548e-87@668.0@243
+
+19833314@Q9HXI4.1@SUHB_PSEAE RecName: Full=Inositol-1-monophosphatase; Short=I-1-Pase; Short=IMPase; Short=Inositol-1-phosphatase@7.37438e-103@775.0@265
+
+19833315@Q2YMB3.2@NHAA_BRUA2 RecName: Full=Na(+)/H(+) antiporter NhaA; AltName: Full=Sodium/proton antiporter NhaA@1.01534e-37@366.0@177
+
+19833316@Q7AMH5.1@CLPB_SALTI RecName: Full=Chaperone protein ClpB >gi@54035786@sp@Q7CQ01.1@CLPB_SALTY RecName: Full=Chaperone protein ClpB@0.0@3408.0@850
+
+19833317@Q82TL6.1@POTA_NITEU RecName: Full=Spermidine/putrescine import ATP-binding protein PotA@8.59802@72.0@38
+
+19833318@
+19833319@P37773.3@MPL_ECOLI RecName: Full=UDP-N-acetylmuramate--L-alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptandioate ligase; AltName: Full=Murein peptide ligase; AltName: Full=UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase@1.57578e-149@1121.0@451
+
+19833320@
+19833321@P46474.4@YHDP_ECOLI RecName: Full=Uncharacterized protein YhdP; Flags: Precursor@3.40485e-61@594.0@1295
+
+19833322@Q5YTE8.1@RUVB_NOCFA RecName: Full=Holliday junction ATP-dependent DNA helicase RuvB@6.10158@67.0@20
+
+19833323@Q9I4N1.1@FLII_PSEAE RecName: Full=Flagellum-specific ATP synthase@0.0@1339.0@421
+
+19833324@
+19833325@Q51464.2@FLIG_PSEAE RecName: Full=Flagellar motor switch protein FliG@3.45591e-121@909.0@326
+
+19833326@Q51463.2@FLIF_PSEAE RecName: Full=Flagellar M-ring protein@8.26481e-138@1065.0@567
+
+19833327@C3K0U6.1@FLIE_PSEFS RecName: Full=Flagellar hook-basal body complex protein FliE@1.03394e-22@215.0@87
+
+19833328@Q06065.2@ATOC_ECOLI RecName: Full=Acetoacetate metabolism regulatory protein AtoC; AltName: Full=Ornithine decarboxylase antizyme; AltName: Full=Ornithine/arginine decarboxylase inhibitor@9.49652e-113@877.0@449
+
+19833329@Q06067.1@ATOS_ECOLI RecName: Full=Signal transduction histidine-protein kinase AtoS@7.24928e-25@270.0@339
+
+19833330@P39918.3@RARA_COXBU RecName: Full=Replication-associated recombination protein A@2.01343e-161@1196.0@427
+
+19833331@A5ICS0.1@LOLA_LEGPC RecName: Full=Outer-membrane lipoprotein carrier protein; Flags: Precursor@8.40947e-147@1050.0@202
+
+19833332@Q9Z3U1.1@FTSK_PSEU2 RecName: Full=DNA translocase FtsK@0.0@2007.0@788
+
+19833333@P39916.2@TRXB_COXBU RecName: Full=Thioredoxin reductase; Short=TRXR@2.02069e-168@1220.0@317
+
+19833334@Q5ZUM5.1@LFTR_LEGPH RecName: Full=Leucyl/phenylalanyl-tRNA--protein transferase; AltName: Full=L/F-transferase; AltName: Full=Leucyltransferase; AltName: Full=Phenyalanyltransferase >gi@166224665@sp@A5ICS3.1@LFTR_LEGPC RecName: Full=Leucyl/phenylalanyl-tRNA--protein transferase; AltName: Full=L/F-transferase; AltName: Full=Leucyltransferase; AltName: Full=Phenyalanyltransferase@9.41764e-169@1198.0@222
+
+19833335@P54433.1@YRKF_BACSU RecName: Full=UPF0033 protein YrkF@3.73644e-14@165.0@102
+
+19833336@Q5WVS7.1@IF1_LEGPL RecName: Full=Translation initiation factor IF-1 >gi@59797494@sp@Q5X4E2.1@IF1_LEGPA RecName: Full=Translation initiation factor IF-1 >gi@59797499@sp@Q5ZUM3.1@IF1_LEGPH RecName: Full=Translation initiation factor IF-1 >gi@190359647@sp@A5ICS5.1@IF1_LEGPC RecName: Full=Translation initiation factor IF-1@1.34189e-48@379.0@73
+
+19833337@P0AFK1.1@PMBA_ECO57 RecName: Full=Metalloprotease PmbA >gi@84029326@sp@P0AFK0.1@PMBA_ECOLI RecName: Full=Metalloprotease PmbA; AltName: Full=Protein TldE@2.02596e-143@1081.0@447
+
+19833338@P27840.2@YIGE_ECOLI RecName: Full=Uncharacterized protein YigE@1.87939e-10@151.0@150
+
+19833339@Q96EW2.1@HBAP1_HUMAN RecName: Full=HSPB1-associated protein 1; AltName: Full=27 kDa heat shock protein-associated protein 1; AltName: Full=Protein associated with small stress protein 1@7.38278e-08@136.0@109
+
+19833340@Q9PL93.1@RIR1_CHLMU RecName: Full=Ribonucleoside-diphosphate reductase subunit alpha; AltName: Full=Ribonucleotide reductase@0.0@2586.0@937
+
+19833341@O84835.1@RIR2_CHLTR RecName: Full=Ribonucleoside-diphosphate reductase subunit beta; AltName: Full=Ribonucleotide reductase small subunit@9.16383e-144@1064.0@345
+
+19833342@Q9UUS2.3@LIDS_GAEGR RecName: Full=Linoleate diol synthase; AltName: Full=Linoleate (8R)-dioxygenase; Short=Linoleate 8-dioxygenase@0.314795@78.0@37
+
+19833343@Q5ZUL6.1@SYK_LEGPH RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS >gi@166229810@sp@A5ICT2.1@SYK_LEGPC RecName: Full=Lysine--tRNA ligase; AltName: Full=Lysyl-tRNA synthetase; Short=LysRS@0.0@2643.0@496
+
+19833344@P66024.1@RF2_ECO57 RecName: Full=Peptide chain release factor 2; Short=RF-2 >gi@54039053@sp@P66025.1@RF2_SHIFL RecName: Full=Peptide chain release factor 2; Short=RF-2 >gi@54041596@sp@P66023.1@RF2_ECOL6 RecName: Full=Peptide chain release factor 2; Short=RF-2 >gi@189040000@sp@B1ITB1.1@RF2_ECOLC RecName: Full=Peptide chain release factor 2; Short=RF-2 >gi@226739125@sp@B7MM78.1@RF2_ECO45 RecName: Full=Peptide chain release factor 2; Short=RF-2 >gi@226739126@sp@B7NW32.1@RF2_ECO7I RecName: Full=Peptide chain release factor 2; Short=RF-2 >gi@226739128@sp@B7N7D5.1@RF2_ECOLU RecName: Full=Peptide chain release factor 2; Short=RF-2 >gi@226739129@sp@B1LR73.1@RF2_ECOSM RecName: Full=Peptide chain release factor 2; Short=RF-2 >gi@226739130@sp@B7LPA4.1@RF2_ESCF3 RecName: Full=Peptide chain release factor 2; Short=RF-2 >gi@254790914@sp@B7UHU0.1@RF2_ECO27 RecName: Full=Peptide chain release factor 2; Short=RF-2 >gi@254790915@sp@B7LF76.1@RF2_ECO55 RecName: Full=Peptide chain release factor 2; Short=RF-2 >gi@254790916@sp@B7MZI9.1@RF2_ECO81 RecName: Full=Peptide chain release factor 2; Short=RF-2@0.0@1359.0@332
+
+19833345@Q7UNQ2.2@FLIE_RHOBA RecName: Full=Flagellar hook-basal body complex protein FliE@0.622244@71.0@53
+
+19833346@P46827.1@YTXE_BACME RecName: Full=Uncharacterized 24.6 kDa protein in ccpA 3'region; AltName: Full=ORF2@2.25909e-32@303.0@230
+
+19833347@P46826.1@YTXD_BACME RecName: Full=Uncharacterized 29.3 kDa protein in ccpA 3'region; AltName: Full=ORF1@1.24967e-48@415.0@259
+
+19833348@P29248.1@FLIA_PSEAE RecName: Full=RNA polymerase sigma factor FliA; AltName: Full=RNA polymerase sigma factor for flagellar operon; AltName: Full=Sigma F; AltName: Full=Sigma-28@1.50251e-89@682.0@239
+
+19833349@O25678.1@YLXH_HELPY RecName: Full=Flagellum site-determining protein YlxH@1.75847e-45@399.0@268
+
+19833350@Q9I3P8.1@FLHF_PSEAE RecName: Full=Flagellar biosynthesis protein FlhF; AltName: Full=Flagella-associated GTP-binding protein@5.60313e-64@542.0@396
+
+19833351@P76298.1@FLHA_ECOLI RecName: Full=Flagellar biosynthesis protein FlhA@0.0@1800.0@674
+
+19833352@P40727.1@FLHB_SALTY RecName: Full=Flagellar biosynthetic protein FlhB@3.453e-92@727.0@372
+
+19833353@Q89AZ0.1@FLIR_BUCBP RecName: Full=Flagellar biosynthetic protein FliR@5.68475e-38@343.0@232
+
+19833354@P0A1L5.1@FLIQ_SALTY RecName: Full=Flagellar biosynthetic protein FliQ >gi@61224042@sp@P0A1L6.1@FLIQ_SALTI RecName: Full=Flagellar biosynthetic protein FliQ@1.29644e-23@218.0@89
+
+19833355@Q51468.2@FLIP_PSEAE RecName: Full=Flagellar biosynthetic protein FliP@7.79852e-96@725.0@226
+
+19833356@Q51467.2@FLIO_PSEAE RecName: Full=Flagellar protein FliO@3.66166e-07@116.0@101
+
+19833357@Q51466.2@FLIN_PSEAE RecName: Full=Flagellar motor switch protein FliN@5.41624e-39@327.0@83
+
+19833358@Q51465.2@FLIM_PSEAE RecName: Full=Flagellar motor switch protein FliM@3.70442e-52@452.0@351
+
+19833359@
+19833360@P9WJF0.1@DPRE1_MYCTO RecName: Full=Probable decaprenylphosphoryl-beta-D-ribose oxidase >gi@618730400@sp@P9WJF1.1@DPRE1_MYCTU RecName: Full=FAD-dependent decaprenylphosphoryl-beta-D-ribofuranose 2-oxidase; AltName: Full=Decaprenylphospho-beta-D-ribofuranose 2-dehydrogenase; AltName: Full=Decaprenylphosphoryl-beta-D-ribofuranose 2'-epimerase 1; Short=DprE1@1.03929e-50@457.0@452
+
+19833361@P0DKC6.1@HSD1B_ARATH RecName: Full=11-beta-hydroxysteroid dehydrogenase 1B; AltName: Full=17-beta-hydroxysteroid dehydrogenase 1B; AltName: Full=Hydroxysteroid dehydrogenase 1; Short=AtHSD1 >gi@487523350@sp@P0DKC5.1@HSD1A_ARATH RecName: Full=11-beta-hydroxysteroid dehydrogenase 1A; AltName: Full=17-beta-hydroxysteroid dehydrogenase 1A; AltName: Full=Hydroxysteroid dehydrogenase 1; Short=AtHSD1@3.44732e-09@143.0@242
+
+19833362@P27111.5@CYNR_ECOLI RecName: Full=HTH-type transcriptional regulator CynR; AltName: Full=Cyn operon transcriptional activator@3.1465e-16@198.0@233
+
+19833363@A7N6R9.2@CQSA_VIBCB RecName: Full=CAI-1 autoinducer synthase; AltName: Full=Cholerae quorum-sensing autoinducer@1.87137@77.0@59
+
+19833364@Q8K9E3.1@Y396_BUCAP RecName: Full=Uncharacterized protein BUsg_396@5.39773@71.0@58
+
+19833365@Q5ZUJ9.1@SYA_LEGPH RecName: Full=Alanine--tRNA ligase; AltName: Full=Alanyl-tRNA synthetase; Short=AlaRS >gi@205830130@sp@A5ICV6.1@SYA_LEGPC RecName: Full=Alanine--tRNA ligase; AltName: Full=Alanyl-tRNA synthetase; Short=AlaRS@0.0@4610.0@860
+
+19833366@P37864.2@RECX_LEGPN RecName: Full=Regulatory protein RecX >gi@59798139@sp@Q5X4B6.1@RECX_LEGPA RecName: Full=Regulatory protein RecX >gi@166918761@sp@A5ICV7.1@RECX_LEGPC RecName: Full=Regulatory protein RecX@5.20325e-109@791.0@150
+
+19833367@Q5X4B5.1@RECA_LEGPA RecName: Full=Protein RecA; AltName: Full=Recombinase A >gi@59798152@sp@Q5ZUJ7.1@RECA_LEGPH RecName: Full=Protein RecA; AltName: Full=Recombinase A >gi@166220654@sp@A5ICV8.1@RECA_LEGPC RecName: Full=Protein RecA; AltName: Full=Recombinase A@0.0@1809.0@348
+
+19833368@
+19833369@
+19833370@P51967.1@PNCC_ENTAG RecName: Full=Nicotinamide-nucleotide amidohydrolase PncC; Short=NMN amidohydrolase PncC; AltName: Full=NMN deamidase; AltName: Full=Nicotinamide-nucleotide amidase@5.53218e-48@393.0@152
+
+19833371@Q5ZUJ3.2@MUTS_LEGPH RecName: Full=DNA mismatch repair protein MutS >gi@189083211@sp@A5ICW2.2@MUTS_LEGPC RecName: Full=DNA mismatch repair protein MutS@0.0@4497.0@846
+
+19833372@D2TN56.1@TAMA_CITRI RecName: Full=Translocation and assembly module TamA; AltName: Full=Autotransporter assembly factor TamA; Flags: Precursor@7.35665e-52@481.0@579
+
+19833373@E1WAU5.1@TAMB_SALTS RecName: Full=Translocation and assembly module TamB; AltName: Full=Autotransporter assembly factor TamB@4.99485e-25@289.0@380
+
+19833374@O67876.1@HEM2_AQUAE RecName: Full=Delta-aminolevulinic acid dehydratase; Short=ALAD; Short=ALADH; AltName: Full=Porphobilinogen synthase@2.96394e-122@916.0@310
+
+19833375@P75969.1@INTE_ECOLI RecName: Full=Prophage integrase IntE; AltName: Full=Int(Lambda); AltName: Full=Prophage e14 integrase; AltName: Full=Prophage lambda integrase@1.96149@69.0@37
+
+19833376@Q8ZNA5.2@FADL_SALTY RecName: Full=Long-chain fatty acid transport protein; AltName: Full=Outer membrane FadL protein; AltName: Full=Outer membrane flp protein; Flags: Precursor@6.1081e-30@312.0@446
+
+19833377@O23653.2@AK2_ARATH RecName: Full=Aspartokinase 2, chloroplastic; AltName: Full=Aspartate kinase 2; Flags: Precursor@4.11082e-61@559.0@470
+
+19833378@B2UX57.1@ADDA_CLOBA RecName: Full=ATP-dependent helicase/nuclease subunit A; AltName: Full=ATP-dependent helicase/nuclease AddA@2.53075e-31@343.0@948
+
+19833379@P45135.2@APBC_HAEIN RecName: Full=Iron-sulfur cluster carrier protein@7.85859e-98@761.0@252
+
+19833380@D4AQ83.1@PGA52_ARTBC RecName: Full=PGA52-like protein ARB_06390; AltName: Full=Allergen Asp f 4 homolog; Flags: Precursor@0.393514@77.0@55
+
+19833381@P44418.1@OXYR_HAEIN RecName: Full=Hydrogen peroxide-inducible genes activator@3.01192e-83@652.0@297
+
+19833382@P57538.1@Y466_BUCAI RecName: Full=Uncharacterized transporter BU466@0.000433491@107.0@150
+
+19833383@
+19833384@Q5ZUI0.1@LPXK_LEGPH RecName: Full=Tetraacyldisaccharide 4'-kinase; AltName: Full=Lipid A 4'-kinase >gi@166199138@sp@A5ICX5.1@LPXK_LEGPC RecName: Full=Tetraacyldisaccharide 4'-kinase; AltName: Full=Lipid A 4'-kinase@0.0@1730.0@323
+
+19833385@Q5ZUH9.2@MSBA_LEGPH RecName: Full=Lipid A export ATP-binding/permease protein MsbA@0.0@3103.0@588
+
+19833386@B2KE31.1@DNLJ_ELUMP RecName: Full=DNA ligase; AltName: Full=Polydeoxyribonucleotide synthase [NAD(+)]@4.00116@72.0@40
+
+19833387@Q5X496.1@PYRD_LEGPA RecName: Full=Dihydroorotate dehydrogenase (quinone); AltName: Full=DHOdehase; Short=DHOD; Short=DHODase; AltName: Full=Dihydroorotate oxidase >gi@73913684@sp@Q5ZUH7.2@PYRD_LEGPH RecName: Full=Dihydroorotate dehydrogenase (quinone); AltName: Full=DHOdehase; Short=DHOD; Short=DHODase; AltName: Full=Dihydroorotate oxidase >gi@166199364@sp@A5ICX8.1@PYRD_LEGPC RecName: Full=Dihydroorotate dehydrogenase (quinone); AltName: Full=DHOdehase; Short=DHOD; Short=DHODase; AltName: Full=Dihydroorotate oxidase@0.0@1762.0@333
+
+19833388@
+19833389@Q2LR05.1@ATPB_SYNAS RecName: Full=ATP synthase subunit beta; AltName: Full=ATP synthase F1 sector subunit beta; AltName: Full=F-ATPase subunit beta@8.75788@68.0@45

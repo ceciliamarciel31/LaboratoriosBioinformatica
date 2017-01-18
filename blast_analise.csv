@@ -1,0 +1,596 @@
+O07293.1
+KW:Antibiotic resistance,Hydrolase,Signal
+GO:F:beta-lactamase activity,F:penicillin binding,P:antibiotic catabolic process,P:response to antibiotic
+
+P16873.1
+KW:Antibiotic resistance,Cell cycle,Cell division,Cell inner membrane,Cell membrane,Cell shape,Cell wall biogenesis/degradation,Membrane,Multifunctional enzyme,Peptidoglycan synthesis,Transmembrane,Transmembrane helix
+GO:C:integral component of membrane,C:plasma membrane,F:catalytic activity,F:penicillin binding,P:cell cycle,P:cell division,P:cell wall organization,P:peptidoglycan biosynthetic process,P:regulation of cell shape,P:response to antibiotic
+
+P9WMJ4.1
+KW:Antibiotic resistance,Complete proteome,Cytoplasm,DNA-binding,Repressor,Transcription,Transcription regulation
+GO:C:cytoplasm,F:DNA binding,P:negative regulation of transcription, DNA-templated,P:response to antibiotic,P:transcription, DNA-templated
+
+Q5ZV19.2
+KW:Complete proteome,Isomerase,Reference proteome,tRNA processing
+GO:F:pseudouridine synthase activity,F:RNA binding,P:tRNA pseudouridine synthesis
+
+P45524.1
+KW:Complete proteome,Hydrolase,Reference proteome,Serine esterase
+GO:F:hydrolase activity, acting on ester bonds,F:poly(3-hydroxybutyrate) depolymerase activity,P:cellular lipid metabolic process
+
+Q9ZHC7.1
+KW:ATP-binding,Cell membrane,Hydrolase,Membrane,Metal-binding,Nucleotide-binding,Phosphoprotein,Plasmid,Transmembrane,Transmembrane helix
+GO:C:integral component of membrane,C:plasma membrane,F:ATP binding,F:metal ion binding,F:silver-exporting ATPase activity
+
+A8IQD2.1
+KW:Complete proteome,Hydrolase,Metal-binding,Plasmid,Reference proteome,Zinc
+GO:F:acyl-L-homoserine-lactone lactonohydrolase activity,F:metal ion binding
+
+P75821.2
+KW:Complete proteome,Reference proteome
+GO:F:catalytic activity,F:coenzyme binding
+
+O67185.1
+KW:3D-structure,Acyltransferase,Complete proteome,Cytoplasm,Fatty acid biosynthesis,Fatty acid metabolism,Lipid biosynthesis,Lipid metabolism,Multifunctional enzyme,Reference proteome,Transferase
+GO:C:cytoplasm,F:3-oxoacyl-[acyl-carrier-protein] synthase activity,F:acetyl-CoA C-acyltransferase activity,F:beta-ketoacyl-acyl-carrier-protein synthase III activity,P:fatty acid beta-oxidation,P:fatty acid biosynthetic process
+
+Q8CWR6.1
+KW:Carbohydrate metabolism,Cell membrane,Complete proteome,Glycerol metabolism,Glycosyltransferase,Lipid biosynthesis,Lipid metabolism,Magnesium,Membrane,Reference proteome,Transferase
+GO:C:plasma membrane,F:magnesium ion binding,F:transferase activity, transferring hexosyl groups,P:glycerol metabolic process,P:membrane lipid biosynthetic process
+
+P77748.1
+KW:4Fe-4S,Complete proteome,FAD,Flavoprotein,Iron,Iron-sulfur,Metal-binding,Reference proteome
+GO:F:4 iron, 4 sulfur cluster binding,F:flavin adenine dinucleotide binding,F:metal ion binding,F:oxidoreductase activity, acting on CH-OH group of donors
+
+O13842.1
+KW:Carbohydrate metabolism,Chitin degradation,Complete proteome,Hydrolase,Polysaccharide degradation,Reference proteome,Sporulation
+GO:C:cytosol,C:membrane,C:nucleus,F:chitin deacetylase activity,P:ascospore wall assembly,P:ascospore wall chitin catabolic process
+
+B2TTF0.1
+KW:Cell inner membrane,Cell membrane,Complete proteome,Membrane,Transmembrane,Transmembrane helix,Transport
+GO:C:integral component of membrane,C:plasma membrane,F:enterobactin transporter activity
+
+Q2R4J1.1
+KW:Complete proteome,Membrane,Reference proteome,Signal,Transmembrane,Transmembrane helix
+GO:C:integral component of membrane,P:Golgi calcium ion transport
+
+P39839.3
+KW:Complete proteome,Hydrolase,Protease,Reference proteome,Serine protease
+GO:F:serine-type peptidase activity
+
+Q9KS12.2
+KW:3D-structure,ATP-binding,Autocatalytic cleavage,Complete proteome,Direct protein sequencing,Host cell membrane,Host cytoplasm,Host membrane,Hydrolase,Ligase,Lipid-binding,Magnesium,Membrane,Metal-binding,Multifunctional enzyme,Nucleotide-binding,Protease,Reference proteome,Repeat,Secreted,Signal,Thiol protease,Toxin,Virulence
+GO:C:extracellular region,C:host cell cytosol,C:host cell plasma membrane,C:membrane,F:acid-amino acid ligase activity,F:ATP binding,F:calcium ion binding,F:cysteine-type endopeptidase activity,F:cysteine-type peptidase activity,F:inositol hexakisphosphate binding,F:ligase activity,F:lipid binding,F:magnesium ion binding,P:actin filament depolymerization,P:actin filament reorganization,P:hemolysis by symbiont of host erythrocytes,P:isopeptide cross-linking,P:isopeptide cross-linking via N6-(L-isoglutamyl)-L-lysine,P:killing of cells of other organism,P:pathogenesis,P:protein autoprocessing
+
+Q8K9V1.1
+KW:Amino-acid biosynthesis,Complete proteome,Lyase,Pyridoxal phosphate,Threonine biosynthesis
+GO:F:pyridoxal phosphate binding,F:threonine synthase activity,P:threonine biosynthetic process
+
+Q7N562.1
+KW:Complete proteome,Periplasm,Reference proteome,Signal
+GO:C:periplasmic space
+
+P75925.1
+KW:Cell inner membrane,Cell membrane,Complete proteome,Electron transport,Heme,Iron,Membrane,Metal-binding,Reference proteome,Transmembrane,Transmembrane helix,Transport
+GO:C:integral component of membrane,C:plasma membrane,F:electron carrier activity,F:metal ion binding,P:respiratory electron transport chain
+
+Q1I3W0.1
+KW:Complete proteome,Periplasm,Signal
+GO:C:periplasmic space
+
+B2TJ88.1
+KW:Cobalt,Complete proteome,Lyase,Manganese,Reference proteome
+GO:F:manganese ion binding,F:myo-inosose-2 dehydratase activity,P:inositol catabolic process
+
+Q63B73.1
+KW:Complete proteome,Hydrolase,Magnesium,Metal-binding,NAD,Thiamine pyrophosphate
+GO:F:3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase activity,F:magnesium ion binding,F:thiamine pyrophosphate binding,P:inositol catabolic process
+
+P42414.1
+KW:ATP-binding,Complete proteome,Kinase,Nucleotide-binding,Reference proteome,Transferase
+GO:C:cytoplasm,F:5-dehydro-2-deoxygluconokinase activity,F:ATP binding,F:carbohydrate kinase activity,P:carbohydrate phosphorylation,P:inositol catabolic process
+
+O05389.2
+KW:Complete proteome,Oxidoreductase,Reference proteome
+GO:F:oxidoreductase activity,P:oxidation-reduction process
+
+P0AEP2.1
+KW:Cell inner membrane,Cell membrane,Complete proteome,Membrane,Sugar transport,Symport,Transmembrane,Transmembrane helix,Transport
+GO:C:integral component of membrane,C:plasma membrane,F:substrate-specific transmembrane transporter activity,F:symporter activity,P:carbohydrate transport
+
+Q8NGA8.1
+KW:Cell membrane,Complete proteome,Disulfide bond,G-protein coupled receptor,Membrane,Olfaction,Receptor,Reference proteome,Sensory transduction,Transducer,Transmembrane,Transmembrane helix
+GO:C:integral component of membrane,C:plasma membrane,F:G-protein coupled receptor activity,F:olfactory receptor activity,F:transmembrane signaling receptor activity,P:detection of chemical stimulus involved in sensory perception,P:G-protein coupled receptor signaling pathway
+
+P43147.1
+KW:Calcium,Direct protein sequencing,Hydrolase,Metal-binding,Metalloprotease,Protease,Secreted,Signal,Virulence,Zinc,Zymogen
+GO:C:extracellular region,F:metal ion binding,F:metalloendopeptidase activity,P:pathogenesis
+
+D2Z030.1
+KW:Antibiotic biosynthesis,ATP-binding,Ligase,Magnesium,Manganese,Metal-binding,Nucleotide-binding
+GO:F:ATP binding,F:cyclo-ligase activity,F:metal ion binding,P:antibiotic biosynthetic process
+
+Q9I4E3.1
+KW:3D-structure,Complete proteome,Hydrolase,Metal-binding,Reference proteome,Zinc
+GO:F:dimethylargininase activity,F:metal ion binding
+
+P37034.2
+KW:Cell membrane,Complete proteome,Membrane,Reference proteome,Transmembrane,Transmembrane helix,Transport
+GO:C:integral component of membrane,C:plasma membrane,F:amino acid transmembrane transporter activity
+
+Q8BU40.1
+KW:ATP-binding,Complete proteome,Inflammatory response,Leucine-rich repeat,Nucleotide-binding,Reference proteome,Repeat
+GO:F:ATP binding,P:inflammatory response
+
+Q3UDW8.2
+KW:Acyltransferase,Alternative initiation,Complete proteome,Disulfide bond,Glycoprotein,Lysosome,Membrane,Phosphoprotein,Reference proteome,Transferase,Transmembrane,Transmembrane helix
+GO:C:integral component of membrane,C:lysosomal membrane,F:heparan-alpha-glucosaminide N-acetyltransferase activity,F:transferase activity, transferring acyl groups,P:lysosomal transport,P:protein oligomerization
+
+P76577.1
+KW:Cell inner membrane,Cell membrane,Cell shape,Cell wall biogenesis/degradation,Complete proteome,Glycosyltransferase,Membrane,Peptidoglycan synthesis,Reference proteome,Signal-anchor,Transferase,Transmembrane,Transmembrane helix
+GO:C:integral component of membrane,C:plasma membrane,F:drug binding,F:penicillin binding,F:peptidoglycan glycosyltransferase activity,P:cell wall organization,P:peptidoglycan biosynthetic process,P:positive regulation of cell division,P:regulation of cell shape
+
+Q8ZDJ2.1
+KW:Complete proteome,Reference proteome,Signal
+GO:F:endopeptidase inhibitor activity
+
+Q1D651.1
+KW:Carbohydrate metabolism,Complete proteome,Glycosyltransferase,Reference proteome,Transferase
+GO:F:hydrolase activity, hydrolyzing O-glycosyl compounds,F:transferase activity, transferring hexosyl groups,P:alpha-glucan biosynthetic process
+
+Q09840.1
+KW:Calcium,Carbohydrate metabolism,Cell membrane,Complete proteome,Disulfide bond,Glycoprotein,Glycosidase,GPI-anchor,Hydrolase,Lipoprotein,Membrane,Metal-binding,Reference proteome,Signal
+GO:C:anchored component of external side of plasma membrane,C:endoplasmic reticulum,F:alpha-amylase activity,F:calcium ion binding,P:carbohydrate catabolic process,P:extracellular polysaccharide metabolic process,P:fungal-type cell wall biogenesis,P:regulation of cell shape
+
+P22102.1
+KW:3D-structure,Acetylation,Alternative splicing,ATP-binding,Complete proteome,Ligase,Manganese,Metal-binding,Multifunctional enzyme,Nucleotide-binding,Phosphoprotein,Polymorphism,Purine biosynthesis,Reference proteome,Transferase
+GO:C:cytosol,C:extracellular exosome,F:ATP binding,F:metal ion binding,F:phosphoribosylamine-glycine ligase activity,F:phosphoribosylformylglycinamidine cyclo-ligase activity,F:phosphoribosylglycinamide formyltransferase activity,P:'de novo' IMP biosynthetic process,P:brainstem development,P:cerebellum development,P:cerebral cortex development,P:glycine metabolic process,P:purine nucleobase biosynthetic process,P:purine ribonucleoside monophosphate biosynthetic process,P:response to inorganic substance,P:response to organic substance,P:tetrahydrofolate biosynthetic process
+
+Q465Q9.1
+KW:ATP-binding,Complete proteome,Ligase,Magnesium,Manganese,Metal-binding,Nucleotide-binding,Purine biosynthesis,Reference proteome
+GO:F:ATP binding,F:magnesium ion binding,F:manganese ion binding,F:phosphoribosylamine-glycine ligase activity,P:'de novo' IMP biosynthetic process,P:purine nucleobase biosynthetic process
+
+Q51342.3
+KW:Complete proteome,Glutamine amidotransferase,Glycosyltransferase,Magnesium,Metal-binding,Purine biosynthesis,Reference proteome,Transferase
+GO:F:amidophosphoribosyltransferase activity,F:magnesium ion binding,P:'de novo' IMP biosynthetic process,P:glutamine metabolic process,P:nucleoside metabolic process,P:purine nucleobase biosynthetic process
+
+Q5X4M9.1
+KW:ATP-binding,Ligase,Nucleotide-binding,Purine biosynthesis
+GO:F:ATP binding,F:phosphoribosylaminoimidazolesuccinocarboxamide synthase activity,P:'de novo' IMP biosynthetic process
+
+A0B5C6.1
+KW:ATP-binding,Complete proteome,Cytoplasm,Glutamine amidotransferase,Hydrolase,Ligase,Nucleotide-binding,Purine biosynthesis,Reference proteome
+GO:C:cytoplasm,F:ATP binding,F:glutaminase activity,F:phosphoribosylformylglycinamidine synthase activity,P:'de novo' IMP biosynthetic process,P:glutamine metabolic process
+
+Q3A515.1
+KW:ATP-binding,Complete proteome,Cytoplasm,Ligase,Nucleotide-binding,Purine biosynthesis,Reference proteome
+GO:C:cytoplasm,F:ATP binding,F:phosphoribosylformylglycinamidine cyclo-ligase activity,P:'de novo' IMP biosynthetic process
+
+A0B5C7.1
+KW:ATP-binding,Complete proteome,Cytoplasm,Ligase,Magnesium,Metal-binding,Nucleotide-binding,Purine biosynthesis,Reference proteome
+GO:C:cytoplasm,F:ATP binding,F:magnesium ion binding,F:phosphoribosylformylglycinamidine synthase activity,P:'de novo' IMP biosynthetic process
+
+Q487R3.1
+KW:Cell inner membrane,Cell membrane,Complete proteome,Cytochrome c-type biogenesis,Disulfide bond,Electron transport,Membrane,NAD,Oxidoreductase,Redox-active center,Reference proteome,Signal,Transmembrane,Transmembrane helix,Transport
+GO:C:integral component of membrane,C:plasma membrane,F:electron carrier activity,F:protein-disulfide reductase activity,P:cell redox homeostasis,P:cytochrome complex assembly
+
+P0AFP5.1
+KW:Complete proteome,Oxidoreductase
+GO:F:oxidoreductase activity
+
+A7RFT2.1
+KW:Cell cycle,Cell division,Complete proteome,Cytoplasm,Reference proteome
+GO:C:cytoplasm,P:cell cycle arrest,P:cell division,P:formation of cytoplasmic translation initiation complex,P:regulation of mitotic cell cycle,P:regulation of translation
+
+P52614.1
+KW:Bacterial flagellum biogenesis,Complete proteome,Reference proteome
+GO:C:bacterial-type flagellum hook,P:bacterial-type flagellum assembly,P:bacterial-type flagellum-dependent cell motility
+
+P37033.1
+KW:Complete proteome,Reference proteome
+GO:
+
+P37032.1
+KW:4Fe-4S,Complete proteome,Iron,Iron-sulfur,Lyase,Metal-binding,Reference proteome,RNA-binding,Tricarboxylic acid cycle
+GO:F:2-methylisocitrate dehydratase activity,F:4 iron, 4 sulfur cluster binding,F:aconitate hydratase activity,F:metal ion binding,F:mRNA 3'-UTR binding,F:mRNA binding,P:propionate metabolic process, methylcitrate cycle,P:tricarboxylic acid cycle
+
+P37034.2
+KW:Cell membrane,Complete proteome,Membrane,Reference proteome,Transmembrane,Transmembrane helix,Transport
+GO:C:integral component of membrane,C:plasma membrane,F:amino acid transmembrane transporter activity
+
+Q45952.1
+KW:Coiled coil,Complete proteome,Plasmid,Reference proteome
+GO:
+
+P55614.1
+KW:Complete proteome,Plasmid,Reference proteome,Transposable element
+GO:
+
+O52485.1
+KW:DNA-binding,FAD,Flavoprotein,Multifunctional enzyme,NAD,Oxidoreductase,Proline metabolism,Repressor,Transcription,Transcription regulation
+GO:F:1-pyrroline-5-carboxylate dehydrogenase activity,F:DNA binding,F:oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor,F:proline dehydrogenase activity,F:transcription factor activity, sequence-specific DNA binding,P:proline biosynthetic process,P:proline catabolic process to glutamate,P:transcription, DNA-templated
+
+A1SWR4.1
+KW:Chaperone,Complete proteome,Cytoplasm,Reference proteome,RNA-binding
+GO:C:cytoplasm,F:RNA strand annealing activity,F:RNA strand-exchange activity,P:posttranscriptional regulation of gene expression
+
+B6J5Y2.1
+KW:Methyltransferase,S-adenosyl-L-methionine,Transferase,Ubiquinone biosynthesis
+GO:F:2-octaprenyl-6-hydroxyphenol methylase activity,F:2-polyprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity,F:3-demethylubiquinone-9 3-O-methyltransferase activity,P:ubiquinone biosynthetic process
+
+Q8NQU9.1
+KW:Complete proteome,Cytoplasm,DNA damage,DNA repair,Glycosidase,Hydrolase,Reference proteome
+GO:C:cytoplasm,F:uracil DNA N-glycosylase activity,P:base-excision repair
+
+P04152.2
+KW:Complete proteome,DNA damage,DNA repair,Reference proteome,SOS mutagenesis,SOS response
+GO:C:integral component of membrane,F:damaged DNA binding,P:cellular response to DNA damage stimulus,P:single strand break repair,P:SOS response
+
+P0AG12.1
+KW:Autocatalytic cleavage,Complete proteome,DNA damage,DNA repair,Hydrolase,Protease,Serine protease,SOS mutagenesis,SOS response
+GO:F:DNA binding,F:serine-type peptidase activity,P:DNA repair,P:regulation of transcription, DNA-templated,P:SOS response
+
+P06621.1
+KW:3D-structure,Carboxypeptidase,Direct protein sequencing,Hydrolase,Metal-binding,Metalloprotease,Pharmaceutical,Protease,Signal,Zinc
+GO:F:carboxypeptidase activity,F:metal ion binding,F:metallopeptidase activity
+
+A4W9J6.1
+KW:Acyltransferase,Arginine metabolism,Complete proteome,Reference proteome,Transferase
+GO:F:arginine N-succinyltransferase activity,P:arginine catabolic process to glutamate,P:arginine catabolic process to succinate
+
+Q5ZUT5.1
+KW:Arginine metabolism,Complete proteome,NAD,Oxidoreductase,Reference proteome
+GO:F:succinylglutamate-semialdehyde dehydrogenase activity,P:arginine catabolic process to glutamate,P:arginine catabolic process to succinate
+
+Q5ZUT4.1
+KW:Arginine metabolism,Complete proteome,Hydrolase,Reference proteome
+GO:F:N-succinylarginine dihydrolase activity,P:arginine catabolic process to glutamate,P:arginine catabolic process to succinate
+
+Q7NQK7.1
+KW:Complete proteome,Cytoplasm,Polyamine biosynthesis,Reference proteome,Spermidine biosynthesis,Transferase
+GO:C:cytoplasm,F:spermidine synthase activity,P:spermidine biosynthetic process
+
+Q5WVZ0.1
+KW:Complete proteome,Cytoplasm,Protein biosynthesis
+GO:C:cytoplasm,P:translational termination
+
+Q5ZUT0.1
+KW:ATP-binding,Complete proteome,Cytoplasm,Kinase,Nucleotide-binding,Pyrimidine biosynthesis,Reference proteome,Transferase
+GO:C:cytoplasm,F:ATP binding,F:UMP kinase activity,P:'de novo' CTP biosynthetic process
+
+Q5ZUS9.2
+KW:Complete proteome,Cytoplasm,Elongation factor,Protein biosynthesis,Reference proteome
+GO:C:cytoplasm,F:translation elongation factor activity
+
+Q5ZUS8.2
+KW:Complete proteome,Reference proteome,Ribonucleoprotein,Ribosomal protein
+GO:C:small ribosomal subunit,F:structural constituent of ribosome,P:translation
+
+O96028.1
+KW:3D-structure,Alternative splicing,Chromatin regulator,Chromosomal rearrangement,Chromosome,Complete proteome,Cytoplasm,DNA-binding,Metal-binding,Methyltransferase,Nucleus,Phosphoprotein,Proto-oncogene,Reference proteome,Repeat,S-adenosyl-L-methionine,Transcription,Transcription regulation,Transferase,Zinc,Zinc-finger
+GO:C:chromosome,C:cytoplasm,C:nucleoplasm,C:nucleus,F:chromatin binding,F:histone methyltransferase activity (H4-K20 specific),F:histone-lysine N-methyltransferase activity,F:sequence-specific DNA binding,F:zinc ion binding,P:anatomical structure morphogenesis,P:atrial septum primum morphogenesis,P:atrial septum secundum morphogenesis,P:bone development,P:double-strand break repair via nonhomologous end joining,P:histone H3-K36 methylation,P:membranous septum morphogenesis,P:negative regulation of transcription from RNA polymerase II promoter,P:positive regulation of isotype switching to IgA isotypes,P:regulation of double-strand break repair via nonhomologous end joining,P:regulation of establishment of protein localization,P:transcription, DNA-templated
+
+P0A1X6.2
+KW:Aminopeptidase,Complete proteome,Direct protein sequencing,Hydrolase,Metal-binding,Protease,Reference proteome
+GO:F:metal ion binding,F:metalloaminopeptidase activity,P:protein initiator methionine removal
+
+Q5ZUS2.1
+KW:Complete proteome,Hydrolase,Magnesium,Multifunctional enzyme,Nucleotidyltransferase,Reference proteome,Repeat,Transferase
+GO:F:[protein-PII] uridylyltransferase activity,F:amino acid binding,F:phosphoric diester hydrolase activity,P:nitrogen compound metabolic process,P:regulation of nitrogen utilization
+
+Q8XGY4.2
+KW:Complete proteome,Hydrolase,Metal-binding,tRNA processing,Zinc
+GO:F:tRNA-specific adenosine-34 deaminase activity,F:zinc ion binding,P:tRNA wobble adenosine to inosine editing
+
+Q5ZUS0.1
+KW:ATP-binding,Complete proteome,Glutamine amidotransferase,GMP biosynthesis,Ligase,Nucleotide-binding,Purine biosynthesis,Reference proteome
+GO:F:ATP binding,F:GMP synthase (glutamine-hydrolyzing) activity,F:pyrophosphatase activity,P:glutamine metabolic process,P:GMP biosynthetic process
+
+P31002.1
+KW:CBS domain,GMP biosynthesis,Metal-binding,NAD,Oxidoreductase,Potassium,Purine biosynthesis,Repeat
+GO:F:IMP dehydrogenase activity,F:metal ion binding,F:nucleotide binding,P:GMP biosynthetic process
+
+P0AEZ5.2
+KW:ATP-binding,Cell cycle,Cell division,Cell inner membrane,Cell membrane,Complete proteome,Membrane,Nucleotide-binding,Septation
+GO:C:plasma membrane,F:ATP binding,F:ATPase activity,P:cell cycle,P:cell division
+
+Q47146.2
+KW:Complete proteome,FAD,Fatty acid metabolism,Flavoprotein,Lipid metabolism,Oxidoreductase,Reference proteome
+GO:C:plasma membrane,F:acyl-CoA dehydrogenase activity,F:electron carrier activity,F:fatty-acyl-CoA binding,F:flavin adenine dinucleotide binding,F:oxidoreductase activity, acting on the CH-CH group of donors, with a flavin as acceptor,P:fatty acid beta-oxidation using acyl-CoA dehydrogenase,P:lipid homeostasis
+
+O05235.1
+KW:Complete proteome,Hydrolase,Reference proteome,Serine esterase
+GO:F:carboxylic ester hydrolase activity,F:hydrolase activity
+
+Q0K998.1
+KW:ATP-binding,Cell inner membrane,Cell membrane,Complete proteome,Hydrolase,Membrane,Nucleotide-binding,Reference proteome,Sugar transport,Transport
+GO:C:ATP-binding cassette (ABC) transporter complex,F:ATP binding,F:glycerol-3-phosphate-transporting ATPase activity,F:hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides,P:carbohydrate transport,P:glycerophosphodiester transport
+
+Q92WD7.1
+KW:Cell inner membrane,Cell membrane,Complete proteome,Membrane,Plasmid,Reference proteome,Sugar transport,Transmembrane,Transmembrane helix,Transport
+GO:C:ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing,C:integral component of plasma membrane,P:carbohydrate transport,P:glycerol-3-phosphate transport,P:glycerophosphodiester transport
+
+Q8FW09.1
+KW:Cell inner membrane,Cell membrane,Complete proteome,Membrane,Sugar transport,Transmembrane,Transmembrane helix,Transport
+GO:C:integral component of membrane,C:plasma membrane,P:carbohydrate transport
+
+Q53FA7.2
+KW:3D-structure,Acetylation,Alternative splicing,Complete proteome,Direct protein sequencing,NADP,Oxidoreductase,Polymorphism,Reference proteome
+GO:C:cytosol,C:extracellular exosome,F:NADPH binding,F:NADPH:quinone reductase activity,F:protein homodimerization activity,F:quinone binding,F:zinc ion binding,P:NADP metabolic process,P:regulation of apoptotic process
+
+Q8Z9B3.1
+KW:Antiport,Cell inner membrane,Cell membrane,Chloride,Complete proteome,Ion transport,Membrane,Transmembrane,Transmembrane helix,Transport
+GO:C:integral component of plasma membrane,F:antiporter activity,F:voltage-gated chloride channel activity
+
+P15395.1
+KW:Amino-acid biosynthesis,Aromatic amino acid biosynthesis,Complete proteome,Glutamine amidotransferase,Lyase,Reference proteome,Tryptophan biosynthesis
+GO:F:anthranilate synthase activity,P:cellular amino acid biosynthetic process,P:glutamine metabolic process,P:tryptophan biosynthetic process
+
+Q60CK7.1
+KW:ATP-binding,Complete proteome,Ligase,Nucleotide-binding,Protein biosynthesis,Reference proteome
+GO:F:ATP binding,F:glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity,P:regulation of translational fidelity,P:translation
+
+Q5ZUQ7.1
+KW:ATP-binding,Complete proteome,Ligase,Nucleotide-binding,Protein biosynthesis,Reference proteome
+GO:C:glutamyl-tRNA(Gln) amidotransferase complex,F:amidase activity,F:ATP binding,F:glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity,P:translation
+
+Q5ZUQ6.1
+KW:ATP-binding,Complete proteome,Ligase,Nucleotide-binding,Protein biosynthesis,Reference proteome
+GO:F:ATP binding,F:glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity,P:translation
+
+P40137.3
+KW:ATP-binding,cAMP biosynthesis,Cell membrane,Lyase,Magnesium,Membrane,Metal-binding,Nucleotide-binding,Transmembrane,Transmembrane helix
+GO:C:integral component of membrane,C:intracellular,C:plasma membrane,F:adenylate cyclase activity,F:ATP binding,F:metal ion binding,P:intracellular signal transduction
+
+Q7VNP1.1
+KW:Activator,Complete proteome,DNA-binding,Reference proteome,Transcription,Transcription regulation
+GO:F:sequence-specific DNA binding,F:transcription factor activity, sequence-specific DNA binding,P:transcription, DNA-templated
+
+A4WDA9.1
+KW:Complete proteome,Iron,Metal-binding,Reference proteome
+GO:F:iron ion binding,F:iron-sulfur cluster binding,F:structural molecule activity,P:iron-sulfur cluster assembly
+
+Q57074.2
+KW:3D-structure,Complete proteome,Metal-binding,Reference proteome,Zinc
+GO:C:cytoplasm,F:2 iron, 2 sulfur cluster binding,F:4 iron, 4 sulfur cluster binding,F:ferrous iron binding,F:iron-sulfur transferase activity,P:[2Fe-2S] cluster assembly,P:cellular iron ion homeostasis,P:protein maturation by iron-sulfur cluster transfer
+
+A3QFD5.1
+KW:2Fe-2S,Complete proteome,Cytoplasm,Iron,Iron-sulfur,Metal-binding,Pyridoxal phosphate,Reference proteome,Transferase
+GO:C:cytoplasm,F:2 iron, 2 sulfur cluster binding,F:cysteine desulfurase activity,F:metal ion binding,F:pyridoxal phosphate binding,P:[2Fe-2S] cluster assembly
+
+Q7N222.1
+KW:Complete proteome,Cytoplasm,Methyltransferase,Reference proteome,S-adenosyl-L-methionine,Transferase,tRNA processing
+GO:C:cytoplasm,F:RNA binding,F:RNA methyltransferase activity,P:tRNA processing
+
+Q9HXI4.1
+KW:Complete proteome,Hydrolase,Magnesium,Metal-binding,Reference proteome
+GO:C:cytoplasm,F:inositol monophosphate 1-phosphatase activity,F:inositol monophosphate 3-phosphatase activity,F:inositol monophosphate 4-phosphatase activity,F:magnesium ion binding,P:inositol metabolic process,P:inositol phosphate dephosphorylation,P:phosphatidylinositol phosphorylation,P:signal transduction
+
+Q2YMB3.2
+KW:Antiport,Cell inner membrane,Cell membrane,Complete proteome,Ion transport,Membrane,Reference proteome,Sodium,Sodium transport,Transmembrane,Transmembrane helix,Transport
+GO:C:integral component of membrane,C:plasma membrane,F:antiporter activity,F:peptidase activity,F:sodium ion transmembrane transporter activity,P:regulation of pH
+
+Q7AMH5.1
+KW:ATP-binding,Chaperone,Coiled coil,Complete proteome,Cytoplasm,Nucleotide-binding,Repeat,Stress response
+GO:C:cytoplasm,F:ATP binding,P:protein processing,P:response to heat
+
+P37773.3
+KW:ATP-binding,Cell cycle,Cell division,Cell shape,Cell wall biogenesis/degradation,Complete proteome,Ligase,Magnesium,Nucleotide-binding,Peptidoglycan synthesis,Reference proteome,Secreted
+GO:C:cytoplasm,C:extracellular region,F:acid-amino acid ligase activity,F:ATP binding,F:identical protein binding,P:cell cycle,P:cell division,P:cell wall organization,P:peptidoglycan biosynthetic process,P:peptidoglycan turnover,P:regulation of cell shape
+
+P46474.4
+KW:Complete proteome,Reference proteome,Signal
+GO:
+
+Q9I4N1.1
+KW:ATP synthesis,ATP-binding,Bacterial flagellum biogenesis,Bacterial flagellum protein export,Complete proteome,Cytoplasm,Hydrogen ion transport,Hydrolase,Ion transport,Nucleotide-binding,Protein transport,Reference proteome,Transport
+GO:C:cytoplasm,C:type III protein secretion system complex,F:ATP binding,F:ATPase activity,P:ATP biosynthetic process,P:bacterial-type flagellum assembly,P:bacterial-type flagellum-dependent cell motility,P:protein secretion by the type III secretion system,P:proton transport
+
+Q51464.2
+KW:Bacterial flagellum,Cell inner membrane,Cell membrane,Chemotaxis,Complete proteome,Flagellar rotation,Membrane,Reference proteome
+GO:C:bacterial-type flagellum basal body,C:plasma membrane,F:motor activity,P:bacterial-type flagellum-dependent cell motility,P:chemotaxis
+
+Q51463.2
+KW:Bacterial flagellum,Cell inner membrane,Cell membrane,Complete proteome,Membrane,Reference proteome,Transmembrane,Transmembrane helix
+GO:C:bacterial-type flagellum basal body, MS ring,C:integral component of membrane,C:plasma membrane,F:motor activity,P:bacterial-type flagellum-dependent cell motility
+
+C3K0U6.1
+KW:Bacterial flagellum,Complete proteome,Reference proteome
+GO:C:bacterial-type flagellum basal body,F:motor activity,F:structural molecule activity,P:bacterial-type flagellum-dependent cell motility
+
+Q06065.2
+KW:ATP-binding,Complete proteome,Cytoplasm,DNA-binding,Nucleotide-binding,Phosphoprotein,Reference proteome,Repressor,Transcription,Transcription regulation,Two-component regulatory system
+GO:C:cytoplasm,F:ATP binding,F:ornithine decarboxylase inhibitor activity,F:sequence-specific DNA binding,F:transcription factor activity, sequence-specific DNA binding,P:phosphorelay signal transduction system,P:positive regulation of transcription, DNA-templated,P:regulation of polyamine biosynthetic process,P:transcription, DNA-templated
+
+Q06067.1
+KW:ATP-binding,Cell inner membrane,Cell membrane,Complete proteome,Kinase,Membrane,Nucleotide-binding,Phosphoprotein,Reference proteome,Transferase,Transmembrane,Transmembrane helix,Two-component regulatory system
+GO:C:integral component of membrane,C:intracellular,C:plasma membrane,F:ATP binding,F:phosphorelay sensor kinase activity,P:phosphorelay signal transduction system,P:protein autophosphorylation,P:regulation of transcription, DNA-templated
+
+P39918.3
+KW:ATP-binding,Complete proteome,DNA replication,Nucleotide-binding,Reference proteome
+GO:F:ATP binding,F:DNA binding,P:DNA replication
+
+A5ICS0.1
+KW:Chaperone,Periplasm,Protein transport,Signal,Transport
+GO:C:periplasmic space,F:lipoprotein transporter activity,F:protein transporter activity
+
+Q9Z3U1.1
+KW:ATP-binding,Cell cycle,Cell division,Cell inner membrane,Cell membrane,Chromosome partition,Complete proteome,DNA-binding,Membrane,Nucleotide-binding,Transmembrane,Transmembrane helix
+GO:C:integral component of membrane,C:plasma membrane,F:ATP binding,F:DNA binding,P:cell cycle,P:cell division,P:chromosome segregation
+
+P39916.2
+KW:Complete proteome,Cytoplasm,Disulfide bond,FAD,Flavoprotein,NADP,Oxidoreductase,Redox-active center,Reference proteome
+GO:C:cytoplasm,F:thioredoxin-disulfide reductase activity,P:removal of superoxide radicals
+
+Q5ZUM5.1
+KW:Acyltransferase,Complete proteome,Cytoplasm,Reference proteome,Transferase
+GO:C:cytoplasm,F:leucyltransferase activity,P:protein catabolic process
+
+P54433.1
+KW:Complete proteome,Reference proteome
+GO:
+
+Q5WVS7.1
+KW:Complete proteome,Cytoplasm,Initiation factor,Protein biosynthesis,RNA-binding,rRNA-binding
+GO:C:cytoplasm,F:ribosome binding,F:rRNA binding,F:translation initiation factor activity
+
+P0AFK1.1
+KW:Complete proteome,Cytoplasm,Hydrolase,Metalloprotease,Protease
+GO:C:cytoplasm,F:metallopeptidase activity
+
+P27840.2
+KW:Complete proteome,Reference proteome
+GO:
+
+Q96EW2.1
+KW:Alternative splicing,Chromosomal rearrangement,Complete proteome,Cytoplasm,Polymorphism,Reference proteome
+GO:C:cytoplasm
+
+Q9PL93.1
+KW:Allosteric enzyme,ATP-binding,Complete proteome,Disulfide bond,DNA replication,Nucleotide-binding,Oxidoreductase,Repeat
+GO:F:ATP binding,F:ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor,P:DNA replication
+
+O84835.1
+KW:3D-structure,Complete proteome,DNA replication,Iron,Metal-binding,Oxidoreductase,Reference proteome
+GO:C:ribonucleoside-diphosphate reductase complex,F:metal ion binding,F:ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor,P:deoxyribonucleotide biosynthetic process,P:DNA replication
+
+Q5ZUL6.1
+KW:Aminoacyl-tRNA synthetase,ATP-binding,Complete proteome,Cytoplasm,Ligase,Magnesium,Metal-binding,Nucleotide-binding,Protein biosynthesis,Reference proteome
+GO:C:cytoplasm,F:ATP binding,F:lysine-tRNA ligase activity,F:magnesium ion binding,F:nucleic acid binding,P:lysyl-tRNA aminoacylation
+
+P66024.1
+KW:Complete proteome,Cytoplasm,Methylation,Protein biosynthesis,Ribosomal frameshifting
+GO:C:cytoplasm,F:translation release factor activity, codon specific
+
+P46827.1
+KW:Cell membrane,Membrane,Transmembrane,Transmembrane helix,Transport
+GO:C:integral component of membrane,C:plasma membrane,P:transport
+
+P46826.1
+KW:Cell membrane,Membrane,Transmembrane,Transmembrane helix,Transport
+GO:C:integral component of membrane,C:plasma membrane,F:protein transporter activity
+
+P29248.1
+KW:Complete proteome,Cytoplasm,DNA-binding,Reference proteome,Sigma factor,Transcription,Transcription regulation
+GO:C:cytoplasm,F:DNA binding,F:DNA-directed RNA polymerase activity,F:sigma factor activity,F:transcription factor activity, sequence-specific DNA binding,P:positive regulation of cell motility,P:regulation of transcription, DNA-templated,P:sporulation resulting in formation of a cellular spore,P:transcription initiation from bacterial-type RNA polymerase promoter
+
+O25678.1
+KW:ATP-binding,Bacterial flagellum biogenesis,Complete proteome,Nucleotide-binding,Reference proteome
+GO:F:ATP binding,P:bacterial-type flagellum organization
+
+Q9I3P8.1
+KW:Bacterial flagellum biogenesis,Bacterial flagellum protein export,Cell membrane,Complete proteome,GTP-binding,Membrane,Nucleotide-binding,Protein transport,Reference proteome,Transport
+GO:C:intracellular,C:plasma membrane,F:GTP binding,F:GTPase activity,P:bacterial-type flagellum organization,P:SRP-dependent cotranslational protein targeting to membrane
+
+P76298.1
+KW:Bacterial flagellum biogenesis,Bacterial flagellum protein export,Cell inner membrane,Cell membrane,Complete proteome,Membrane,Protein transport,Reference proteome,Transmembrane,Transmembrane helix,Transport
+GO:C:integral component of membrane,C:plasma membrane,P:bacterial-type flagellum assembly,P:protein secretion
+
+P40727.1
+KW:3D-structure,Bacterial flagellum biogenesis,Bacterial flagellum protein export,Cell inner membrane,Cell membrane,Complete proteome,Membrane,Protein transport,Reference proteome,Transmembrane,Transmembrane helix,Transport
+GO:C:integral component of membrane,C:plasma membrane,P:bacterial-type flagellum assembly,P:protein secretion
+
+Q89AZ0.1
+KW:Bacterial flagellum,Cell membrane,Complete proteome,Membrane,Reference proteome,Transmembrane,Transmembrane helix
+GO:C:bacterial-type flagellum basal body,C:integral component of membrane,C:intracellular,C:plasma membrane,P:bacterial-type flagellum assembly,P:protein targeting
+
+P0A1L5.1
+KW:Bacterial flagellum,Cell inner membrane,Cell membrane,Complete proteome,Membrane,Reference proteome,Transmembrane,Transmembrane helix
+GO:C:bacterial-type flagellum basal body,C:integral component of membrane,C:plasma membrane,P:bacterial-type flagellum assembly,P:protein secretion
+
+Q51468.2
+KW:Bacterial flagellum biogenesis,Bacterial flagellum protein export,Cell membrane,Complete proteome,Membrane,Protein transport,Reference proteome,Transmembrane,Transmembrane helix,Transport
+GO:C:bacterial-type flagellum basal body,C:integral component of membrane,C:plasma membrane,P:bacterial-type flagellum organization,P:protein secretion
+
+Q51467.2
+KW:Bacterial flagellum,Cell membrane,Chemotaxis,Complete proteome,Flagellar rotation,Membrane,Reference proteome,Transmembrane,Transmembrane helix
+GO:C:bacterial-type flagellum basal body,C:integral component of membrane,C:plasma membrane,P:archaeal or bacterial-type flagellum-dependent cell motility,P:bacterial-type flagellum organization,P:chemotaxis
+
+Q51466.2
+KW:Bacterial flagellum,Cell inner membrane,Cell membrane,Chemotaxis,Complete proteome,Flagellar rotation,Membrane,Reference proteome
+GO:C:bacterial-type flagellum basal body,C:plasma membrane,F:motor activity,P:bacterial-type flagellum-dependent cell motility,P:chemotaxis
+
+Q51465.2
+KW:Bacterial flagellum,Cell inner membrane,Cell membrane,Chemotaxis,Complete proteome,Flagellar rotation,Membrane,Reference proteome
+GO:C:bacterial-type flagellum basal body,C:plasma membrane,F:motor activity,P:bacterial-type flagellum-dependent cell motility,P:positive chemotaxis
+
+P9WJF0.1
+KW:Antibiotic resistance,Cell wall biogenesis/degradation,Complete proteome,FAD,Flavoprotein,Oxidoreductase,Periplasm
+GO:C:membrane,F:D-arabinono-1,4-lactone oxidase activity,F:flavin adenine dinucleotide binding,P:capsule polysaccharide biosynthetic process,P:cell wall organization
+
+P0DKC6.1
+KW:Complete proteome,Lipid biosynthesis,Lipid droplet,Lipid metabolism,Membrane,NADP,Oxidoreductase,Reference proteome,Signal-anchor,Steroid biosynthesis,Transmembrane,Transmembrane helix
+GO:C:integral component of membrane,C:lipid particle,F:11-beta-hydroxysteroid dehydrogenase (NADP+) activity,P:steroid biosynthetic process
+
+P27111.5
+KW:3D-structure,Activator,Complete proteome,Cytoplasm,DNA-binding,Reference proteome,Repressor,Transcription,Transcription regulation
+GO:C:cytoplasm,F:DNA binding,F:transcription factor activity, sequence-specific DNA binding,P:transcription, DNA-templated
+
+Q5ZUJ9.1
+KW:Aminoacyl-tRNA synthetase,ATP-binding,Complete proteome,Cytoplasm,Ligase,Metal-binding,Nucleotide-binding,Protein biosynthesis,Reference proteome,RNA-binding,tRNA-binding,Zinc
+GO:C:cytoplasm,F:alanine-tRNA ligase activity,F:ATP binding,F:tRNA binding,F:zinc ion binding,P:alanyl-tRNA aminoacylation
+
+P37864.2
+KW:Cytoplasm
+GO:C:cytoplasm,P:regulation of DNA repair
+
+Q5X4B5.1
+KW:ATP-binding,Cytoplasm,DNA damage,DNA recombination,DNA repair,DNA-binding,Nucleotide-binding,SOS response
+GO:C:cytoplasm,F:ATP binding,F:damaged DNA binding,F:DNA-dependent ATPase activity,F:single-stranded DNA binding,P:DNA recombination,P:DNA repair,P:SOS response
+
+P51967.1
+KW:Hydrolase,Pyridine nucleotide biosynthesis
+GO:F:nicotinamide-nucleotide amidase activity,P:pyridine nucleotide biosynthetic process
+
+Q5ZUJ3.2
+KW:ATP-binding,Complete proteome,DNA damage,DNA repair,DNA-binding,Nucleotide-binding,Reference proteome
+GO:F:ATP binding,F:damaged DNA binding,F:mismatched DNA binding,P:mismatch repair
+
+D2TN56.1
+KW:Cell outer membrane,Complete proteome,Membrane,Reference proteome,Signal,Transmembrane,Transmembrane beta strand,Virulence
+GO:C:cell outer membrane,C:integral component of membrane,P:pathogenesis
+
+E1WAU5.1
+KW:Cell inner membrane,Cell membrane,Complete proteome,Membrane,Signal-anchor,Transmembrane,Transmembrane helix,Virulence
+GO:C:integral component of membrane,C:plasma membrane,P:pathogenesis
+
+O67876.1
+KW:Complete proteome,Heme biosynthesis,Lyase,Magnesium,Metal-binding,Porphyrin biosynthesis,Reference proteome,Zinc
+GO:C:cytosol,F:porphobilinogen synthase activity,F:zinc ion binding,P:heme biosynthetic process,P:protoporphyrinogen IX biosynthetic process
+
+Q8ZNA5.2
+KW:Cell outer membrane,Complete proteome,Lipid transport,Membrane,Reference proteome,Signal,Transmembrane,Transmembrane beta strand,Transport
+GO:C:cell outer membrane,C:integral component of membrane,P:lipid transport
+
+O23653.2
+KW:Amino-acid biosynthesis,ATP-binding,Chloroplast,Complete proteome,Kinase,Nucleotide-binding,Plastid,Reference proteome,Repeat,Threonine biosynthesis,Transferase,Transit peptide
+GO:C:chloroplast stroma,F:amino acid binding,F:aspartate kinase activity,F:ATP binding,P:lysine biosynthetic process via diaminopimelate,P:threonine biosynthetic process
+
+B2UX57.1
+KW:ATP-binding,DNA damage,DNA repair,DNA-binding,Exonuclease,Helicase,Hydrolase,Nuclease,Nucleotide-binding
+GO:F:3'-5' exonuclease activity,F:ATP binding,F:ATP-dependent DNA helicase activity,F:double-stranded DNA binding,P:double-strand break repair via homologous recombination
+
+P45135.2
+KW:ATP-binding,Complete proteome,Hydrolase,Iron,Iron-sulfur,Metal-binding,Nucleotide-binding,Reference proteome
+GO:F:ATP binding,F:ATPase activity,F:iron-sulfur cluster binding,F:metal ion binding
+
+P44418.1
+KW:Activator,Complete proteome,DNA-binding,Reference proteome,Transcription,Transcription regulation
+GO:F:DNA binding,F:transcription factor activity, sequence-specific DNA binding,P:transcription, DNA-templated
+
+P57538.1
+KW:Cell membrane,Complete proteome,Membrane,Reference proteome,Transmembrane,Transmembrane helix,Transport
+GO:C:integral component of membrane,C:plasma membrane,P:transmembrane transport
+
+Q5ZUI0.1
+KW:ATP-binding,Complete proteome,Kinase,Lipid A biosynthesis,Lipid biosynthesis,Lipid metabolism,Nucleotide-binding,Reference proteome,Transferase
+GO:F:ATP binding,F:tetraacyldisaccharide 4'-kinase activity,P:lipid A biosynthetic process
+
+Q5ZUH9.2
+KW:ATP-binding,Cell inner membrane,Cell membrane,Complete proteome,Hydrolase,Lipid transport,Membrane,Nucleotide-binding,Reference proteome,Transmembrane,Transmembrane helix,Transport
+GO:C:ATP-binding cassette (ABC) transporter complex,F:ATP binding,F:lipid-transporting ATPase activity
+
+Q5X496.1
+KW:Cell membrane,Flavoprotein,FMN,Membrane,Oxidoreductase,Pyrimidine biosynthesis
+GO:C:cytoplasm,C:plasma membrane,F:dihydroorotate dehydrogenase activity,P:'de novo' pyrimidine nucleobase biosynthetic process,P:'de novo' UMP biosynthetic process
+
