@@ -1,0 +1,236 @@
+Genes/proteinas e respetivas funções:
+
+Genes/proteinas com funções conhecidas: 145
+Genes/proteinas com funções desconhecidas: 85 
+
+Gene    || Proteina        --> funcao
+lpg1618 || ['YP_095645.1'] --> ['Detoxification / adaptation, Protein fate / hydrolases / secretion']
+lpg1619 || ['YP_095646.1'] --> ['Cell envelope synthesis, Chemotaxis / motility / cell division, Metabolism of Complex Carbohydrates']
+lpg1620 || ['YP_095647.1'] --> ['Transcription factors / DNA binding proteins']
+lpg1621 || ['YP_095648.1'] --> Sem função conhecida!
+lpg1622 || ['YP_095649.1'] --> Sem função conhecida!
+lpg1623 || ['YP_095650.1'] --> Sem função conhecida!
+lpg1624 || ['YP_095651.1'] --> ['Protein fate / hydrolases / secretion']
+lpg1625 || ['YP_095652.1'] --> Sem função conhecida!
+lpg1626 || ['YP_095653.1'] --> ['Transport and binding']
+lpg1627 || ['YP_095654.1'] --> Sem função conhecida!
+lpg1628 || ['YP_095655.1'] --> Sem função conhecida!
+lpg1629 || ['YP_095656.1'] --> ['Protein fate / hydrolases / secretion']
+lpg1630 || ['YP_095657.1'] --> ['Lipid Metabolism']
+lpg1631 || ['YP_095658.1'] --> ['Lipid Metabolism']
+lpg1632 || ['YP_095659.1'] --> ['Metabolism of Complex Lipids']
+lpg1633 || ['YP_095660.1'] --> Sem função conhecida!
+lpg1634 || ['YP_095661.1'] --> Sem função conhecida!
+lpg1635 || ['YP_095662.1'] --> ['Biodegradation of Xenobiotics']
+lpg1636 || ['YP_095663.1'] --> Sem função conhecida!
+lpg1637 || ['YP_095664.1'] --> ['Metabolism of Complex Carbohydrates']
+lpg1638 || ['YP_095665.1'] --> ['Transport and binding']
+lpg1639 || ['YP_095666.1'] --> Sem função conhecida!
+lpg1640 || ['YP_095667.1'] --> Sem função conhecida!
+lpg1641 || ['YP_095668.1'] --> ['Protein fate / hydrolases / secretion']
+lpg1642 || ['YP_095669.1'] --> ['Toxin production / other pathogen functions']
+lpg1643 || ['YP_095670.2'] --> ['Amino Acid Metabolism, Metabolism of Cofactors and Vitamins']
+lpg1644 || ['YP_095671.1'] --> Sem função conhecida!
+lpg1645 || ['YP_095672.1'] --> Sem função conhecida!
+lpg1646 || ['YP_095673.1'] --> ['Toxin production / other pathogen functions, Energy Metabolism']
+lpg1647 || ['YP_095674.1'] --> Sem função conhecida!
+lpg1648 || ['YP_095675.1'] --> Sem função conhecida!
+lpg1649 || ['YP_095676.1'] --> ['Carbohydrate Metabolism']
+lpg1650 || ['YP_095677.1'] --> ['Carbohydrate Metabolism']
+lpg1651 || ['YP_095678.1'] --> ['Carbohydrate Metabolism']
+lpg1652 || ['YP_095679.1'] --> ['Carbohydrate Metabolism, Metabolism of Complex Lipids']
+lpg1653 || ['YP_095680.1'] --> ['Transport and binding']
+lpg1654 || ['YP_095681.1'] --> Sem função conhecida!
+lpg1655 || ['YP_095682.1'] --> ['Toxin production / other pathogen functions, Protein fate / hydrolases / secretion']
+lpg1656 || ['YP_095683.1'] --> Sem função conhecida!
+lpg1657 || ['YP_095684.1'] --> Sem função conhecida!
+lpg1658 || ['YP_095685.1'] --> ['Transport and binding']
+lpg1659 || ['YP_095686.1'] --> Sem função conhecida!
+lpg1660 || ['YP_095687.1'] --> Sem função conhecida!
+lpg1661 || ['YP_095688.1'] --> Sem função conhecida!
+lpg1662 || ['YP_095689.1'] --> ['Transport and binding']
+lpg1663 || ['YP_095690.1'] --> Sem função conhecida!
+lpg1664 || ['YP_095691.1'] --> ['Cell envelope synthesis, Metabolism of Complex Carbohydrates']
+lpg1665 || ['YP_095692.1'] --> Sem função conhecida!
+lpg1666 || ['YP_095693.1'] --> Sem função conhecida!
+lpg1667 || ['YP_095694.1'] --> Sem função conhecida!
+lpg1668 || ['YP_095695.1'] --> Sem função conhecida!
+lpg1669 || ['YP_095696.1'] --> ['Metabolism of Complex Carbohydrates']
+lpg1670 || ['YP_095697.1'] --> Sem função conhecida!
+lpg1671 || ['YP_095698.1'] --> ['Metabolism of Complex Carbohydrates']
+lpg1672 || ['YP_095699.1'] --> ['Nucleotide Metabolism, Metabolism of Cofactors and Vitamins']
+lpg1673 || ['YP_095700.1'] --> ['Nucleotide Metabolism']
+lpg1674 || ['YP_095701.1'] --> ['Nucleotide Metabolism, Amino Acid Metabolism']
+lpg1675 || ['YP_095702.1'] --> ['Nucleotide Metabolism']
+lpg1676 || ['YP_095703.1'] --> ['Nucleotide Metabolism']
+lpg1677 || ['YP_095704.1'] --> ['Nucleotide Metabolism']
+lpg1678 || ['YP_095705.1'] --> ['Nucleotide Metabolism']
+lpg1679 || ['YP_095706.1'] --> Sem função conhecida!
+lpg1680 || ['YP_095707.1'] --> Sem função conhecida!
+lpg1681 || ['YP_095708.1'] --> Sem função conhecida!
+lpg1682 || ['YP_095709.1'] --> Sem função conhecida!
+lpg1683 || ['YP_095710.1'] --> Sem função conhecida!
+lpg1684 || ['YP_095711.1'] --> Sem função conhecida!
+lpg1685 || ['YP_095712.1'] --> Sem função conhecida!
+lpg1686 || ['YP_095713.1'] --> Sem função conhecida!
+lpg1687 || ['YP_095714.1'] --> Sem função conhecida!
+lpg1688 || ['YP_095715.1'] --> ['Chemotaxis / motility / cell division, Signal transduction / other regulatory functions']
+lpg1689 || ['YP_095716.1'] --> Sem função conhecida!
+lpg1690 || ['YP_095717.1'] --> ['Carbohydrate Metabolism, Energy Metabolism']
+lpg1691 || ['YP_095718.1'] --> ['Transport and binding']
+lpg1692 || ['YP_095719.1'] --> Sem função conhecida!
+lpg1693 || ['YP_095720.1'] --> Sem função conhecida!
+lpg1694 || ['YP_095721.1'] --> ['Viral functions / Phage / Transposases']
+lpg1695 || ['YP_095722.1'] --> ['Viral functions / Phage / Transposases']
+lpg1696 || ['YP_095723.1'] --> ['Amino Acid Metabolism']
+lpg1697 || ['YP_095724.1'] --> Sem função conhecida!
+lpg1698 || ['YP_095725.1'] --> ['Detoxification / adaptation, Transcription factors / DNA binding proteins']
+lpg1699 || ['YP_095726.1'] --> ['Metabolism of Cofactors and Vitamins']
+lpg1700 || ['YP_095727.1'] --> ['Nucleotide Metabolism']
+lpg1701 || ['YP_095728.1'] --> Sem função conhecida!
+lpg1702 || ['YP_095729.1'] --> Sem função conhecida!
+lpg1703 || ['YP_095730.1'] --> ['Replication and Repair']
+lpg1704 || ['YP_095731.1'] --> ['Replication and Repair']
+lpg1705 || ['YP_095732.1'] --> ['Protein fate / hydrolases / secretion']
+lpg1706 || ['YP_095733.1'] --> ['Amino Acid Metabolism']
+lpg1707 || ['YP_095734.1'] --> ['Amino Acid Metabolism, Biodegradation of Xenobiotics']
+lpg1708 || ['YP_095735.1'] --> ['Amino Acid Metabolism, Nucleotide Metabolism']
+lpg1709 || ['YP_095736.1'] --> Sem função conhecida!
+lpg1710 || ['YP_095737.1'] --> Sem função conhecida!
+lpg1711 || ['YP_095738.1'] --> ['Translation']
+lpg1712 || ['YP_095739.1'] --> ['Nucleotide Metabolism']
+lpg1713 || ['YP_095740.2'] --> ['Translation']
+lpg1714 || ['YP_095741.2'] --> ['Translation']
+lpg1715 || ['YP_095742.1'] --> Sem função conhecida!
+lpg1716 || ['YP_095743.1'] --> Sem função conhecida!
+lpg1717 || ['YP_095744.1'] --> Sem função conhecida!
+lpg1718 || ['YP_095745.1'] --> Sem função conhecida!
+lpg1719 || ['YP_095746.1'] --> ['Protein fate / hydrolases / secretion']
+lpg1720 || ['YP_095747.1'] --> ['Signal transduction / other regulatory functions']
+lpg1721 || ['YP_095748.1'] --> ['Nucleotide Metabolism']
+lpg1722 || ['YP_095749.1'] --> ['Nucleotide Metabolism, Amino Acid Metabolism']
+lpg1723 || ['YP_095750.1'] --> ['Nucleotide Metabolism']
+lpg1724 || ['YP_095751.1'] --> ['Chemotaxis / motility / cell division, Signal transduction / other regulatory functions']
+lpg1726 || ['YP_095752.1'] --> ['Lipid Metabolism, Metabolism of Complex Lipids']
+lpg1727 || ['YP_095753.1'] --> ['Protein fate / hydrolases / secretion']
+lpg1728 || ['YP_095754.1'] --> Sem função conhecida!
+lpg1729 || ['YP_095755.1'] --> ['Transport and binding']
+lpg1730 || ['YP_095756.1'] --> ['Transport and binding']
+lpg1731 || ['YP_095757.1'] --> ['Transport and binding']
+lpg1732 || ['YP_095758.1'] --> Sem função conhecida!
+lpg1733 || ['YP_095759.1'] --> ['Transport and binding']
+lpg1734 || ['YP_095760.1'] --> ['Amino Acid Metabolism']
+lpg1735 || ['YP_095761.1'] --> ['DNA/RNA degradation / restriction, Translation']
+lpg1736 || ['YP_095762.1'] --> ['DNA/RNA degradation / restriction, Translation']
+lpg1737 || ['YP_095763.1'] --> ['DNA/RNA degradation / restriction, Translation']
+lpg1738 || ['YP_095764.1'] --> Sem função conhecida!
+lpg1739 || ['YP_095765.1'] --> ['Nucleotide Metabolism']
+lpg1740 || ['YP_095766.1'] --> Sem função conhecida!
+lpg1741 || ['YP_095767.1'] --> Sem função conhecida!
+lpg1742 || ['YP_095768.1'] --> Sem função conhecida!
+lpg1743 || ['YP_095769.1'] --> ['Transcription factors / DNA binding proteins']
+lpg1744 || ['YP_095770.1'] --> ['Transport and binding']
+lpg1745 || ['YP_095771.1'] --> ['Signal transduction / other regulatory functions']
+lpg1746 || ['YP_095772.1'] --> ['Amino Acid Metabolism']
+lpg1747 || ['YP_095773.1'] --> ['DNA/RNA degradation / restriction, Translation']
+lpg1748 || ['YP_095774.1'] --> ['Biosynthesis of Secondary Metabolites, Metabolism of Complex Lipids']
+lpg1749 || ['YP_095775.1'] --> ['Protein fate / hydrolases / secretion']
+lpg1750 || ['YP_095776.1'] --> ['Detoxification / adaptation, Protein fate / hydrolases / secretion']
+lpg1751 || ['YP_095777.1'] --> Sem função conhecida!
+lpg1752 || ['YP_095778.1'] --> Sem função conhecida!
+lpg1753 || ['YP_095779.1'] --> ['Cell envelope synthesis, Amino Acid Metabolism, Metabolism of Complex Lipids']
+lpg1754 || ['YP_095780.1'] --> Sem função conhecida!
+lpg1755 || ['YP_095781.1'] --> Sem função conhecida!
+lpg1756 || ['YP_095782.1'] --> ['Chemotaxis / motility / cell division']
+lpg1757 || ['YP_095783.1'] --> ['Chemotaxis / motility / cell division, Signal transduction / other regulatory functions, Nucleotide Metabolism']
+lpg1758 || ['YP_095784.1'] --> ['Transport and binding, Chemotaxis / motility / cell division']
+lpg1759 || ['YP_095785.1'] --> ['Chemotaxis / motility / cell division']
+lpg1760 || ['YP_095786.1'] --> ['Chemotaxis / motility / cell division']
+lpg1761 || ['YP_095787.1'] --> ['Chemotaxis / motility / cell division']
+lpg1762 || ['YP_095788.1'] --> ['Chemotaxis / motility / cell division, Signal transduction / other regulatory functions, Transcription factors / DNA binding proteins']
+lpg1763 || ['YP_095789.1'] --> ['Chemotaxis / motility / cell division, Signal transduction / other regulatory functions, Transcription factors / DNA binding proteins']
+lpg1764 || ['YP_095790.1'] --> ['DNA/RNA degradation / restriction']
+lpg1765 || ['YP_095791.1'] --> ['Transport and binding']
+lpg1766 || ['YP_095792.1'] --> ['Chemotaxis / motility / cell division']
+lpg1767 || ['YP_095793.1'] --> ['Nucleotide Metabolism']
+lpg1768 || ['YP_095794.1'] --> ['DNA/RNA degradation / restriction, Translation']
+lpg1769 || ['YP_095795.1'] --> Sem função conhecida!
+lpg1770 || ['YP_095796.1'] --> ['Translation']
+lpg1771 || ['YP_095797.1'] --> Sem função conhecida!
+lpg1772 || ['YP_095798.1'] --> Sem função conhecida!
+lpg1773 || ['YP_095799.1'] --> Sem função conhecida!
+lpg1774 || ['YP_095800.1'] --> ['Nucleotide Metabolism']
+lpg1775 || ['YP_095801.1'] --> ['Nucleotide Metabolism']
+lpg1776 || ['YP_095802.1'] --> Sem função conhecida!
+lpg1777 || ['YP_095803.1'] --> ['Amino Acid Metabolism, Translation']
+lpg1778 || ['YP_095804.1'] --> ['Translation']
+lpg1779 || ['YP_095805.1'] --> Sem função conhecida!
+lpg1780 || ['YP_095806.1'] --> ['Chemotaxis / motility / cell division']
+lpg1781 || ['YP_095807.1'] --> ['Chemotaxis / motility / cell division']
+lpg1782 || ['YP_095808.2'] --> ['Chemotaxis / motility / cell division, Transcription factors / DNA binding proteins']
+lpg1783 || ['YP_095809.1'] --> ['Chemotaxis / motility / cell division, Transcription factors / DNA binding proteins']
+lpg1784 || ['YP_095810.1'] --> ['Chemotaxis / motility / cell division']
+lpg1785 || ['YP_095811.1'] --> ['Chemotaxis / motility / cell division']
+lpg1786 || ['YP_095812.1'] --> ['Chemotaxis / motility / cell division']
+lpg1787 || ['YP_095813.1'] --> ['Chemotaxis / motility / cell division']
+lpg1788 || ['YP_095814.1'] --> ['Chemotaxis / motility / cell division']
+lpg1789 || ['YP_095815.1'] --> ['Chemotaxis / motility / cell division']
+lpg1790 || ['YP_095816.1'] --> ['Chemotaxis / motility / cell division']
+lpg1791 || ['YP_095817.1'] --> ['Chemotaxis / motility / cell division']
+lpg1792 || ['YP_095818.1'] --> ['Chemotaxis / motility / cell division']
+lpg1793 || ['YP_095819.1'] --> Sem função conhecida!
+lpg1794 || ['YP_095820.1'] --> Sem função conhecida!
+lpg1795 || ['YP_095821.1'] --> Sem função conhecida!
+lpg1796 || ['YP_095822.1'] --> ['Transcription factors / DNA binding proteins']
+lpg1797 || ['YP_095823.1'] --> Sem função conhecida!
+lpg1798 || ['YP_095824.1'] --> Sem função conhecida!
+lpg1799 || ['YP_095825.1'] --> ['Amino Acid Metabolism, Translation']
+lpg1800 || ['YP_095826.2'] --> ['Transcription factors / DNA binding proteins']
+lpg1801 || ['YP_095827.1'] --> ['Replication and Repair']
+lpg1802 || ['YP_095828.1'] --> Sem função conhecida!
+lpg1803 || ['YP_095829.1'] --> Sem função conhecida!
+lpg1804 || ['YP_095830.1'] --> ['Detoxification / adaptation']
+lpg1805 || ['YP_095831.1'] --> ['Replication and Repair']
+lpg1806 || ['YP_095832.1'] --> Sem função conhecida!
+lpg1807 || ['YP_095833.1'] --> Sem função conhecida!
+lpg1808 || ['YP_095834.1'] --> ['Metabolism of Cofactors and Vitamins']
+lpg1809 || ['YP_095835.1'] --> Sem função conhecida!
+lpg1810 || ['YP_095836.1'] --> ['Transport and binding']
+lpg1811 || ['YP_095837.1'] --> ['Amino Acid Metabolism']
+lpg1812 || ['YP_095838.1'] --> ['Replication and Repair']
+lpg1813 || ['YP_095839.1'] --> Sem função conhecida!
+lpg1814 || ['YP_095840.1'] --> Sem função conhecida!
+lpg1815 || ['YP_095841.1'] --> ['Detoxification / adaptation, Transcription factors / DNA binding proteins']
+lpg1816 || ['YP_095842.1'] --> ['Transport and binding']
+lpg1817 || ['YP_095843.1'] --> Sem função conhecida!
+lpg1818 || ['YP_095844.1'] --> ['Metabolism of Complex Carbohydrates']
+lpg1819 || ['YP_095845.1'] --> Sem função conhecida!
+lpg1820 || ['YP_095846.1'] --> Sem função conhecida!
+lpg1821 || ['YP_095847.1'] --> ['Nucleotide Metabolism']
+lpg1822 || ['YP_095848.1'] --> Sem função conhecida!
+lpg1823 || ['YP_095849.1'] --> Sem função conhecida!
+lpg1824 || ['YP_095850.1'] --> ['Amino Acid Metabolism']
+lpg1825 || ['YP_095851.1'] --> ['Lipid Metabolism, Amino Acid Metabolism, Carbohydrate Metabolism, Biodegradation of Xenobiotics']
+lpg1826 || ['YP_095852.1'] --> Sem função conhecida!
+lpg1827 || ['YP_095853.1'] --> ['Amino Acid Metabolism, Carbohydrate Metabolism']
+lpg1828 || ['YP_095854.1'] --> ['Lipid Metabolism, Amino Acid Metabolism, Metabolism of Other Amino Acids, Biodegradation of Xenobiotics, Carbohydrate Metabolism']
+lpg1829 || ['YP_095855.1'] --> ['Lipid Metabolism']
+lpg1830 || ['YP_095856.1'] --> ['Lipid Metabolism, Amino Acid Metabolism, Carbohydrate Metabolism']
+lpg1831 || ['YP_095857.1'] --> ['Carbohydrate Metabolism']
+lpg1832 || ['YP_095858.1'] --> ['Toxin production / other pathogen functions']
+lpg1833 || ['YP_095859.1'] --> ['Transport and binding']
+lpg1834 || ['YP_095860.1'] --> ['Transport and binding']
+lpg1835 || ['YP_095861.1'] --> ['Transport and binding']
+lpg1836 || ['YP_095862.1'] --> Sem função conhecida!
+lpg1837 || ['YP_095863.1'] --> Sem função conhecida!
+lpg1838 || ['YP_095864.1'] --> ['Amino Acid Metabolism']
+lpg1839 || ['YP_095865.1'] --> ['Amino Acid Metabolism, Translation']
+lpg1840 || ['YP_095866.1'] --> ['Amino Acid Metabolism, Translation']
+lpg1841 || ['YP_095867.1'] --> Sem função conhecida!
+lpg1842 || ['YP_095868.2'] --> ['Replication and Repair']
+lpg1843 || ['YP_095869.1'] --> ['Amino Acid Metabolism']
+lpg1844 || ['YP_095870.1'] --> ['DNA/RNA degradation / restriction, Translation']
+lpg1845 || ['YP_095871.1'] --> ['Cell envelope synthesis, Toxin production / other pathogen functions']
+lpg1846 || ['YP_095872.1'] --> ['Amino Acid Metabolism, Metabolism of Other Amino Acids']
+lpg1847 || ['YP_095873.1'] --> ['Amino Acid Metabolism, Metabolism of Other Amino Acids']
+lpg1848 || ['YP_095874.1'] --> ['Transport and binding']
