@@ -1,0 +1,231 @@
+GeneID|Accession Number|Locus Tag|Gene|Strand|Protein ID(NCBI)|Function|Protein Name
+19833183|NC_002942.5|lpg1618|-|-1|YP_095645.1|Detoxification / adaptation, Protein fate / hydrolases / secretion|beta-lactamase AmpS
+19833184|NC_002942.5|lpg1619|ftsI4|-1|YP_095646.1|Cell envelope synthesis, Chemotaxis / motility / cell division, Metabolism of Complex Carbohydrates|cell division protein FtsI
+19833185|NC_002942.5|lpg1620|-|-1|YP_095647.1|Transcription factors / DNA binding proteins|hypothetical protein lpg1620
+19833186|NC_002942.5|lpg1621|-|-1|YP_095648.1|-|hypothetical protein lpg1621
+19833187|NC_002942.5|lpg1622|-|-1|YP_095649.1|-|hypothetical protein lpg1622
+19833188|NC_002942.5|lpg1623|-|-1|YP_095650.1|-|hydrogenase
+19833189|NC_002942.5|lpg1624|-|1|YP_095651.1|Protein fate / hydrolases / secretion|alpha/beta hydrolase
+19833190|NC_002942.5|lpg1625|-|-1|YP_095652.1|-|hypothetical protein lpg1625
+19833191|NC_002942.5|lpg1626|-|-1|YP_095653.1|Transport and binding|copper efflux ATPase
+19833192|NC_002942.5|lpg1627|-|1|YP_095654.1|-|secreted protein
+19833193|NC_002942.5|lpg1628|-|-1|YP_095655.1|-|coenzyme F390 synthetase FtsA
+19833194|NC_002942.5|lpg1629|-|-1|YP_095656.1|Protein fate / hydrolases / secretion|Zn-dependent hydrolase GumP
+19833195|NC_002942.5|lpg1630|-|-1|YP_095657.1|Lipid Metabolism|3-beta-hydroxysteroid dehydrogenase/isomerase
+19833196|NC_002942.5|lpg1631|-|-1|YP_095658.1|Lipid Metabolism|3-oxoacyl-ACP synthase
+19833197|NC_002942.5|lpg1632|-|1|YP_095659.1|Metabolism of Complex Lipids|glycosyltransferase
+19833198|NC_002942.5|lpg1633|-|1|YP_095660.1|-|hypothetical protein lpg1633
+19833199|NC_002942.5|lpg1634|-|-1|YP_095661.1|-|oxidase
+19833200|NC_002942.5|lpg1635|-|1|YP_095662.1|Biodegradation of Xenobiotics|dienelactone hydrolase
+19833201|NC_002942.5|lpg1636|-|1|YP_095663.1|-|acetyltransferase
+19833202|NC_002942.5|lpg1637|-|1|YP_095664.1|Metabolism of Complex Carbohydrates|polysaccharide deacetylase
+19833203|NC_002942.5|lpg1638|-|1|YP_095665.1|Transport and binding|drug:proton antiporter
+19833204|NC_002942.5|lpg1639|-|-1|YP_095666.1|-|hypothetical protein lpg1639
+19833205|NC_002942.5|lpg1640|-|1|YP_095667.1|-|transmembrane protein
+19833206|NC_002942.5|lpg1641|-|-1|YP_095668.1|Protein fate / hydrolases / secretion|acylaminoacyl peptidase
+19833207|NC_002942.5|lpg1642|sidB|-1|YP_095669.1|Toxin production / other pathogen functions|protein SidB
+19833208|NC_002942.5|lpg1643|thrC|-1|YP_095670.2|Amino Acid Metabolism, Metabolism of Cofactors and Vitamins|threonine synthase
+19833209|NC_002942.5|lpg1644|-|-1|YP_095671.1|-|hypothetical protein lpg1644
+19833210|NC_002942.5|lpg1645|-|-1|YP_095672.1|-|hypothetical protein lpg1645
+19833211|NC_002942.5|lpg1646|-|-1|YP_095673.1|Toxin production / other pathogen functions, Energy Metabolism|cytochrome b561 transmembrane protein
+19833212|NC_002942.5|lpg1647|-|-1|YP_095674.1|-|hypothetical protein lpg1647
+19833213|NC_002942.5|lpg1648|-|-1|YP_095675.1|-|signal peptide protein
+19833214|NC_002942.5|lpg1649|iolE|-1|YP_095676.1|Carbohydrate Metabolism|myo-inositol catabolism protein IolE
+19833215|NC_002942.5|lpg1650|iolD|-1|YP_095677.1|Carbohydrate Metabolism|3D-(3,5/4)-trihydroxycyclohexane-1,2-dione acylhydrolase (decyclizing)
+19833216|NC_002942.5|lpg1651|-|-1|YP_095678.1|Carbohydrate Metabolism|IolC/IolB transferase kinase
+19833217|NC_002942.5|lpg1652|-|-1|YP_095679.1|Carbohydrate Metabolism, Metabolism of Complex Lipids|myo-inositol-2-dehydrogenase
+19833218|NC_002942.5|lpg1653|-|-1|YP_095680.1|Transport and binding|D-xylose-proton symporter
+19833219|NC_002942.5|lpg1654|-|-1|YP_095681.1|-|hypothetical protein lpg1654
+19833220|NC_002942.5|lpg1655|lasB|-1|YP_095682.1|Toxin production / other pathogen functions, Protein fate / hydrolases / secretion|class 4 metalloprotease
+19833221|NC_002942.5|lpg1656|-|-1|YP_095683.1|-|hypothetical protein lpg1656
+19833222|NC_002942.5|lpg1657|-|1|YP_095684.1|-|NG,NG-dimethylarginine dimethylaminohydrolase
+19833223|NC_002942.5|lpg1658|-|1|YP_095685.1|Transport and binding|amino acid antiporter
+19833224|NC_002942.5|lpg1659|-|1|YP_095686.1|-|hypothetical protein lpg1659
+19833225|NC_002942.5|lpg1660|legL3|1|YP_095687.1|-|hypothetical protein lpg1660
+19833226|NC_002942.5|lpg1661|-|-1|YP_095688.1|-|hypothetical protein lpg1661
+19833227|NC_002942.5|lpg1662|-|1|YP_095689.1|Transport and binding|transporter
+19833228|NC_002942.5|lpg1663|-|1|YP_095690.1|-|hypothetical protein lpg1663
+19833229|NC_002942.5|lpg1664|-|-1|YP_095691.1|Cell envelope synthesis, Metabolism of Complex Carbohydrates|penicillin binding protein 1C, peptidoglycan biosynthesis
+19833230|NC_002942.5|lpg1665|-|1|YP_095692.1|-|hypothetical protein lpg1665
+19833231|NC_002942.5|lpg1666|-|-1|YP_095693.1|-|hypothetical protein lpg1666
+19833232|NC_002942.5|lpg1667|-|-1|YP_095694.1|-|hypothetical protein lpg1667
+19833233|NC_002942.5|lpg1668|-|-1|YP_095695.1|-|hypothetical protein lpg1668
+19833234|NC_002942.5|lpg1669|-|-1|YP_095696.1|Metabolism of Complex Carbohydrates|alpha-amylase
+19833235|NC_002942.5|lpg1670|-|1|YP_095697.1|-|hypothetical protein lpg1670
+19833236|NC_002942.5|lpg1671|-|1|YP_095698.1|Metabolism of Complex Carbohydrates|alpha-amylase
+19833237|NC_002942.5|lpg1672|-|-1|YP_095699.1|Nucleotide Metabolism, Metabolism of Cofactors and Vitamins|phosphoribosylglycinamide formyltransferase
+19833238|NC_002942.5|lpg1673|-|-1|YP_095700.1|Nucleotide Metabolism|phosphoribosylamine-glycine ligase
+19833239|NC_002942.5|lpg1674|purF|-1|YP_095701.1|Nucleotide Metabolism, Amino Acid Metabolism|amidophosphoribosyltransferase
+19833240|NC_002942.5|lpg1675|-|-1|YP_095702.1|Nucleotide Metabolism|phosphoribosylaminoimidazole-succinocarboxamide synthase
+19833241|NC_002942.5|lpg1676|purQ|-1|YP_095703.1|Nucleotide Metabolism|phosphoribosylformylglycinamidine synthase I
+19833242|NC_002942.5|lpg1677|purM|-1|YP_095704.1|Nucleotide Metabolism|phosphoribosylaminoimidazole synthetase
+19833243|NC_002942.5|lpg1678|purL2|-1|YP_095705.1|Nucleotide Metabolism|phosphoribosylformylglycinamidine synthase II
+19833244|NC_002942.5|lpg1679|-|-1|YP_095706.1|-|hypothetical protein lpg1679
+19833245|NC_002942.5|lpg1680|dsbD|-1|YP_095707.1|-|thiol:disulfide interchange protein DsbD
+19833246|NC_002942.5|lpg1681|-|-1|YP_095708.1|-|hypothetical protein lpg1681
+19833247|NC_002942.5|lpg1682|-|-1|YP_095709.1|-|short chain dehydrogenase/reductase oxidoreductase
+19833248|NC_002942.5|lpg1683|-|1|YP_095710.1|-|hypothetical protein lpg1683
+19833249|NC_002942.5|lpg1684|-|1|YP_095711.1|-|hypothetical protein lpg1684
+19833250|NC_002942.5|lpg1685|-|-1|YP_095712.1|-|hypothetical protein lpg1685
+19833251|NC_002942.5|lpg1686|-|1|YP_095713.1|-|hypothetical protein lpg1686
+19833252|NC_002942.5|lpg1687|-|-1|YP_095714.1|-|hypothetical protein lpg1687
+19833253|NC_002942.5|lpg1688|-|-1|YP_095715.1|Chemotaxis / motility / cell division, Signal transduction / other regulatory functions|flagellar hook-length control protein
+19833254|NC_002942.5|lpg1689|-|1|YP_095716.1|-|hypothetical protein lpg1689
+19833255|NC_002942.5|lpg1690|acnA|1|YP_095717.1|Carbohydrate Metabolism, Energy Metabolism|aconitate hydratase
+19833256|NC_002942.5|lpg1691|-|1|YP_095718.1|Transport and binding|amino acid antiporter
+19833257|NC_002942.5|lpg1692|-|1|YP_095719.1|-|hypothetical protein lpg1692
+19833258|NC_002942.5|lpg1693|-|-1|YP_095720.1|-|hypothetical protein lpg1693
+19833259|NC_002942.5|lpg1694|-|-1|YP_095721.1|Viral functions / Phage / Transposases|transposase IS630 family
+19833260|NC_002942.5|lpg1695|-|-1|YP_095722.1|Viral functions / Phage / Transposases|transposase IS630 family
+19833261|NC_002942.5|lpg1696|putA|-1|YP_095723.1|Amino Acid Metabolism|bifunctional proline dehydrogenase/pyrroline-5-carboxylate dehydrogenase
+19833262|NC_002942.5|lpg1697|-|1|YP_095724.1|-|hypothetical protein lpg1697
+19833263|NC_002942.5|lpg1698|-|1|YP_095725.1|Detoxification / adaptation, Transcription factors / DNA binding proteins|ProQ-like, activator of ProP osmoprotectant transporter
+19833264|NC_002942.5|lpg1699|ubiG|-1|YP_095726.1|Metabolism of Cofactors and Vitamins|3-demethylubiquinone-9 3-methyltransferase
+19833265|NC_002942.5|lpg1700|-|-1|YP_095727.1|Nucleotide Metabolism|uracil DNA glycosylase
+19833266|NC_002942.5|lpg1701|legC3|1|YP_095728.1|-|kinectin 1
+19833267|NC_002942.5|lpg1702|-|1|YP_095729.1|-|hypothetical protein lpg1702
+19833268|NC_002942.5|lpg1703|-|-1|YP_095730.1|Replication and Repair|SOS mutagenesis and repair UmuC protein
+19833269|NC_002942.5|lpg1704|-|-1|YP_095731.1|Replication and Repair|SOS (error prone) mutagenesis protein UmuD (RumA)
+19833270|NC_002942.5|lpg1705|-|1|YP_095732.1|Protein fate / hydrolases / secretion|hypothetical protein lpg1705
+19833271|NC_002942.5|lpg1706|-|1|YP_095733.1|Amino Acid Metabolism|arginine N-succinyltransferase subunit beta
+19833272|NC_002942.5|lpg1707|astD|1|YP_095734.1|Amino Acid Metabolism, Biodegradation of Xenobiotics|succinylglutamic semialdehyde dehydrogenase
+19833273|NC_002942.5|lpg1708|astB|1|YP_095735.1|Amino Acid Metabolism, Nucleotide Metabolism|succinylarginine dihydrolase
+19833274|NC_002942.5|lpg1709|-|1|YP_095736.1|-|hypothetical protein lpg1709
+19833275|NC_002942.5|lpg1710|-|-1|YP_095737.1|-|hypothetical protein lpg1710
+19833276|NC_002942.5|lpg1711|frr|-1|YP_095738.1|Translation|ribosome recycling factor
+19833277|NC_002942.5|lpg1712|pyrH|-1|YP_095739.1|Nucleotide Metabolism|uridylate kinase
+19833278|NC_002942.5|lpg1713|tsf|-1|YP_095740.2|Translation|elongation factor Ts
+19833279|NC_002942.5|lpg1714|rpsB|-1|YP_095741.2|Translation|30S ribosomal protein S2
+19833280|NC_002942.5|lpg1715|-|1|YP_095742.1|-|hypothetical protein lpg1715
+19833281|NC_002942.5|lpg1716|-|1|YP_095743.1|-|hypothetical protein lpg1716
+19833282|NC_002942.5|lpg1717|-|-1|YP_095744.1|-|hypothetical protein lpg1717
+19833283|NC_002942.5|lpg1718|legAS4|-1|YP_095745.1|-|hypothetical protein lpg1718
+19833284|NC_002942.5|lpg1719|map|1|YP_095746.1|Protein fate / hydrolases / secretion|methionine aminopeptidase
+19833285|NC_002942.5|lpg1720|glnD|1|YP_095747.1|Signal transduction / other regulatory functions|protein-PII uridylyltransferase
+19833286|NC_002942.5|lpg1721|yfhC|-1|YP_095748.1|Nucleotide Metabolism|deaminase
+19833287|NC_002942.5|lpg1722|guaA|-1|YP_095749.1|Nucleotide Metabolism, Amino Acid Metabolism|GMP synthase
+19833288|NC_002942.5|lpg1723|guaB|-1|YP_095750.1|Nucleotide Metabolism|inosine-5'-monophosphate dehydrogenase
+19833289|NC_002942.5|lpg1724|minD|1|YP_095751.1|Chemotaxis / motility / cell division, Signal transduction / other regulatory functions|septum site-determining protein MinD
+19833291|NC_002942.5|lpg1726|fadE|-1|YP_095752.1|Lipid Metabolism, Metabolism of Complex Lipids|acyl-CoA dehydrogenase
+19833292|NC_002942.5|lpg1727|-|-1|YP_095753.1|Protein fate / hydrolases / secretion|hydrolase
+19833293|NC_002942.5|lpg1728|-|-1|YP_095754.1|-|hypothetical protein lpg1728
+19833294|NC_002942.5|lpg1729|ugpC|-1|YP_095755.1|Transport and binding|sn-glycerol-3-phosphate transport, ATP-binding protein
+19833295|NC_002942.5|lpg1730|ugpE|-1|YP_095756.1|Transport and binding|sn-glycerol-3-phosphate transmembrane ABC transporter
+19833296|NC_002942.5|lpg1731|ugpA|-1|YP_095757.1|Transport and binding|sn-glycerol-3-phosphate transmembrane ABC transporter
+19833297|NC_002942.5|lpg1732|qor|1|YP_095758.1|-|quinone oxidoreductase
+19833298|NC_002942.5|lpg1733|-|-1|YP_095759.1|Transport and binding|chloride channel protein
+19833299|NC_002942.5|lpg1734|-|-1|YP_095760.1|Amino Acid Metabolism|anthranilate synthase
+19833300|NC_002942.5|lpg1735|gatC|1|YP_095761.1|DNA/RNA degradation / restriction, Translation|glutamyl/tRNA (Gln) amidotransferase subunit C
+19833301|NC_002942.5|lpg1736|gatA|1|YP_095762.1|DNA/RNA degradation / restriction, Translation|aspartyl/glutamyl-tRNA amidotransferase subunit A
+19833303|NC_002942.5|lpg1737|gatB|1|YP_095763.1|DNA/RNA degradation / restriction, Translation|aspartyl/glutamyl-tRNA amidotransferase subunit B
+19833304|NC_002942.5|lpg1738|-|1|YP_095764.1|-|hypothetical protein lpg1738
+19833305|NC_002942.5|lpg1739|gidA|1|YP_095765.1|Nucleotide Metabolism|hypothetical protein lpg1739
+19833306|NC_002942.5|lpg1740|-|1|YP_095766.1|-|hypothetical protein lpg1740
+19833307|NC_002942.5|lpg1741|-|1|YP_095767.1|-|hypothetical protein lpg1741
+19833308|NC_002942.5|lpg1742|-|1|YP_095768.1|-|hypothetical protein lpg1742
+19833309|NC_002942.5|lpg1743|fis|-1|YP_095769.1|Transcription factors / DNA binding proteins|Fis family transcriptional regulator
+19833310|NC_002942.5|lpg1744|ydiC|-1|YP_095770.1|Transport and binding|HesB family protein
+19833311|NC_002942.5|lpg1745|-|-1|YP_095771.1|Signal transduction / other regulatory functions|NifU family iron binding protein [Fe-S] cluster formation/repair protein IscU, HesB
+19833312|NC_002942.5|lpg1746|iscS|-1|YP_095772.1|Amino Acid Metabolism|cysteine desulfurase
+19833313|NC_002942.5|lpg1747|-|-1|YP_095773.1|DNA/RNA degradation / restriction, Translation|RNA methyltransferase
+19833314|NC_002942.5|lpg1748|suhB|1|YP_095774.1|Biosynthesis of Secondary Metabolites, Metabolism of Complex Lipids|inositol monophosphatase
+19833315|NC_002942.5|lpg1749|sppA|-1|YP_095775.1|Protein fate / hydrolases / secretion|signal peptide peptidase
+19833316|NC_002942.5|lpg1750|clpB|1|YP_095776.1|Detoxification / adaptation, Protein fate / hydrolases / secretion|endopeptidase Clp ATP-binding chain B (ClpB)
+19833317|NC_002942.5|lpg1751|-|-1|YP_095777.1|-|hypothetical protein lpg1751
+19833318|NC_002942.5|lpg1752|-|-1|YP_095778.1|-|hypothetical protein lpg1752
+19833319|NC_002942.5|lpg1753|mpl|-1|YP_095779.1|Cell envelope synthesis, Amino Acid Metabolism, Metabolism of Complex Lipids|UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl- meso-diaminopimelate ligase
+19833320|NC_002942.5|lpg1754|-|-1|YP_095780.1|-|hypothetical protein lpg1754
+19833321|NC_002942.5|lpg1755|-|-1|YP_095781.1|-|transmembrane protein
+19833322|NC_002942.5|lpg1756|fliJ|-1|YP_095782.1|Chemotaxis / motility / cell division|flagellar protein FliJ
+19833323|NC_002942.5|lpg1757|fliI|-1|YP_095783.1|Chemotaxis / motility / cell division, Signal transduction / other regulatory functions, Nucleotide Metabolism|flagellum-specific ATP synthase FliI
+19833324|NC_002942.5|lpg1758|fliH|-1|YP_095784.1|Transport and binding, Chemotaxis / motility / cell division|flagellar assembly protein FliH
+19833325|NC_002942.5|lpg1759|fliG|-1|YP_095785.1|Chemotaxis / motility / cell division|flagellar motor switch protein FliG
+19833326|NC_002942.5|lpg1760|fliF|-1|YP_095786.1|Chemotaxis / motility / cell division|flagellar MS-ring protein
+19833327|NC_002942.5|lpg1761|-|-1|YP_095787.1|Chemotaxis / motility / cell division|flagellar hook-basal body protein FliE
+19833328|NC_002942.5|lpg1762|fleR|-1|YP_095788.1|Chemotaxis / motility / cell division, Signal transduction / other regulatory functions, Transcription factors / DNA binding proteins|sigma 54-dependent response regulator
+19833329|NC_002942.5|lpg1763|flrB|-1|YP_095789.1|Chemotaxis / motility / cell division, Signal transduction / other regulatory functions, Transcription factors / DNA binding proteins|sensor kinase HydH
+19833330|NC_002942.5|lpg1764|-|-1|YP_095790.1|DNA/RNA degradation / restriction|recombination factor protein RarA
+19833331|NC_002942.5|lpg1765|lolA|-1|YP_095791.1|Transport and binding|outer membrane lipoprotein carrier protein
+19833332|NC_002942.5|lpg1766|ftsK|-1|YP_095792.1|Chemotaxis / motility / cell division|DNA translocase FtsK
+19833333|NC_002942.5|lpg1767|trxB1|1|YP_095793.1|Nucleotide Metabolism|thioredoxin reductase
+19833334|NC_002942.5|lpg1768|aat|1|YP_095794.1|DNA/RNA degradation / restriction, Translation|leucyl/phenylalanyl-tRNA--protein transferase
+19833335|NC_002942.5|lpg1769|-|1|YP_095795.1|-|rhodanese domain-containing protein
+19833336|NC_002942.5|lpg1770|infA|1|YP_095796.1|Translation|translation initiation factor IF-1
+19833337|NC_002942.5|lpg1771|pmbA|-1|YP_095797.1|-|peptide maturation protein PmbA
+19833338|NC_002942.5|lpg1772|-|1|YP_095798.1|-|hypothetical protein lpg1772
+19833339|NC_002942.5|lpg1773|-|1|YP_095799.1|-|small stress protein PASS1
+19833340|NC_002942.5|lpg1774|nrdA|1|YP_095800.1|Nucleotide Metabolism|ribonucleotide-diphosphate reductase subunit alpha
+19833341|NC_002942.5|lpg1775|nrdB|1|YP_095801.1|Nucleotide Metabolism|ribonucleotide-diphosphate reductase subunit beta
+19833342|NC_002942.5|lpg1776|-|1|YP_095802.1|-|hypothetical protein lpg1776
+19833343|NC_002942.5|lpg1777|lysU|-1|YP_095803.1|Amino Acid Metabolism, Translation|lysine tRNA synthetase, heat inducible
+19833344|NC_002942.5|lpg1778|prfB|-1|YP_095804.1|Translation|peptide chain release factor 2
+19833345|NC_002942.5|lpg1779|-|-1|YP_095805.1|-|hypothetical protein lpg1779
+19833346|NC_002942.5|lpg1780|motB|-1|YP_095806.1|Chemotaxis / motility / cell division|flagellar motor protein MotD
+19833347|NC_002942.5|lpg1781|motC|-1|YP_095807.1|Chemotaxis / motility / cell division|flagellar motor protein
+19833348|NC_002942.5|lpg1782|fliA|-1|YP_095808.2|Chemotaxis / motility / cell division, Transcription factors / DNA binding proteins|flagellar biosynthesis sigma factor
+19833349|NC_002942.5|lpg1783|-|-1|YP_095809.1|Chemotaxis / motility / cell division, Transcription factors / DNA binding proteins|flagellar biosynthesis MinD
+19833350|NC_002942.5|lpg1784|flhF|-1|YP_095810.1|Chemotaxis / motility / cell division|flagellar biosynthesis regulator FlhF
+19833351|NC_002942.5|lpg1785|flhA|-1|YP_095811.1|Chemotaxis / motility / cell division|flagellar biosynthesis protein FlhA
+19833352|NC_002942.5|lpg1786|flhB|-1|YP_095812.1|Chemotaxis / motility / cell division|flagellar biosynthesis protein FlhB
+19833353|NC_002942.5|lpg1787|fliR|-1|YP_095813.1|Chemotaxis / motility / cell division|flagellar biosynthetic protein FliR
+19833354|NC_002942.5|lpg1788|fliQ|-1|YP_095814.1|Chemotaxis / motility / cell division|flagellar biosynthetic protein FliQ
+19833355|NC_002942.5|lpg1789|fliP|-1|YP_095815.1|Chemotaxis / motility / cell division|flagellar biosynthesis protein FliP
+19833356|NC_002942.5|lpg1790|fliO|-1|YP_095816.1|Chemotaxis / motility / cell division|flagellar assembly protein FliO
+19833357|NC_002942.5|lpg1791|-|-1|YP_095817.1|Chemotaxis / motility / cell division|flagellar motor switch protein FliN
+19833358|NC_002942.5|lpg1792|fliM|-1|YP_095818.1|Chemotaxis / motility / cell division|flagellar motor switch protein FliM
+19833359|NC_002942.5|lpg1793|-|-1|YP_095819.1|-|hypothetical protein lpg1793
+19833360|NC_002942.5|lpg1794|-|1|YP_095820.1|-|L-gululonolactone oxidase
+19833361|NC_002942.5|lpg1795|-|1|YP_095821.1|-|short chain dehydrogenase/reductase oxidoreductase
+19833362|NC_002942.5|lpg1796|-|1|YP_095822.1|Transcription factors / DNA binding proteins|LysR family transcriptional regulator
+19833363|NC_002942.5|lpg1797|-|1|YP_095823.1|-|hypothetical protein lpg1797
+19833364|NC_002942.5|lpg1798|-|-1|YP_095824.1|-|hypothetical protein lpg1798
+19833365|NC_002942.5|lpg1799|alaS|-1|YP_095825.1|Amino Acid Metabolism, Translation|alanyl-tRNA synthetase
+19833366|NC_002942.5|lpg1800|recX|-1|YP_095826.2|Transcription factors / DNA binding proteins|recombination regulator RecX
+19833367|NC_002942.5|lpg1801|recA|-1|YP_095827.1|Replication and Repair|recombinase A
+19833368|NC_002942.5|lpg1802|-|-1|YP_095828.1|-|hypothetical protein lpg1802
+19833369|NC_002942.5|lpg1803|-|-1|YP_095829.1|-|hypothetical protein lpg1803
+19833370|NC_002942.5|lpg1804|-|-1|YP_095830.1|Detoxification / adaptation|CinA-related competence damage protein
+19833371|NC_002942.5|lpg1805|mutS|1|YP_095831.1|Replication and Repair|DNA mismatch repair protein MutS
+19833372|NC_002942.5|lpg1806|-|1|YP_095832.1|-|hypothetical protein lpg1806
+19833373|NC_002942.5|lpg1807|-|1|YP_095833.1|-|hypothetical protein lpg1807
+19833374|NC_002942.5|lpg1808|hemB|1|YP_095834.1|Metabolism of Cofactors and Vitamins|delta-aminolevulinic acid dehydratase
+19833375|NC_002942.5|lpg1809|-|1|YP_095835.1|-|hypothetical protein lpg1809
+19833376|NC_002942.5|lpg1810|-|-1|YP_095836.1|Transport and binding|hypothetical protein lpg1810
+19833377|NC_002942.5|lpg1811|lysC|1|YP_095837.1|Amino Acid Metabolism|bifunctional aspartate kinase/diaminopimelate decarboxylase
+19833378|NC_002942.5|lpg1812|-|1|YP_095838.1|Replication and Repair|ATP-dependent DNA helicase
+19833379|NC_002942.5|lpg1813|mrp|1|YP_095839.1|-|ATPase (Mrp)
+19833380|NC_002942.5|lpg1814|-|1|YP_095840.1|-|hypothetical protein lpg1814
+19833381|NC_002942.5|lpg1815|oxyR|-1|YP_095841.1|Detoxification / adaptation, Transcription factors / DNA binding proteins|hydrogen peroxide-inducible genes activator OxyR
+19833382|NC_002942.5|lpg1816|-|1|YP_095842.1|Transport and binding|major facilitator family transporter
+19833383|NC_002942.5|lpg1817|-|-1|YP_095843.1|-|hypothetical protein lpg1817
+19833384|NC_002942.5|lpg1818|lpxK|-1|YP_095844.1|Metabolism of Complex Carbohydrates|tetraacyldisaccharide 4'-kinase
+19833385|NC_002942.5|lpg1819|-|-1|YP_095845.1|-|lipid ABC transporter permease/ATP-binding protein
+19833386|NC_002942.5|lpg1820|-|-1|YP_095846.1|-|hypothetical protein lpg1820
+19833387|NC_002942.5|lpg1821|pyrD|-1|YP_095847.1|Nucleotide Metabolism|dihydroorotate dehydrogenase 2
+19833388|NC_002942.5|lpg1822|-|-1|YP_095848.1|-|hypothetical protein lpg1822
+19833389|NC_002942.5|lpg1823|-|-1|YP_095849.1|-|hypothetical protein lpg1823
+19833390|NC_002942.5|lpg1824|-|1|YP_095850.1|Amino Acid Metabolism|acyl CoA dehydrogenase
+19833391|NC_002942.5|lpg1825|atoB|1|YP_095851.1|Lipid Metabolism, Amino Acid Metabolism, Carbohydrate Metabolism, Biodegradation of Xenobiotics|acyl CoA C-acetyltransferase
+19833392|NC_002942.5|lpg1826|-|1|YP_095852.1|-|hypothetical protein lpg1826
+19833393|NC_002942.5|lpg1827|-|1|YP_095853.1|Amino Acid Metabolism, Carbohydrate Metabolism|propionyl CoA carboxylase subunit beta
+19833394|NC_002942.5|lpg1828|-|1|YP_095854.1|Lipid Metabolism, Amino Acid Metabolism, Metabolism of Other Amino Acids, Biodegradation of Xenobiotics, Carbohydrate Metabolism|enoyl CoA hydratase
+19833395|NC_002942.5|lpg1829|-|1|YP_095855.1|Lipid Metabolism|acyl CoA carboxylase subunit alpha
+19833396|NC_002942.5|lpg1830|mvaB|1|YP_095856.1|Lipid Metabolism, Amino Acid Metabolism, Carbohydrate Metabolism|hydroxymethylglutaryl-CoA lyase
+19833397|NC_002942.5|lpg1831|-|1|YP_095857.1|Carbohydrate Metabolism|acetoacetyl-CoA synthetase
+19833398|NC_002942.5|lpg1832|-|-1|YP_095858.1|Toxin production / other pathogen functions|hypothetical protein lpg1832
+19833399|NC_002942.5|lpg1833|metN|1|YP_095859.1|Transport and binding|DL-methionine transporter ATP-binding subunit
+19833400|NC_002942.5|lpg1834|metI|1|YP_095860.1|Transport and binding|ATP-binding protein, permease
+19833401|NC_002942.5|lpg1835|-|1|YP_095861.1|Transport and binding|hypothetical protein lpg1835
+19833402|NC_002942.5|lpg1836|-|1|YP_095862.1|-|coiled coil domain-containing protein
+19833403|NC_002942.5|lpg1837|-|-1|YP_095863.1|-|SAM-dependent methyltransferase
+19833404|NC_002942.5|lpg1838|-|-1|YP_095864.1|Amino Acid Metabolism|D,D-heptose 1,7-bisphosphate phosphatase
+19833405|NC_002942.5|lpg1839|glyS|-1|YP_095865.1|Amino Acid Metabolism, Translation|glycyl tRNA synthetase subunit beta
+19833406|NC_002942.5|lpg1840|glyQ|-1|YP_095866.1|Amino Acid Metabolism, Translation|glycyl-tRNA synthetase subunit alpha
+19833407|NC_002942.5|lpg1841|com1|-1|YP_095867.1|-|hypothetical protein lpg1841
+19833408|NC_002942.5|lpg1842|uvrD|-1|YP_095868.2|Replication and Repair|DNA-dependent helicase II
+19833409|NC_002942.5|lpg1843|pip|1|YP_095869.1|Amino Acid Metabolism|proline iminopeptidase
+19833410|NC_002942.5|lpg1844|dtD|1|YP_095870.1|DNA/RNA degradation / restriction, Translation|D-tyrosyl-tRNA(Tyr) deacylase
+19833411|NC_002942.5|lpg1845|vacJ|1|YP_095871.1|Cell envelope synthesis, Toxin production / other pathogen functions|lipoprotein VacJ-like
+19833412|NC_002942.5|lpg1846|gshB|-1|YP_095872.1|Amino Acid Metabolism, Metabolism of Other Amino Acids|glutathione synthetase
+19833413|NC_002942.5|lpg1847|-|-1|YP_095873.1|Amino Acid Metabolism, Metabolism of Other Amino Acids|glutamate--cysteine ligase
+19833414|NC_002942.5|lpg1848|-|1|YP_095874.1|Transport and binding|ABC transporter transmembrane permease,permeases of drug/metabolite transporter type
