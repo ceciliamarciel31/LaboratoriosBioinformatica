@@ -1,0 +1,575 @@
+-->lpg1821
+-->lpg1720
+-!- DOMAIN: Has four distinct domains: an N-terminal
+
+DOMAIN      441    570       HD. {ECO:0000255|HAMAP-Rule:MF_00277}.
+
+DOMAIN      679    760       ACT 1. {ECO:0000255|HAMAP-Rule:MF_00277}.
+
+DOMAIN      788    861       ACT 2. {ECO:0000255|HAMAP-Rule:MF_00277}.
+
+-->lpg1691
+-->lpg1678
+DOMAIN       88    206       AIRS. {ECO:0000259|Pfam:PF00586}.
+
+DOMAIN      226    361       AIRS_C. {ECO:0000259|Pfam:PF02769}.
+
+DOMAIN      492    603       AIRS. {ECO:0000259|Pfam:PF00586}.
+
+DOMAIN      619    752       AIRS_C. {ECO:0000259|Pfam:PF02769}.
+
+-->lpg1723
+DOMAIN       94    149       CBS. {ECO:0000259|PROSITE:PS51371}.
+
+DOMAIN      153    214       CBS. {ECO:0000259|PROSITE:PS51371}.
+
+-->lpg1753
+DOMAIN        4    105       Mur_ligase. {ECO:0000259|Pfam:PF01225}.
+
+DOMAIN      110    294       Mur_ligase_M. {ECO:0000259|Pfam:PF08245}.
+
+DOMAIN      315    383       Mur_ligase_C. {ECO:0000259|Pfam:PF02875}.
+
+-->lpg1674
+DOMAIN        2    238       Glutamine amidotransferase type-2.
+
+-->lpg1712
+-->lpg1722
+DOMAIN        8    206       Glutamine amidotransferase type-1.
+
+DOMAIN      207    400       GMPS ATP-PPase. {ECO:0000255|HAMAP-
+
+-->lpg1673
+DOMAIN      111    321       ATP-grasp. {ECO:0000259|PROSITE:PS50975}.
+
+-->lpg1775
+-->lpg1696
+DOMAIN       71    183       Pro_dh-DNA_bdg.
+
+DOMAIN      194    488       Pro_dh. {ECO:0000259|Pfam:PF01619}.
+
+DOMAIN      577   1029       Aldedh. {ECO:0000259|Pfam:PF00171}.
+
+-->lpg1672
+DOMAIN        5    184       Formyl_trans_N.
+
+-->lpg1623
+DOMAIN      154    303       TRUD. {ECO:0000255|HAMAP-Rule:MF_01082}.
+
+-->lpg1799
+-!- DOMAIN: Consists of three domains; the N-terminal catalytic
+
+-->lpg1819
+-!- DOMAIN: In MsbA the ATP-binding domain (NBD) and the transmembrane
+
+DOMAIN       27    310       ABC transmembrane type-1.
+
+DOMAIN      342    576       ABC transporter. {ECO:0000255|HAMAP-
+
+-->lpg1777
+-->lpg1782
+DOMAIN       69     82       RNA_pol_sigma70.
+
+-->lpg1676
+DOMAIN        3    249       Glutamine amidotransferase type-1.
+
+-->lpg1846
+DOMAIN      126    312       ATP-grasp. {ECO:0000259|PROSITE:PS50975}.
+
+-->lpg1708
+-->lpg1833
+DOMAIN        2    237       ABC transporter. {ECO:0000255|HAMAP-
+
+-->lpg1707
+-->lpg1801
+-->lpg1721
+DOMAIN        1    121       CMP/dCMP-type deaminase.
+
+-->lpg1699
+-->lpg1735
+-->lpg1677
+DOMAIN       70    165       AIRS. {ECO:0000259|Pfam:PF00586}.
+
+DOMAIN      188    352       AIRS_C. {ECO:0000259|Pfam:PF02769}.
+
+-->lpg1818
+-->lpg1837
+-->lpg1747
+DOMAIN        6    155       SpoU_methylase.
+
+-->lpg1719
+DOMAIN       12    241       Peptidase_M24.
+
+-->lpg1808
+-->lpg1737
+-->lpg1839
+DOMAIN      580    680       DALR_1. {ECO:0000259|Pfam:PF05746}.
+
+-->lpg1736
+-->lpg1789
+-->lpg1730
+DOMAIN       56    247       ABC transmembrane type-1.
+
+-->lpg1840
+-->lpg1787
+-->lpg1770
+DOMAIN        1     72       S1-like. {ECO:0000255|HAMAP-
+
+-->lpg1774
+DOMAIN       27    127       ATP-cone. {ECO:0000259|PROSITE:PS51161}.
+
+DOMAIN      142    231       ATP-cone. {ECO:0000259|PROSITE:PS51161}.
+
+-->lpg1750
+DOMAIN      198    343       AAA. {ECO:0000259|SMART:SM00382}.
+
+DOMAIN      597    755       AAA. {ECO:0000259|SMART:SM00382}.
+
+DOMAIN      766    855       ClpB_D2-small.
+
+-->lpg1618
+DOMAIN       53    255       Transpeptidase.
+
+-->lpg1805
+-->lpg1765
+-->lpg1675
+DOMAIN       35    281       SAICAR_synt. {ECO:0000259|Pfam:PF01259}.
+
+-->lpg1778
+DOMAIN      212    228       RF_PROK_I. {ECO:0000259|PROSITE:PS00745}.
+
+-->lpg1813
+-->lpg1759
+DOMAIN        1    100       FliG_N. {ECO:0000259|Pfam:PF14842}.
+
+DOMAIN      113    184       FliG_M. {ECO:0000259|Pfam:PF14841}.
+
+DOMAIN      214    320       FliG_C. {ECO:0000259|Pfam:PF01706}.
+
+-->lpg1792
+DOMAIN      284    353       FliMN_C. {ECO:0000259|Pfam:PF01052}.
+
+-->lpg1757
+DOMAIN      163    346       AAA. {ECO:0000259|SMART:SM00382}.
+
+-->lpg1766
+DOMAIN      434    647       FtsK. {ECO:0000259|PROSITE:PS50901}.
+
+-->lpg1811
+DOMAIN      326    399       ACT. {ECO:0000259|PROSITE:PS51671}.
+
+-->lpg1791
+DOMAIN       29     99       FliMN_C. {ECO:0000259|Pfam:PF01052}.
+
+-->lpg1767
+DOMAIN       41    331       FAD/NAD-binding_dom.
+
+-->lpg1842
+DOMAIN       17    295       UvrD-like helicase ATP-binding.
+
+DOMAIN      296    574       UvrD-like helicase C-terminal.
+
+-->lpg1790
+-->lpg1760
+DOMAIN       29    220       YscJ_FliF. {ECO:0000259|Pfam:PF01514}.
+
+DOMAIN      253    435       YscJ_FliF_C. {ECO:0000259|Pfam:PF08345}.
+
+-->lpg1843
+DOMAIN       36    294       AB hydrolase-1 (Alpha/Beta hydrolase fold
+
+-->lpg1714
+-->lpg1626
+DOMAIN      190    413       E1-E2_ATPase. {ECO:0000259|Pfam:PF00122}.
+
+-->lpg1761
+-->lpg1838
+-->lpg1689
+-->lpg1706
+-->lpg1680
+DOMAIN      319    457       Thioredoxin.
+
+-->lpg1724
+DOMAIN        3    160       AAA_31. {ECO:0000259|Pfam:PF13614}.
+
+-->lpg1812
+DOMAIN        2    486       UvrD-like helicase ATP-binding.
+
+DOMAIN      498    759       UvrD-like helicase C-terminal.
+
+-->lpg1739
+DOMAIN      513    645       Guanylate cyclase.
+
+-->lpg1825
+DOMAIN        6    264       Thiolase_N. {ECO:0000259|Pfam:PF00108}.
+
+DOMAIN      272    392       Thiolase_C. {ECO:0000259|Pfam:PF02803}.
+
+-->lpg1704
+DOMAIN      101    166       Peptidase_S24.
+
+-->lpg1834
+DOMAIN       13    205       ABC transmembrane type-1.
+
+-->lpg1748
+-->lpg1841
+DOMAIN       70    260       Thioredoxin.
+
+-->lpg1731
+DOMAIN       69    281       ABC transmembrane type-1.
+
+-->lpg1783
+-->lpg1650
+DOMAIN        6    195       TPP_enzyme_N. {ECO:0000259|Pfam:PF02776}.
+
+DOMAIN      219    352       TPP_enzyme_M. {ECO:0000259|Pfam:PF00205}.
+
+DOMAIN      417    577       TPP_enzyme_C. {ECO:0000259|Pfam:PF02775}.
+
+-->lpg1781
+DOMAIN      105    214       MotA_ExbB. {ECO:0000259|Pfam:PF01618}.
+
+-->lpg1762
+DOMAIN       19    133       Response regulatory.
+
+DOMAIN      144    373       Sigma-54 factor interaction.
+
+-->lpg1734
+DOMAIN      524    718       Glutamine amidotransferase type-1.
+
+-->lpg1786
+-->lpg1746
+DOMAIN        6    368       Aminotran_5. {ECO:0000259|Pfam:PF00266}.
+
+-->lpg1729
+DOMAIN        4    234       ABC transporter.
+
+-->lpg1788
+-->lpg1824
+DOMAIN       15    125       Acyl-CoA_dh_N.
+
+DOMAIN      129    224       Acyl-CoA_dh_M.
+
+DOMAIN      236    384       Acyl-CoA_dh_1.
+
+-->lpg1785
+-->lpg1726
+DOMAIN      143    236       Acyl-CoA_dh_N.
+
+DOMAIN      241    332       Acyl-CoA_dh_M.
+
+DOMAIN      364    511       Acyl-CoA_dh_1.
+
+DOMAIN      518    796       DUF1974. {ECO:0000259|Pfam:PF09317}.
+
+-->lpg1701
+-->lpg1744
+DOMAIN       14    116       Fe-S_biosyn. {ECO:0000259|Pfam:PF01521}.
+
+-->lpg1655
+DOMAIN      232    393       Peptidase_M4. {ECO:0000259|Pfam:PF01447}.
+
+DOMAIN      397    548       Peptidase_M4_C.
+
+-->lpg1619
+DOMAIN        3    257       Peptidase_M56.
+
+DOMAIN      364    626       Transpeptidase.
+
+-->lpg1784
+DOMAIN      166    332       AAA. {ECO:0000259|SMART:SM00382}.
+
+DOMAIN      167    359       SRP54. {ECO:0000259|SMART:SM00962}.
+
+-->lpg1828
+-->lpg1795
+-->lpg1763
+DOMAIN       25     55       PAS (PER-ARNT-SIM).
+
+DOMAIN      133    339       Histidine kinase.
+
+-->lpg1653
+DOMAIN       12    433       MFS. {ECO:0000259|PROSITE:PS50850}.
+
+-->lpg1749
+DOMAIN      133    274       Peptidase_S49.
+
+-->lpg1829
+DOMAIN       24    469       Biotin carboxylation.
+
+DOMAIN      143    340       ATP-grasp. {ECO:0000259|PROSITE:PS50975}.
+
+DOMAIN      595    674       Lipoyl-binding.
+
+-->lpg1794
+DOMAIN       14    181       FAD-binding PCMH-type.
+
+-->lpg1733
+-->lpg1646
+DOMAIN       10    176       Ni_hydr_CYTB. {ECO:0000259|Pfam:PF01292}.
+
+-->lpg1718
+DOMAIN      114    234       SET. {ECO:0000259|PROSITE:PS50280}.
+
+DOMAIN      333    433       ANK_REP_REGION.
+
+-->lpg1743
+DOMAIN       44     84       HTH_8. {ECO:0000259|Pfam:PF02954}.
+
+-->lpg1845
+-->lpg1815
+DOMAIN        1     58       HTH lysR-type DNA-binding.
+
+-->lpg1710
+DOMAIN       19    121       Cytochrome c.
+
+-->lpg1779
+-->lpg1621
+-->lpg1669
+DOMAIN       30    395       Aamy. {ECO:0000259|SMART:SM00642}.
+
+-->lpg1705
+DOMAIN      201    299       M20_dimer. {ECO:0000259|Pfam:PF07687}.
+
+-->lpg1643
+DOMAIN       26     84       Thr_synth_N. {ECO:0000259|Pfam:PF14821}.
+
+DOMAIN      116    393       PALP. {ECO:0000259|Pfam:PF00291}.
+
+-->lpg1647
+DOMAIN       30    193       YceI. {ECO:0000259|SMART:SM00867}.
+
+-->lpg1671
+DOMAIN       21    398       Aamy. {ECO:0000259|SMART:SM00642}.
+
+-->lpg1835
+-->lpg1780
+DOMAIN      116    236       OmpA-like. {ECO:0000259|PROSITE:PS51123}.
+
+-->lpg1830
+DOMAIN        7    274       Pyruvate carboxyltransferase.
+
+-->lpg1702
+-->lpg1658
+-->lpg1662
+DOMAIN        5    198       MFS. {ECO:0000259|PROSITE:PS50850}.
+
+-->lpg1665
+DOMAIN     1057   1196       A2M_N_2. {ECO:0000259|SMART:SM01359}.
+
+DOMAIN     1262   1352       A2M. {ECO:0000259|SMART:SM01360}.
+
+-->lpg1700
+-->lpg1631
+DOMAIN      109    186       ACP_syn_III. {ECO:0000259|Pfam:PF08545}.
+
+DOMAIN      239    327       ACP_syn_III_C.
+
+-->lpg1816
+DOMAIN       35    429       MFS. {ECO:0000259|PROSITE:PS50850}.
+
+-->lpg1664
+DOMAIN       60    220       Transgly. {ECO:0000259|Pfam:PF00912}.
+
+DOMAIN      305    522       Transpeptidase.
+
+DOMAIN      684    763       BiPBP_C. {ECO:0000259|Pfam:PF06832}.
+
+-->lpg1651
+DOMAIN       16    326       PfkB. {ECO:0000259|Pfam:PF00294}.
+
+-->lpg1732
+DOMAIN       20    329       PKS_ER. {ECO:0000259|SMART:SM00829}.
+
+-->lpg1796
+DOMAIN       34     91       HTH lysR-type DNA-binding.
+
+-->lpg1738
+DOMAIN       49    318       Autotransporter (TC 1.B.12).
+
+-->lpg1634
+DOMAIN       49    282       FAD-binding PCMH-type.
+
+DOMAIN      645    676       4Fe-4S ferredoxin-type.
+
+-->lpg1640
+-->lpg1745
+DOMAIN        2    121       NifU_N. {ECO:0000259|Pfam:PF01592}.
+
+-->lpg1764
+DOMAIN       45    161       AAA. {ECO:0000259|SMART:SM00382}.
+
+-->lpg1756
+-->lpg1630
+DOMAIN        4    252       3Beta_HSD. {ECO:0000259|Pfam:PF01073}.
+
+-->lpg1682
+-->lpg1638
+DOMAIN       48    432       MFS. {ECO:0000259|PROSITE:PS50850}.
+
+-->lpg1800
+-->lpg1715
+-->lpg1807
+-->lpg1848
+DOMAIN       10    142       EamA. {ECO:0000259|Pfam:PF00892}.
+
+DOMAIN      152    288       EamA. {ECO:0000259|Pfam:PF00892}.
+
+-->lpg1728
+-->lpg1755
+DOMAIN      508    790       DUF3971. {ECO:0000259|Pfam:PF13116}.
+
+DOMAIN     1014   1261       AsmA_2. {ECO:0000259|Pfam:PF13502}.
+
+-->lpg1827
+DOMAIN       28    242       CoA carboxyltransferase N-terminal.
+
+DOMAIN      243    529       CoA carboxyltransferase C-terminal.
+
+-->lpg1633
+DOMAIN      133    196       PAP2_C. {ECO:0000259|Pfam:PF14360}.
+
+-->lpg1773
+DOMAIN       93    251       JmjC. {ECO:0000259|PROSITE:PS51184}.
+
+-->lpg1659
+-->lpg1826
+-->lpg1803
+-->lpg1822
+-->lpg1776
+-->lpg1661
+DOMAIN       10    223       DUF1624. {ECO:0000259|Pfam:PF07786}.
+
+-->lpg1666
+-->lpg1798
+DOMAIN        1    218       Rho-GAP. {ECO:0000259|PROSITE:PS50238}.
+
+-->lpg1622
+-->lpg1681
+-->lpg1703
+DOMAIN       15    195       UmuC. {ECO:0000259|PROSITE:PS50173}.
+
+-->lpg1754
+-->lpg1831
+DOMAIN       54    108       ACAS_N. {ECO:0000259|Pfam:PF16177}.
+
+DOMAIN      114    540       AMP-binding. {ECO:0000259|Pfam:PF00501}.
+
+-->lpg1688
+DOMAIN      296    376       Flg_hook. {ECO:0000259|Pfam:PF02120}.
+
+-->lpg1625
+-->lpg1637
+DOMAIN       65    276       NodB homology.
+
+-->lpg1771
+-->lpg1620
+-->lpg1648
+-->lpg1741
+DOMAIN       52    148       FecR. {ECO:0000259|Pfam:PF04773}.
+
+-->lpg1686
+-->lpg1793
+-->lpg1809
+-->lpg1698
+DOMAIN       10    122       ProQ. {ECO:0000259|SMART:SM00945}.
+
+-->lpg1697
+DOMAIN       42    210       YkuD_2. {ECO:0000259|Pfam:PF13645}.
+
+-->lpg1832
+-->lpg1817
+-->lpg1668
+-->lpg1645
+DOMAIN       27    188       YceI. {ECO:0000259|SMART:SM00867}.
+
+-->lpg1751
+-->lpg1836
+-->lpg1649
+DOMAIN       39    253       AP_endonuc_2. {ECO:0000259|Pfam:PF01261}.
+
+-->lpg1652
+DOMAIN        7    123       GFO_IDH_MocA. {ECO:0000259|Pfam:PF01408}.
+
+DOMAIN      166    232       GFO_IDH_MocA_C.
+
+-->lpg1636
+DOMAIN        5    137       N-acetyltransferase.
+
+-->lpg1727
+DOMAIN        7    249       AB hydrolase-1 (Alpha/Beta hydrolase fold
+
+-->lpg1641
+DOMAIN      453    658       Peptidase_S9. {ECO:0000259|Pfam:PF00326}.
+
+-->lpg1635
+-->lpg1797
+-->lpg1667
+-->lpg1629
+DOMAIN       36    265       Lactamase_B. {ECO:0000259|SMART:SM00849}.
+
+-->lpg1632
+DOMAIN       21    196       Glyco_trans_4-like_N.
+
+DOMAIN      208    370       Glycos_transf_1.
+
+-->lpg1624
+DOMAIN       62    300       AB hydrolase-1 (Alpha/Beta hydrolase fold
+
+-->lpg1642
+-->lpg1644
+DOMAIN       62    253       OMP_b-brl. {ECO:0000259|Pfam:PF13505}.
+
+-->lpg1806
+DOMAIN      326    544       Bac_surface_Ag.
+
+-->lpg1657
+-->lpg1656
+DOMAIN      177    279       RimK. {ECO:0000259|Pfam:PF08443}.
+
+-->lpg1847
+-->lpg1694
+-->lpg1758
+DOMAIN       68    194       FliH. {ECO:0000259|Pfam:PF02108}.
+
+-->lpg1820
+DOMAIN      138    268       N-acetyltransferase.
+
+-->lpg1660
+-->lpg1684
+-->lpg1683
+-->lpg1670
+-->lpg1769
+DOMAIN       33    123       Rhodanese. {ECO:0000259|PROSITE:PS50206}.
+
+-->lpg1804
+DOMAIN        7    158       CinA. {ECO:0000259|Pfam:PF02464}.
+
+DOMAIN        1    150       RECA_2. {ECO:0000259|PROSITE:PS50162}.
+
+-->lpg1709
+-->lpg1810
+-->lpg1772
+DOMAIN       95    255       NAGPA. {ECO:0000259|Pfam:PF09992}.
+
+-->lpg1628
+-->lpg1823
+-->lpg1654
+-->lpg1639
+-->lpg1814
+-->lpg1742
+-->lpg1679
+-->lpg1687
+-->lpg1695
+DOMAIN       40     85       HTH_33. {ECO:0000259|Pfam:PF13592}.
+
+-->lpg1752
+-->lpg1740
+-->lpg1627
+-->lpg1717
+-->lpg1685
+-->lpg1663
+-->lpg1693
+-->lpg1716
+-->lpg1802
+-->lpg1692
